@@ -1,0 +1,50 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x556fdd8abd00] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from '/workspace/bupa-videos/edicion_instagram_v1/recursos/bupa_adulto_mayor_70/concat.txt':
+  Duration: N/A, start: 0.000000, bitrate: 720 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 720 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 libx264
+[aist#1:0/pcm_f32le @ 0x556fdd92a200] Guessed Channel Layout: stereo
+Input #1, wav, from '/workspace/bupa-videos/edicion_instagram_v1/recursos/campana_salud_112bpm.wav':
+  Duration: 00:00:32.00, bitrate: 3072 kb/s
+  Stream #1:0: Audio: pcm_f32le ([3][0][0][0] / 0x0003), 48000 Hz, stereo, flt, 3072 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #1:0 -> #0:1 (pcm_f32le (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to '/workspace/bupa-videos/edicion_instagram_v1/renders_revision/bupa_adulto_mayor_70_instagram_whatsapp_v1_REVISION_SIN_VOZ.mp4':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 720 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 libx264
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        encoder         : Lavc61.19.101 aac
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x556fdd8abd00] Auto-inserting h264_mp4toannexb bitstream filter
+frame=  169 fps=0.0 q=-1.0 size=     512KiB time=00:00:05.44 bitrate= 771.1kbits/s speed=10.9x    [mov,mp4,m4a,3gp,3g2,mj2 @ 0x556fdd8abd00] Auto-inserting h264_mp4toannexb bitstream filter
+frame=  360 fps=360 q=-1.0 size=    1024KiB time=00:00:11.88 bitrate= 706.0kbits/s speed=11.9x    [mov,mp4,m4a,3gp,3g2,mj2 @ 0x556fdd8abd00] Auto-inserting h264_mp4toannexb bitstream filter
+    Last message repeated 1 times
+frame=  567 fps=378 q=-1.0 size=    1792KiB time=00:00:18.73 bitrate= 783.8kbits/s speed=12.5x    [mov,mp4,m4a,3gp,3g2,mj2 @ 0x556fdd8abd00] Auto-inserting h264_mp4toannexb bitstream filter
+    Last message repeated 1 times
+frame=  793 fps=396 q=-1.0 size=    2560KiB time=00:00:26.24 bitrate= 799.2kbits/s speed=13.1x    [Parsed_loudnorm_4 @ 0x7f4418004680] 
+{
+	"input_i" : "-35.07",
+	"input_tp" : "-17.78",
+	"input_lra" : "4.20",
+	"input_thresh" : "-45.09",
+	"output_i" : "-16.37",
+	"output_tp" : "-2.20",
+	"output_lra" : "1.50",
+	"output_thresh" : "-26.37",
+	"normalization_type" : "dynamic",
+	"target_offset" : "0.37"
+}
+[mp4 @ 0x556fdd92a540] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0x556fdd92a440] video:2173KiB audio:614KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 1.206703%
+frame=  900 fps=394 q=-1.0 Lsize=    2820KiB time=00:00:29.93 bitrate= 771.9kbits/s speed=13.1x    
+[aac @ 0x556fdd8ac8c0] Qavg: 23588.625

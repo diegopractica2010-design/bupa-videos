@@ -1,0 +1,72 @@
+{
+  "id": "V01",
+  "file": "renders_revision/bupa_adulto_mayor_70_instagram_whatsapp_v1_REVISION_SIN_VOZ.mp4",
+  "sha256": "1121cd2b3c55cdfdbc49ccc0a1eba5c200c0d865a20115fde1409fc6646e2e6f",
+  "checks": {
+    "dimensions": true,
+    "fps": true,
+    "frames": true,
+    "duration": true,
+    "video_codec": true,
+    "rec709": true,
+    "audio": true,
+    "faststart": true,
+    "full_decode": true,
+    "music_only_lufs": true,
+    "music_only_truepeak": true,
+    "background_conversion": true
+  },
+  "loudness_music_only": {
+    "input_i": "-16.55",
+    "input_tp": "-1.85",
+    "input_lra": "2.90",
+    "input_thresh": "-26.58",
+    "output_i": "-16.31",
+    "output_tp": "-1.74",
+    "output_lra": "1.50",
+    "output_thresh": "-26.31",
+    "normalization_type": "dynamic",
+    "target_offset": "0.31"
+  },
+  "background_rgb_samples": [
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ]
+  ],
+  "missing_stock": [
+    "ORD-V01-S01",
+    "ORD-V01-S02",
+    "ORD-V01-S04",
+    "ORD-V01-S05"
+  ],
+  "publication": "BLOQUEADA",
+  "voice": "AUSENTE_AUTORIZACION_PENDIENTE",
+  "subtitle_sync": "PROVISIONAL_SIN_VOZ_NO_VERIFICABLE"
+}

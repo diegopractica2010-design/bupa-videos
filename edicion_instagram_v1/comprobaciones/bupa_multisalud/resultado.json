@@ -1,0 +1,67 @@
+{
+  "id": "V05",
+  "file": "renders_revision/bupa_multisalud_instagram_whatsapp_v1_REVISION_SIN_VOZ.mp4",
+  "sha256": "2e4384fe8836189549591744c3bc8d606f3d2720cad21ee7aeb2e973c7d12b82",
+  "checks": {
+    "dimensions": true,
+    "fps": true,
+    "frames": true,
+    "duration": true,
+    "video_codec": true,
+    "rec709": true,
+    "audio": true,
+    "faststart": true,
+    "full_decode": true,
+    "music_only_lufs": true,
+    "music_only_truepeak": true,
+    "background_conversion": true
+  },
+  "loudness_music_only": {
+    "input_i": "-16.54",
+    "input_tp": "-1.86",
+    "input_lra": "2.40",
+    "input_thresh": "-26.54",
+    "output_i": "-16.30",
+    "output_tp": "-1.73",
+    "output_lra": "2.10",
+    "output_thresh": "-26.30",
+    "normalization_type": "dynamic",
+    "target_offset": "0.30"
+  },
+  "background_rgb_samples": [
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ]
+  ],
+  "missing_stock": [],
+  "publication": "BLOQUEADA",
+  "voice": "AUSENTE_AUTORIZACION_PENDIENTE",
+  "subtitle_sync": "PROVISIONAL_SIN_VOZ_NO_VERIFICABLE"
+}

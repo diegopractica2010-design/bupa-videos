@@ -1,0 +1,22 @@
+# Bitácora de ejecución y límites
+
+1. Se comprobó la presencia real de 10 MP4 y de FFmpeg/FFprobe en /workspace. No se accedió al PC del usuario.
+2. Se descargaron los adjuntos DOCX/PDF; se extrajeron las tablas y órdenes. No se encontraron los tres JSON originales ni el paquete auditoria/evidencias. Se transcribieron 100 órdenes y 60 escenas con referencia al DOCX. Los enlaces por producto coinciden literalmente con el Anexo A.
+3. Se calcularon hashes de los originales: los diez coinciden con los del informe. Se conservaron intactos.
+4. Se obtuvieron Montserrat y OFL del repositorio oficial, manteniendo TLS. Se crearon pesos 700 y 800 y se archivaron la fuente y licencia.
+5. Se generaron gráficos vectoriales/PNG y música sintética original según la especificación recibida. Las 12 escenas sin tomas limpias llevan marcadores explícitos; no se eligió stock no autorizado. Los logos y la voz no se fabricaron.
+6. Se generaron guiones de locución, subtítulos de lectura provisionales, captions, mensajes específicos de WhatsApp y cierre con el número confirmado. La sincronía de voz queda pendiente porque no existe nueva voz autorizada.
+7. Las primeras pruebas revelaron desbordes de texto por la diferencia de anchura de los pesos tipográficos y rutas largas en marcadores: se corrigió el cálculo con el peso real y se muestran solo nombres de archivo.
+8. Se corrigió una doble interpretación de rango de color manteniendo el proyecto gráfico en RGB hasta la conversión real a YUV Rec.709 limitado. Se restauraron explícitamente los metadatos Rec.709 en el flujo H.264 y contenedor exportado.
+9. Se separaron los cortes internos directos de los fundidos de entrada/salida de escena para evitar que desaparezca la capa gráfica en mitad de una frase.
+10. Se midió la mezcla musical en dos pasadas. Una comprobación del AAC decodificado detectó sobrepico respecto del PCM: se amplió el margen previo a codificación a −2,2 dBTP. La aceptación sigue siendo ≤−1,5 dBTP en el MP4, no se relajó el límite.
+11. La revisión visual de hojas de contacto detectó segmentos de pruebas anteriores en una reutilización de caché. Se decidió regenerar TODOS los segmentos con el generador corregido antes de la comprobación final; no se certificaron esos segmentos antiguos. Se añadió una guarda de conversión del fondo en las seis escenas de cada exportación.
+12. Las verificaciones finales se ejecutan sobre los MP4 de revisión entregados: formato, perfiles, 30fps, duración y cantidad de fotogramas, tags Rec.709, decodificación completa, faststart, picos y LUFS de música sola, fondo gráfico y hashes de originales. Los resultados efectivos están en resumen_qa.json y verificacion.log; esta bitácora no los sustituye.
+
+Pendientes de naturaleza distinta a QA técnica: fichas vigentes y conformidad del contenido, logs/licencias de stock, logos oficiales, voz comercial autorizada, montaje de tomas limpias, mezcla con voz, sincronía real de subtítulos, escucha humana, revisión móvil y apertura de enlaces, cuenta/botón Meta. No se han aprobado piezas para publicación. No se contactó a terceros ni se activaron anuncios/campañas.
+
+13. Revisión independiente por agentes, autorizada expresamente por el usuario: se quitó el header de identidad duplicado en la presentación S02 (el título principal conserva el producto), se suprimió el desplazamiento de 12 px al entrar en la segunda mitad del corte interno y se añadieron colas de 20 ms a cero por evento sintético para evitar discontinuidades audibles al amplificar. Se regeneraron los 25 segmentos visuales afectados y se remultiplexaron las diez piezas con la nueva música. La escucha humana sigue pendiente.
+
+14. Segunda revisión visual: se movió la etiqueta del calendario sobre su icono para eliminar la colisión con el titular, se restauraron los separadores de las órdenes detalladas V06-S03 y V08-S03, y se añadió comprobación de intersección de cajas de texto. Se regeneró todo el montaje con estas mejoras. La caché opcional usa ahora huella de PNG, ASS y comando de FFmpeg; ya no basta que el archivo exista.
+
+15. Revisión de cierre de los MP4 nuevos: 17 muestras independientes, cubriendo los diez productos. Se detectó y retiró la instrucción interna “no mezclar con 65%” de la pantalla de Dental, conservándola en metadata y manteniendo “Plan 68%.”. Se volvió a renderizar el tramo y a verificar la pieza afectada. Se suavizaron también las colas terminales de los stems individuales; la mezcla musical principal no cambia.

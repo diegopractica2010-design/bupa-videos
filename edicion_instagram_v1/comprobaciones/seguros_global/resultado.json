@@ -1,0 +1,70 @@
+{
+  "id": "V10",
+  "file": "renders_revision/seguros_global_instagram_whatsapp_v1_REVISION_SIN_VOZ.mp4",
+  "sha256": "7615e9eabc57a9b74126c47e0a8c118bc7f2343940d0493ded766a19c103c9a5",
+  "checks": {
+    "dimensions": true,
+    "fps": true,
+    "frames": true,
+    "duration": true,
+    "video_codec": true,
+    "rec709": true,
+    "audio": true,
+    "faststart": true,
+    "full_decode": true,
+    "music_only_lufs": true,
+    "music_only_truepeak": true,
+    "background_conversion": true
+  },
+  "loudness_music_only": {
+    "input_i": "-16.52",
+    "input_tp": "-1.97",
+    "input_lra": "2.20",
+    "input_thresh": "-26.55",
+    "output_i": "-16.31",
+    "output_tp": "-1.77",
+    "output_lra": "1.80",
+    "output_thresh": "-26.31",
+    "normalization_type": "dynamic",
+    "target_offset": "0.31"
+  },
+  "background_rgb_samples": [
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ]
+  ],
+  "missing_stock": [
+    "ORD-V10-S01",
+    "ORD-V10-S02"
+  ],
+  "publication": "BLOQUEADA",
+  "voice": "AUSENTE_AUTORIZACION_PENDIENTE",
+  "subtitle_sync": "PROVISIONAL_SIN_VOZ_NO_VERIFICABLE"
+}

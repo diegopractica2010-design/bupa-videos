@@ -1,0 +1,7 @@
+# Cachés de render regenerables; se conservan las fuentes y los MP4 de revisión finales.
+recursos/*/*.mp4
+recursos/*/*_render.log
+recursos/*/concat.txt
+recursos/*/*.sha256
+recursos/*/*.ass
+__pycache__/

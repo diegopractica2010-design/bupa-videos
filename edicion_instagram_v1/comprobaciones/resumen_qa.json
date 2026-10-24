@@ -1,0 +1,707 @@
+{
+  "videos": [
+    {
+      "id": "V01",
+      "file": "renders_revision/bupa_adulto_mayor_70_instagram_whatsapp_v1_REVISION_SIN_VOZ.mp4",
+      "sha256": "1121cd2b3c55cdfdbc49ccc0a1eba5c200c0d865a20115fde1409fc6646e2e6f",
+      "checks": {
+        "dimensions": true,
+        "fps": true,
+        "frames": true,
+        "duration": true,
+        "video_codec": true,
+        "rec709": true,
+        "audio": true,
+        "faststart": true,
+        "full_decode": true,
+        "music_only_lufs": true,
+        "music_only_truepeak": true,
+        "background_conversion": true
+      },
+      "loudness_music_only": {
+        "input_i": "-16.55",
+        "input_tp": "-1.85",
+        "input_lra": "2.90",
+        "input_thresh": "-26.58",
+        "output_i": "-16.31",
+        "output_tp": "-1.74",
+        "output_lra": "1.50",
+        "output_thresh": "-26.31",
+        "normalization_type": "dynamic",
+        "target_offset": "0.31"
+      },
+      "background_rgb_samples": [
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ]
+      ],
+      "missing_stock": [
+        "ORD-V01-S01",
+        "ORD-V01-S02",
+        "ORD-V01-S04",
+        "ORD-V01-S05"
+      ],
+      "publication": "BLOQUEADA",
+      "voice": "AUSENTE_AUTORIZACION_PENDIENTE",
+      "subtitle_sync": "PROVISIONAL_SIN_VOZ_NO_VERIFICABLE"
+    },
+    {
+      "id": "V02",
+      "file": "renders_revision/bupa_catastrofico_instagram_whatsapp_v1_REVISION_SIN_VOZ.mp4",
+      "sha256": "3dd5e050c0c429430780edd98c31ef6d7c1dcaf8ac975cc29324313d906e307d",
+      "checks": {
+        "dimensions": true,
+        "fps": true,
+        "frames": true,
+        "duration": true,
+        "video_codec": true,
+        "rec709": true,
+        "audio": true,
+        "faststart": true,
+        "full_decode": true,
+        "music_only_lufs": true,
+        "music_only_truepeak": true,
+        "background_conversion": true
+      },
+      "loudness_music_only": {
+        "input_i": "-16.58",
+        "input_tp": "-1.88",
+        "input_lra": "2.40",
+        "input_thresh": "-26.58",
+        "output_i": "-16.33",
+        "output_tp": "-1.77",
+        "output_lra": "1.60",
+        "output_thresh": "-26.33",
+        "normalization_type": "dynamic",
+        "target_offset": "0.33"
+      },
+      "background_rgb_samples": [
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ]
+      ],
+      "missing_stock": [],
+      "publication": "BLOQUEADA",
+      "voice": "AUSENTE_AUTORIZACION_PENDIENTE",
+      "subtitle_sync": "PROVISIONAL_SIN_VOZ_NO_VERIFICABLE"
+    },
+    {
+      "id": "V03",
+      "file": "renders_revision/bupa_complementa_instagram_whatsapp_v1_REVISION_SIN_VOZ.mp4",
+      "sha256": "3b07bebd147e959950f4136e2c6c0f318ef3f2c3200d7dd0409fadf104db40bf",
+      "checks": {
+        "dimensions": true,
+        "fps": true,
+        "frames": true,
+        "duration": true,
+        "video_codec": true,
+        "rec709": true,
+        "audio": true,
+        "faststart": true,
+        "full_decode": true,
+        "music_only_lufs": true,
+        "music_only_truepeak": true,
+        "background_conversion": true
+      },
+      "loudness_music_only": {
+        "input_i": "-16.54",
+        "input_tp": "-1.86",
+        "input_lra": "2.40",
+        "input_thresh": "-26.54",
+        "output_i": "-16.30",
+        "output_tp": "-1.73",
+        "output_lra": "2.10",
+        "output_thresh": "-26.30",
+        "normalization_type": "dynamic",
+        "target_offset": "0.30"
+      },
+      "background_rgb_samples": [
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ]
+      ],
+      "missing_stock": [],
+      "publication": "BLOQUEADA",
+      "voice": "AUSENTE_AUTORIZACION_PENDIENTE",
+      "subtitle_sync": "PROVISIONAL_SIN_VOZ_NO_VERIFICABLE"
+    },
+    {
+      "id": "V04",
+      "file": "renders_revision/bupa_cuidado_total_instagram_whatsapp_v1_REVISION_SIN_VOZ.mp4",
+      "sha256": "e1557939d08f8d20b37bfb0eb9d674f69ca4ac6fecdfbc2e593cd138c16fcf2c",
+      "checks": {
+        "dimensions": true,
+        "fps": true,
+        "frames": true,
+        "duration": true,
+        "video_codec": true,
+        "rec709": true,
+        "audio": true,
+        "faststart": true,
+        "full_decode": true,
+        "music_only_lufs": true,
+        "music_only_truepeak": true,
+        "background_conversion": true
+      },
+      "loudness_music_only": {
+        "input_i": "-16.54",
+        "input_tp": "-1.86",
+        "input_lra": "2.40",
+        "input_thresh": "-26.54",
+        "output_i": "-16.30",
+        "output_tp": "-1.73",
+        "output_lra": "2.10",
+        "output_thresh": "-26.30",
+        "normalization_type": "dynamic",
+        "target_offset": "0.30"
+      },
+      "background_rgb_samples": [
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ]
+      ],
+      "missing_stock": [],
+      "publication": "BLOQUEADA",
+      "voice": "AUSENTE_AUTORIZACION_PENDIENTE",
+      "subtitle_sync": "PROVISIONAL_SIN_VOZ_NO_VERIFICABLE"
+    },
+    {
+      "id": "V05",
+      "file": "renders_revision/bupa_multisalud_instagram_whatsapp_v1_REVISION_SIN_VOZ.mp4",
+      "sha256": "2e4384fe8836189549591744c3bc8d606f3d2720cad21ee7aeb2e973c7d12b82",
+      "checks": {
+        "dimensions": true,
+        "fps": true,
+        "frames": true,
+        "duration": true,
+        "video_codec": true,
+        "rec709": true,
+        "audio": true,
+        "faststart": true,
+        "full_decode": true,
+        "music_only_lufs": true,
+        "music_only_truepeak": true,
+        "background_conversion": true
+      },
+      "loudness_music_only": {
+        "input_i": "-16.54",
+        "input_tp": "-1.86",
+        "input_lra": "2.40",
+        "input_thresh": "-26.54",
+        "output_i": "-16.30",
+        "output_tp": "-1.73",
+        "output_lra": "2.10",
+        "output_thresh": "-26.30",
+        "normalization_type": "dynamic",
+        "target_offset": "0.30"
+      },
+      "background_rgb_samples": [
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ]
+      ],
+      "missing_stock": [],
+      "publication": "BLOQUEADA",
+      "voice": "AUSENTE_AUTORIZACION_PENDIENTE",
+      "subtitle_sync": "PROVISIONAL_SIN_VOZ_NO_VERIFICABLE"
+    },
+    {
+      "id": "V06",
+      "file": "renders_revision/bupa_proteccion_instagram_whatsapp_v1_REVISION_SIN_VOZ.mp4",
+      "sha256": "c5e620cc2bd5ef23cd2dc7d0a1c0fd4236a758705c6818ec856a1147171fdc80",
+      "checks": {
+        "dimensions": true,
+        "fps": true,
+        "frames": true,
+        "duration": true,
+        "video_codec": true,
+        "rec709": true,
+        "audio": true,
+        "faststart": true,
+        "full_decode": true,
+        "music_only_lufs": true,
+        "music_only_truepeak": true,
+        "background_conversion": true
+      },
+      "loudness_music_only": {
+        "input_i": "-16.54",
+        "input_tp": "-1.86",
+        "input_lra": "2.40",
+        "input_thresh": "-26.54",
+        "output_i": "-16.30",
+        "output_tp": "-1.73",
+        "output_lra": "2.10",
+        "output_thresh": "-26.30",
+        "normalization_type": "dynamic",
+        "target_offset": "0.30"
+      },
+      "background_rgb_samples": [
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ]
+      ],
+      "missing_stock": [
+        "ORD-V06-S01"
+      ],
+      "publication": "BLOQUEADA",
+      "voice": "AUSENTE_AUTORIZACION_PENDIENTE",
+      "subtitle_sync": "PROVISIONAL_SIN_VOZ_NO_VERIFICABLE"
+    },
+    {
+      "id": "V07",
+      "file": "renders_revision/bupa_pymes_instagram_whatsapp_v1_REVISION_SIN_VOZ.mp4",
+      "sha256": "ffd722186701f56e7d075ebc05c5e15a863f3d0f02b9c8559614e601b36399a3",
+      "checks": {
+        "dimensions": true,
+        "fps": true,
+        "frames": true,
+        "duration": true,
+        "video_codec": true,
+        "rec709": true,
+        "audio": true,
+        "faststart": true,
+        "full_decode": true,
+        "music_only_lufs": true,
+        "music_only_truepeak": true,
+        "background_conversion": true
+      },
+      "loudness_music_only": {
+        "input_i": "-16.52",
+        "input_tp": "-1.97",
+        "input_lra": "2.20",
+        "input_thresh": "-26.55",
+        "output_i": "-16.31",
+        "output_tp": "-1.77",
+        "output_lra": "1.80",
+        "output_thresh": "-26.31",
+        "normalization_type": "dynamic",
+        "target_offset": "0.31"
+      },
+      "background_rgb_samples": [
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ]
+      ],
+      "missing_stock": [
+        "ORD-V07-S01",
+        "ORD-V07-S02"
+      ],
+      "publication": "BLOQUEADA",
+      "voice": "AUSENTE_AUTORIZACION_PENDIENTE",
+      "subtitle_sync": "PROVISIONAL_SIN_VOZ_NO_VERIFICABLE"
+    },
+    {
+      "id": "V08",
+      "file": "renders_revision/integramedica_100_instagram_whatsapp_v1_REVISION_SIN_VOZ.mp4",
+      "sha256": "dc4a8d3324ecdacc674fe06a8a2dce796d8e208f2403ce7800f8d54d0a9a6fd2",
+      "checks": {
+        "dimensions": true,
+        "fps": true,
+        "frames": true,
+        "duration": true,
+        "video_codec": true,
+        "rec709": true,
+        "audio": true,
+        "faststart": true,
+        "full_decode": true,
+        "music_only_lufs": true,
+        "music_only_truepeak": true,
+        "background_conversion": true
+      },
+      "loudness_music_only": {
+        "input_i": "-16.58",
+        "input_tp": "-1.88",
+        "input_lra": "2.40",
+        "input_thresh": "-26.58",
+        "output_i": "-16.33",
+        "output_tp": "-1.77",
+        "output_lra": "1.60",
+        "output_thresh": "-26.33",
+        "normalization_type": "dynamic",
+        "target_offset": "0.33"
+      },
+      "background_rgb_samples": [
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ]
+      ],
+      "missing_stock": [],
+      "publication": "BLOQUEADA",
+      "voice": "AUSENTE_AUTORIZACION_PENDIENTE",
+      "subtitle_sync": "PROVISIONAL_SIN_VOZ_NO_VERIFICABLE"
+    },
+    {
+      "id": "V09",
+      "file": "renders_revision/mi_dental_integramedica_instagram_whatsapp_v1_REVISION_SIN_VOZ.mp4",
+      "sha256": "9940b5366cf90e48bdd6c4038cc7a295b385efde81142ca0e85a5d51405b0b04",
+      "checks": {
+        "dimensions": true,
+        "fps": true,
+        "frames": true,
+        "duration": true,
+        "video_codec": true,
+        "rec709": true,
+        "audio": true,
+        "faststart": true,
+        "full_decode": true,
+        "music_only_lufs": true,
+        "music_only_truepeak": true,
+        "background_conversion": true
+      },
+      "loudness_music_only": {
+        "input_i": "-16.54",
+        "input_tp": "-1.86",
+        "input_lra": "2.40",
+        "input_thresh": "-26.54",
+        "output_i": "-16.30",
+        "output_tp": "-1.73",
+        "output_lra": "2.10",
+        "output_thresh": "-26.30",
+        "normalization_type": "dynamic",
+        "target_offset": "0.30"
+      },
+      "background_rgb_samples": [
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ]
+      ],
+      "missing_stock": [
+        "ORD-V09-S01",
+        "ORD-V09-S02",
+        "ORD-V09-S04"
+      ],
+      "publication": "BLOQUEADA",
+      "voice": "AUSENTE_AUTORIZACION_PENDIENTE",
+      "subtitle_sync": "PROVISIONAL_SIN_VOZ_NO_VERIFICABLE"
+    },
+    {
+      "id": "V10",
+      "file": "renders_revision/seguros_global_instagram_whatsapp_v1_REVISION_SIN_VOZ.mp4",
+      "sha256": "7615e9eabc57a9b74126c47e0a8c118bc7f2343940d0493ded766a19c103c9a5",
+      "checks": {
+        "dimensions": true,
+        "fps": true,
+        "frames": true,
+        "duration": true,
+        "video_codec": true,
+        "rec709": true,
+        "audio": true,
+        "faststart": true,
+        "full_decode": true,
+        "music_only_lufs": true,
+        "music_only_truepeak": true,
+        "background_conversion": true
+      },
+      "loudness_music_only": {
+        "input_i": "-16.52",
+        "input_tp": "-1.97",
+        "input_lra": "2.20",
+        "input_thresh": "-26.55",
+        "output_i": "-16.31",
+        "output_tp": "-1.77",
+        "output_lra": "1.80",
+        "output_thresh": "-26.31",
+        "normalization_type": "dynamic",
+        "target_offset": "0.31"
+      },
+      "background_rgb_samples": [
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ],
+        [
+          240,
+          246,
+          247
+        ]
+      ],
+      "missing_stock": [
+        "ORD-V10-S01",
+        "ORD-V10-S02"
+      ],
+      "publication": "BLOQUEADA",
+      "voice": "AUSENTE_AUTORIZACION_PENDIENTE",
+      "subtitle_sync": "PROVISIONAL_SIN_VOZ_NO_VERIFICABLE"
+    }
+  ],
+  "originales_intactos": true,
+  "layout_overflow": [],
+  "text_box_overlaps": [],
+  "render_final_publicable": false,
+  "checks_pendientes": [
+    "12 tomas limpias",
+    "Logos y conformidad de marca B01",
+    "Procedencia y licencias del stock B02",
+    "Vigencia comercial y voz autorizada B03",
+    "Locución y mezcla con ducking de voz",
+    "Sincronía real de subtítulos ±100ms",
+    "Escucha humana y revisión móvil B04",
+    "Apertura WhatsApp y conexión al anuncio sin enviar mensajes B05",
+    "Validación Meta B07",
+    "Contraste con plan_maestro.json, ordenes_ejecucion.json y enlaces_whatsapp.json fuente ausentes"
+  ]
+}

@@ -1,0 +1,29 @@
+[aist#0:0/pcm_f32le @ 0x564edd1e96c0] Guessed Channel Layout: stereo
+Input #0, wav, from '/workspace/bupa-videos/edicion_instagram_v1/recursos/campana_salud_112bpm.wav':
+  Duration: 00:00:32.00, bitrate: 3072 kb/s
+  Stream #0:0: Audio: pcm_f32le ([3][0][0][0] / 0x0003), 48000 Hz, stereo, flt, 3072 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_f32le (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.103
+  Stream #0:0: Audio: pcm_s16le, 192000 Hz, stereo, s16, 6144 kb/s
+      Metadata:
+        encoder         : Lavc61.19.101 pcm_s16le
+size=N/A time=00:00:14.00 bitrate=N/A speed=  28x    
+[Parsed_loudnorm_4 @ 0x7f0114003c40] 
+{
+	"input_i" : "-35.07",
+	"input_tp" : "-17.78",
+	"input_lra" : "4.20",
+	"input_thresh" : "-45.09",
+	"output_i" : "-16.91",
+	"output_tp" : "-2.20",
+	"output_lra" : "1.70",
+	"output_thresh" : "-26.91",
+	"normalization_type" : "dynamic",
+	"target_offset" : "0.91"
+}
+[out#0/null @ 0x564edd1e9880] video:0KiB audio:22500KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:30.00 bitrate=N/A speed=  33x    
