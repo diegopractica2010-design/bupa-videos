@@ -1,0 +1,63 @@
+{
+  "commit_videos": "e6547c961c992ab98d985a887bb28acc42971ba7",
+  "archivos": [
+    {
+      "video": "V01",
+      "archivo": "renders_con_voz/bupa_adulto_mayor_70_instagram_whatsapp_voz_v2_REVISION.mp4",
+      "sha256": "159de98f00e324dbb5542108b61ca58b00dafd7deff6a41cb9362cbad8d1ac66"
+    },
+    {
+      "video": "V02",
+      "archivo": "renders_con_voz/bupa_catastrofico_instagram_whatsapp_voz_v2_REVISION.mp4",
+      "sha256": "c4ebcfb5c2cc37ee4d30475d82b50ad3382ad12cadc278f480a642686c645fda"
+    },
+    {
+      "video": "V03",
+      "archivo": "renders_con_voz/bupa_complementa_instagram_whatsapp_voz_v2_REVISION.mp4",
+      "sha256": "ee248502ae916ad2634a1dcd2273bfb8229e352b6d91766d1070de6a89d8de95"
+    },
+    {
+      "video": "V04",
+      "archivo": "renders_con_voz/bupa_cuidado_total_instagram_whatsapp_voz_v2_REVISION.mp4",
+      "sha256": "67272d182448e61b2de0e6b9168fc2d89844df77934005159d4578e14a508057"
+    },
+    {
+      "video": "V05",
+      "archivo": "renders_con_voz/bupa_multisalud_instagram_whatsapp_voz_v2_REVISION.mp4",
+      "sha256": "a560a4162bda9eeff63a62f021611f38fe96ce0680167af7c045e457e5f20890"
+    },
+    {
+      "video": "V06",
+      "archivo": "renders_con_voz/bupa_proteccion_instagram_whatsapp_voz_v2_REVISION.mp4",
+      "sha256": "5a9bb04b372b1ced84d2f3a9c2d05037f26d5402e80b1b415a36cf92d0287572"
+    },
+    {
+      "video": "V07",
+      "archivo": "renders_con_voz/bupa_pymes_instagram_whatsapp_voz_v2_REVISION.mp4",
+      "sha256": "432d2ef26d07889d32e58c882a38ad51484a6a4af2cbcc9168c5867f8bcfc599"
+    },
+    {
+      "video": "V08",
+      "archivo": "renders_con_voz/integramedica_100_instagram_whatsapp_voz_v2_REVISION.mp4",
+      "sha256": "1d98f839ba80dbf1a35400ad29feee8d55bd4a111f51f0ebf1c8bc48b18e02d1"
+    },
+    {
+      "video": "V09",
+      "archivo": "renders_con_voz/mi_dental_integramedica_instagram_whatsapp_voz_v2_REVISION.mp4",
+      "sha256": "8e911f1cb567dbe53b9b6848996aff60cc643d77e0a3034ae7f45f54f0407b5d"
+    },
+    {
+      "video": "V10",
+      "archivo": "renders_con_voz/seguros_global_instagram_whatsapp_voz_v2_REVISION.mp4",
+      "sha256": "a49a2480942d860c5546b20d6737cd733af438c333b038568fd136cdce3caeeb"
+    }
+  ],
+  "alcance": "Tres revisiones simuladas por agentes. No es estudio con clientes reales, escucha humana certificada ni validación jurídica/comercial. No se modifican videos ni se activan campañas.",
+  "fuentes": [
+    "voces_kokoro/secuencias_con_voz_v2.json",
+    "editables/captions_del_informe.txt",
+    "voces_kokoro/comprobaciones/<producto>/contacto_6_escenas.jpg",
+    "renders_con_voz/"
+  ],
+  "capturas": "Cada producto tiene seis muestras de escena; la revisión de impulso añade una muestra real a 1s por producto. Las perspectivas comparten evidencia; no se suman como fotogramas únicos independientes."
+}
