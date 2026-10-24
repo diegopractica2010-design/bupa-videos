@@ -1,0 +1,65 @@
+{
+  "archivo": "/workspace/respaldos_bupa/antes_renovacion_c4adaeb.tar",
+  "sha256_tar": "a0ff8f7b5b3a4358b6a23e58d0c14d255c9b57e024df426143742c273287d37d",
+  "bytes_tar": 1319782400,
+  "archivos_verificados": 1947,
+  "originales_intactos": [
+    {
+      "archivo_en_respaldo": "bupa-videos/output/bupa_adulto_mayor_70.mp4",
+      "bytes": 40593529,
+      "sha256": "91ce1076095c1777cd8d2386d4233dc6ef65259c885bd9b5ea914c56243c1355"
+    },
+    {
+      "archivo_en_respaldo": "bupa-videos/output/bupa_catastrofico.mp4",
+      "bytes": 51482124,
+      "sha256": "f40f5e4d07bb711726c5dffd72801aef7fd9629c2c6f678169b57d9400fe7ecf"
+    },
+    {
+      "archivo_en_respaldo": "bupa-videos/output/bupa_complementa.mp4",
+      "bytes": 49856900,
+      "sha256": "b3d7edc7f7f2e2b84f04a63b6993983c5791b0ee0ce6e23fe21356e5b12ae6ce"
+    },
+    {
+      "archivo_en_respaldo": "bupa-videos/output/bupa_cuidado_total.mp4",
+      "bytes": 43718914,
+      "sha256": "ac5b2ea1098dd6c10e2abd48ab72e65703767c54286f2e5f1f15b6393e861d65"
+    },
+    {
+      "archivo_en_respaldo": "bupa-videos/output/bupa_multisalud.mp4",
+      "bytes": 43833633,
+      "sha256": "227bd5e4cd97e6d3a4604adf869c36b5fbf58b8a3276b687c33e35bf72ef3f76"
+    },
+    {
+      "archivo_en_respaldo": "bupa-videos/output/bupa_proteccion.mp4",
+      "bytes": 39955859,
+      "sha256": "33c1441c83b7ae1230b593b60e9d3a397961e1e209484d0199a341fa05714d04"
+    },
+    {
+      "archivo_en_respaldo": "bupa-videos/output/bupa_pymes.mp4",
+      "bytes": 40497707,
+      "sha256": "be192384095d6ec49778cfa7303f062dda279261506d933fd114e0ce37b3212f"
+    },
+    {
+      "archivo_en_respaldo": "bupa-videos/output/integramedica_100.mp4",
+      "bytes": 46619438,
+      "sha256": "60e00a50d669f99754b88f5b58ab5a3e1747a7264c801390f01831493559a2e2"
+    },
+    {
+      "archivo_en_respaldo": "bupa-videos/output/mi_dental_integramedica.mp4",
+      "bytes": 40480672,
+      "sha256": "5c6c124bbd115b1e980dcb885b9102698f4beafa26d52678336135909f9510b8"
+    },
+    {
+      "archivo_en_respaldo": "bupa-videos/output/seguros_global.mp4",
+      "bytes": 37757805,
+      "sha256": "c213190f6c026a60cb3d624654af9374f20fa73ba081d22fe7f1f35f204154cb"
+    }
+  ],
+  "incluye_historial_git": true,
+  "retirada_prevista": [
+    "output/",
+    "edicion_instagram_v1/"
+  ],
+  "alcance": "Se retiran del árbol visible de la rama; no se purga historial ni se borra respaldo externo.",
+  "fecha_utc": "2026-10-24T13:07:20Z"
+}

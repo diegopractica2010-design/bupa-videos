@@ -1,0 +1,270 @@
+{
+  "source_inputs": {
+    "sequence": "7b1053c414396d155550a4f78ea1b6b2e39ca83f7f64c1c35f0c7d54e4540925",
+    "timings": "cc7e9d36676f869b41e28f5b23b7020fcba05113ab78f183e8186effd1300e69",
+    "files": {
+      "recursos/audio/campana_salud_112bpm.wav": "6edf1efbc8345496b3a516a9dc7cb45a157ae9e8cdb8f9bd9e869ba3e36f1e2f",
+      "recursos/fuentes/Montserrat-Bold.ttf": "0b52db9cb0750e8bdbbe4b91d04b81c49697d9f409a48eb88132ebdb9f81c231",
+      "recursos/fuentes/Montserrat-ExtraBold.ttf": "c38e96ce348f356efeed275808f1fdc2b7ce812d74f551f0ff4e35ae8b20ffcc",
+      "audio/escenas/V02-S01.wav": "9f0916f1071935b4cb1531acaeb33a447de712cdcb3b3e815068651967d3b16d",
+      "recursos/graficos/V02-S01.png": "a7b03381ebdffcd68df5e870a6013d8b4d4d647f19d8011b0360ccb03aa4dc4a",
+      "audio/escenas/V02-S02.wav": "da2eb8cbe5495324b2722e3bde892577957436c538b526c0c2a3b3c1ba588443",
+      "recursos/graficos/V02-S02.png": "c0d4bffa6bffee76067f427e8028b432b782447b5e0dcc6a01222a5fccc05b1b",
+      "audio/escenas/V02-S03.wav": "f0c2ab9411da4f549f36da3aba9a2d9c2fa3b5a2b59d17a9f7850c2662c09dba",
+      "recursos/graficos/V02-S03.png": "2d44eba0d43ea8997646ac651609dd2df46b9d6d4853f646ece1447849dd2628",
+      "recursos/graficos/V02-S03_detalle.png": "2d44eba0d43ea8997646ac651609dd2df46b9d6d4853f646ece1447849dd2628",
+      "audio/escenas/V02-S04.wav": "fcf83fdd3cc0082bbc6a531c33c65d26fdce68fdd7528f8106692b50e45d42d5",
+      "recursos/graficos/V02-S04.png": "332168c9e884b618d005306e4bc57e41ade59904e519a7c9e49f6bb76cad06f0",
+      "recursos/graficos/V02-S04_detalle.png": "332168c9e884b618d005306e4bc57e41ade59904e519a7c9e49f6bb76cad06f0",
+      "audio/escenas/V02-S05.wav": "6704659cd01ee6f63d901e77dafa021a93b899bfbde9e7a571f25d13cbe1cb21",
+      "recursos/graficos/V02-S05.png": "c8ccb78ee0f3b1be84b19f7941b73ea1da970405fb46873f525c1088bcd8b8a4",
+      "recursos/graficos/V02-S05_detalle.png": "f9a3703feaf206e253fb669273494f82795fe8ec4d726819c90e9e934c17c46f",
+      "audio/escenas/V02-S06.wav": "7fe243747051483dbed112352746f8dade56a773451efabf4804de2093934c7b",
+      "recursos/graficos/V02-S06.png": "90a862b3e69dc292f69e0b9d36352a847469c5b1b186ceb05f00bf6861693606"
+    },
+    "renderer_code": "47c616cc2e42d5ff4d17c5a089305dee160b564a5f8ea1380c5f0386e284568d"
+  },
+  "id": "V02",
+  "file": "videos/bupa_catastrofico.mp4",
+  "sha256": "78270d6241bb8501115fa0d516af070c9cf9ba5699898e765bcc9f84169775d9",
+  "segments": [
+    {
+      "scene": "V02-S01",
+      "phase": 0,
+      "start": 0.0,
+      "end": 5.2,
+      "cache_key": "0cf7cdac248777e6e53593e12c58e13d95e04e7a999206b27da4dcb4734e71e3",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V02-S02",
+      "phase": 0,
+      "start": 5.2,
+      "end": 8.733333333333333,
+      "cache_key": "547d2e8c9f982f2811962ddd6de00342ff410cc4f5236ed6d42ce1971ced386c",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V02-S03",
+      "phase": 0,
+      "start": 8.733333333333333,
+      "end": 13.166666666666666,
+      "cache_key": "5eb3c1b6145be2cbf622cae155fba5937d017ac033f453bed15e8d2231572eff",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V02-S04",
+      "phase": 0,
+      "start": 13.166666666666666,
+      "end": 17.966666666666665,
+      "cache_key": "885792a611048e695238b5a973652da259103ac5e8ef5a47a4497f61fcaea34c",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V02-S05",
+      "phase": 0,
+      "start": 17.966666666666665,
+      "end": 20.466666666666665,
+      "cache_key": "0c6d77c1812998dad5b40df92ba5a6ce1df450d6d12403e89a4e181c492edf61",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V02-S05",
+      "phase": 1,
+      "start": 20.466666666666665,
+      "end": 23.0,
+      "cache_key": "83fa20aff2cb30c66d569c722b2b1b444550abbab70d4b5e1bdd03b6eec1b176",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V02-S06",
+      "phase": 0,
+      "start": 23.0,
+      "end": 28.0,
+      "cache_key": "9ae28b6a8cf9c5cb31576c409e3a4d555188f33dfdc2f3e8025f619129e5b4d8",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    }
+  ],
+  "voice_music_balance": [
+    {
+      "scene": "V02-S01",
+      "voice_over_music_rms_db": 21.22911055086725,
+      "required_db": 21
+    },
+    {
+      "scene": "V02-S02",
+      "voice_over_music_rms_db": 21.208630702767522,
+      "required_db": 21
+    },
+    {
+      "scene": "V02-S03",
+      "voice_over_music_rms_db": 21.196354776851607,
+      "required_db": 21
+    },
+    {
+      "scene": "V02-S04",
+      "voice_over_music_rms_db": 21.187468186276,
+      "required_db": 21
+    },
+    {
+      "scene": "V02-S05",
+      "voice_over_music_rms_db": 21.31152163470512,
+      "required_db": 21
+    },
+    {
+      "scene": "V02-S06",
+      "voice_over_music_rms_db": 23.999999999997506,
+      "required_db": 24
+    }
+  ],
+  "subtitle_events": [
+    {
+      "scene": "V02-S01",
+      "start": 0.08433333333333333,
+      "end": 2.159333333333333,
+      "lines": [
+        "Protección de alto",
+        "costo, con libre"
+      ],
+      "first_word": 0,
+      "last_word": 5
+    },
+    {
+      "scene": "V02-S01",
+      "start": 2.159333333333333,
+      "end": 4.473333333333334,
+      "lines": [
+        "elección según las",
+        "condiciones del seguro."
+      ],
+      "first_word": 6,
+      "last_word": 11
+    },
+    {
+      "scene": "V02-S02",
+      "start": 5.2843333333333335,
+      "end": 7.668000000000001,
+      "lines": [
+        "Conoce el Seguro",
+        "Bupa Catastrófico."
+      ],
+      "first_word": 0,
+      "last_word": 4
+    },
+    {
+      "scene": "V02-S03",
+      "start": 8.817666666666666,
+      "end": 10.892666666666665,
+      "lines": [
+        "Ofrece protección",
+        "para enfermedades"
+      ],
+      "first_word": 0,
+      "last_word": 3
+    },
+    {
+      "scene": "V02-S03",
+      "start": 10.892666666666665,
+      "end": 12.438666666666666,
+      "lines": [
+        "y accidentes de alto costo."
+      ],
+      "first_word": 4,
+      "last_word": 8
+    },
+    {
+      "scene": "V02-S04",
+      "start": 13.251,
+      "end": 15.401,
+      "lines": [
+        "Los topes y",
+        "deducibles dependen de"
+      ],
+      "first_word": 0,
+      "last_word": 5
+    },
+    {
+      "scene": "V02-S04",
+      "start": 15.401,
+      "end": 17.256,
+      "lines": [
+        "la edad y del",
+        "sistema previsional."
+      ],
+      "first_word": 6,
+      "last_word": 11
+    },
+    {
+      "scene": "V02-S05",
+      "start": 18.051,
+      "end": 20.646,
+      "lines": [
+        "Antes de cotizar,",
+        "revisa los requisitos"
+      ],
+      "first_word": 0,
+      "last_word": 5
+    },
+    {
+      "scene": "V02-S05",
+      "start": 20.651,
+      "end": 22.276666666666667,
+      "lines": [
+        "y el deducible",
+        "que corresponden."
+      ],
+      "first_word": 6,
+      "last_word": 10
+    },
+    {
+      "scene": "V02-S06",
+      "start": 23.084333333333333,
+      "end": 25.109333333333336,
+      "lines": [
+        "Consulta requisitos y deducibles"
+      ],
+      "first_word": 0,
+      "last_word": 3
+    },
+    {
+      "scene": "V02-S06",
+      "start": 25.109333333333336,
+      "end": 27.174666666666667,
+      "lines": [
+        "de Bupa Catastrófico",
+        "por WhatsApp."
+      ],
+      "first_word": 4,
+      "last_word": 8
+    }
+  ],
+  "publication": "BLOQUEADA_FICHAS_MARCA_ESCUCHA_MOVIL"
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://www.segurosbupa.cl/productos/bupa-complementa",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "interpretation": "No se obtuvo evidencia actual."
+  },
+  {
+    "url": "https://www.integramedica.cl/planes-y-convenios/planes-medicos",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "interpretation": "No se obtuvo evidencia actual."
+  }
+]

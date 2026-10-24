@@ -1,0 +1,40 @@
+{
+  "fecha": "2026-10-24",
+  "tipo": "ejecucion Linux en nube; sin PC del usuario",
+  "python": "Python 3.12.14",
+  "ffmpeg": "ffmpeg version 7.1.5-0+deb13u1 Copyright (c) 2000-2026 the FFmpeg developers",
+  "paquetes_instalados": [
+    "attrs==26.1.0",
+    "cffi==2.1.1",
+    "cloudpickle==3.1.2",
+    "dlinfo==2.0.0",
+    "espeakng-loader==0.2.4",
+    "flatbuffers==25.12.19",
+    "fonttools==4.67.0",
+    "joblib==1.6.0",
+    "kokoro-onnx==0.6.1",
+    "numpy==2.5.4",
+    "onnxruntime==1.31.0",
+    "packaging==26.3",
+    "phonemizer==3.4.0",
+    "pillow==13.0.0",
+    "protobuf==7.36.2",
+    "pycparser==3.12",
+    "scipy==1.18.1",
+    "sherpa-onnx-core==2.0.0",
+    "sherpa_onnx==2.0.0",
+    "soundfile==0.14.0",
+    "typing_extensions==4.16.0"
+  ],
+  "recursos_incluidos_para_remontar": [
+    "WAV de voz y música",
+    "TTF Montserrat",
+    "PNG y SVG",
+    "ASS/SRT",
+    "JSON y código de montaje"
+  ],
+  "dependencias_externas_para_regenerar_voces": "Modelos Kokoro en BUPA_TTS_MODELS; descargador verifica URL/hash; no necesita archivos del PC",
+  "gpu_requerida": false,
+  "servicio_de_pago_requerido": false,
+  "dependencia_proyecto_anterior": false
+}

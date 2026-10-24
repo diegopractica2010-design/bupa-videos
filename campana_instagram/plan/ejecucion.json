@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "objetivo": "Implementar mejoras y dejar entrega actual única verificable; no perfección absoluta ni ventas garantizadas.",
+  "publicacion_autorizada": false,
+  "tasks": [
+    {
+      "id": "P00",
+      "action": "Respaldo íntegro de originales, archivos de trabajo e historial",
+      "status": "completado",
+      "acceptance": "1.947 archivos con SHA256 comparado en TAR fuera checkout",
+      "evidence": "revision/conservacion.json"
+    },
+    {
+      "id": "P01",
+      "action": "Reescritura10x6 y claims/captions/enlaces trazables",
+      "status": "completado",
+      "acceptance": "10 productos,60 escenas, mensajes exactos, sin claims aprobados ficticios",
+      "evidence": "contenido/guiones_v3.json y claims_v3.json"
+    },
+    {
+      "id": "P02",
+      "action": "Arte100%original sin stock/logos fabricados",
+      "status": "completado",
+      "acceptance": "90artes, sin marcadores de archivos, tamaños mínimos y geometría aprobada",
+      "evidence": "revision/layout_graficos.json"
+    },
+    {
+      "id": "P03",
+      "action": "Pilotos de copago,cifras y condiciones",
+      "status": "completado",
+      "acceptance": "V03,V07,V08 renderizados y revisados antes de extender",
+      "evidence": "revision/qa/pilotos.json (histórico; finales en resumen.json)"
+    },
+    {
+      "id": "P04",
+      "action": "Síntesis completa y secuencias desde audio",
+      "status": "completado",
+      "acceptance": "60frases sin cortes/speed>1.05 y cierre5s",
+      "evidence": "revision/tiempos_voz.json"
+    },
+    {
+      "id": "P05",
+      "action": "Producción de diez versiones nuevas",
+      "status": "completado",
+      "acceptance": "10MP4 y editables reproducibles",
+      "evidence": "videos/ y editables; revision/reproduccion_limpia.json"
+    },
+    {
+      "id": "P06",
+      "action": "QA integral de MP4 reales",
+      "status": "completado",
+      "acceptance": "Todos los controles obligatorios PASS porhash",
+      "evidence": "revision/qa/resumen.json, COMPLETE y technical_pass=true, 10/10"
+    },
+    {
+      "id": "P07",
+      "action": "Revisión y cierre de incidencias independientes",
+      "status": "completado",
+      "acceptance": "Cero defectos técnicos/editoriales ejecutables conocidos abiertos",
+      "evidence": "revision/incidencias.json y tres informes finales de revisión"
+    },
+    {
+      "id": "P08",
+      "action": "Fichas,marca,identidad y evaluación humana/móvil",
+      "status": "bloqueado_externo",
+      "acceptance": "No sustituir con tests ni agentes; responsables y evidencia reales"
+    },
+    {
+      "id": "P09",
+      "action": "Entrega actual única y eliminación de árboles viejos de GitHub",
+      "status": "completado_en_entrega",
+      "acceptance": "Respaldo confirmado,nuevos verificados,push y HEAD remoto/local iguales",
+      "evidence": "Respaldo verificado en revision/conservacion.json; árboles antiguos retirados del índice y checkout. Commit/push y coincidencia de HEAD se verifican al cerrar la entrega y se informan con el SHA remoto."
+    },
+    {
+      "id": "P10",
+      "action": "Prueba comercial con datos reales",
+      "status": "no_autorizado",
+      "acceptance": "No publicar/activar/contactar; plantillas preparadas sin datos ficticios"
+    }
+  ],
+  "estado_entrega": "REVISION_TECNICA_COMPLETA_BLOQUEADA_COMERCIALMENTE"
+}

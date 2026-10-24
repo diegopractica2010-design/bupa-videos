@@ -1,0 +1,20 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat,48,&H00FFFFFF,&H00FFFFFF,&H263F2B10,&H263F2B10,-1,0,0,0,100,100,0,0,3,16,0,7,112,112,930,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.06,0:00:01.98,Sub,,0,0,0,,{\pos(112,946)}Atenciones ambulatorias\Nen la red
+Dialogue: 0,0:00:01.98,0:00:04.69,Sub,,0,0,0,,{\pos(112,946)}IntegraMédica, con\Nprestaciones incluidas.
+Dialogue: 0,0:00:05.85,0:00:08.73,Sub,,0,0,0,,{\pos(112,946)}Conoce el Plan IntegraMédica\Ncien por ciento.
+Dialogue: 0,0:00:09.85,0:00:11.43,Sub,,0,0,0,,{\pos(112,946)}Cubre el copago de prestaciones
+Dialogue: 0,0:00:11.43,0:00:13.88,Sub,,0,0,0,,{\pos(112,946)}incluidas, con tope\Nanual y carencias.
+Dialogue: 0,0:00:15.02,0:00:16.82,Sub,,0,0,0,,{\pos(112,946)}Hay condiciones específicas de
+Dialogue: 0,0:00:16.82,0:00:18.94,Sub,,0,0,0,,{\pos(112,946)}bonificación que\Ndeben revisarse.
+Dialogue: 0,0:00:20.08,0:00:22.13,Sub,,0,0,0,,{\pos(112,946)}Revisa requisitos\Ny las carencias
+Dialogue: 0,0:00:22.13,0:00:23.94,Sub,,0,0,0,,{\pos(112,946)}aplicables antes de contratar.
+Dialogue: 0,0:00:25.08,0:00:28.73,Sub,,0,0,0,,{\pos(112,946)}Cotiza el Plan IntegraMédica\Ncien por ciento por WhatsApp.

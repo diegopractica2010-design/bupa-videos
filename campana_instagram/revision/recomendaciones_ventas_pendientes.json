@@ -1,0 +1,369 @@
+{
+  "review_date": "2026-10-24",
+  "scope": "10 guiones nuevos completos; revisión comercial simulada, no consumidores reales",
+  "source_sha256": "12c9901798db1aad52e3e81b5c0d20cc0057bf45f09a094b3ff83af06f9d6f62",
+  "new_demonstrable_textual_defects": [],
+  "commercial_approval": false,
+  "performance_validated": false,
+  "blocked_checks": [
+    {
+      "id": "B01",
+      "kind": "validacion_producto",
+      "videos": "todos; V03/V07/V08 requieren aclaraciones específicas",
+      "status": "pendiente_evidencia_externa"
+    },
+    {
+      "id": "B02",
+      "kind": "identidad_marca",
+      "status": "pendiente_evidencia_externa"
+    },
+    {
+      "id": "B03",
+      "kind": "escucha_comprension_movil_humana",
+      "status": "pendiente_prueba_real"
+    },
+    {
+      "id": "B04",
+      "kind": "apertura_cuenta_boton_WhatsApp",
+      "status": "pendiente_prueba_real_sin_envio"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "H-V01",
+      "video_id": "V01",
+      "class": "hipotesis_opcional_posterior",
+      "hypothesis": "Comprobar con personas del público si recuerdan la diferencia entre porcentaje y edad después de una sola reproducción.",
+      "status": "no_ejecutada_no_medida",
+      "preconditions": [
+        "Ficha vigente y copy aprobados",
+        "Validaciones de identidad/marca y dispositivo completadas",
+        "Instrucción separada para publicar o invertir"
+      ],
+      "change_rule": "Una variable por comparación, sin retirar condiciones esenciales.",
+      "success_evidence": "Comprensión sin confusiones materiales y avance comercial pertinente; resultados actualmente no disponibles.",
+      "observations": null,
+      "sales_effect": null
+    },
+    {
+      "id": "H-V02",
+      "video_id": "V02",
+      "class": "hipotesis_opcional_posterior",
+      "hypothesis": "Comparar apertura centrada en libre elección con la actual, manteniendo exactamente el condicionamiento.",
+      "status": "no_ejecutada_no_medida",
+      "preconditions": [
+        "Ficha vigente y copy aprobados",
+        "Validaciones de identidad/marca y dispositivo completadas",
+        "Instrucción separada para publicar o invertir"
+      ],
+      "change_rule": "Una variable por comparación, sin retirar condiciones esenciales.",
+      "success_evidence": "Comprensión sin confusiones materiales y avance comercial pertinente; resultados actualmente no disponibles.",
+      "observations": null,
+      "sales_effect": null
+    },
+    {
+      "id": "H-V03",
+      "video_id": "V03",
+      "class": "hipotesis_opcional_posterior",
+      "hypothesis": "Cuando exista fórmula aprobada, probar una explicación cualitativa aún más simple sin añadir una promesa nueva.",
+      "status": "no_ejecutada_no_medida",
+      "preconditions": [
+        "Ficha vigente y copy aprobados",
+        "Validaciones de identidad/marca y dispositivo completadas",
+        "Instrucción separada para publicar o invertir"
+      ],
+      "change_rule": "Una variable por comparación, sin retirar condiciones esenciales.",
+      "success_evidence": "Comprensión sin confusiones materiales y avance comercial pertinente; resultados actualmente no disponibles.",
+      "observations": null,
+      "sales_effect": null
+    },
+    {
+      "id": "H-V04",
+      "video_id": "V04",
+      "class": "hipotesis_opcional_posterior",
+      "hypothesis": "Con ficha vigente, identificar un diferenciador verdadero para probarlo frente a la lista de categorías.",
+      "status": "no_ejecutada_no_medida",
+      "preconditions": [
+        "Ficha vigente y copy aprobados",
+        "Validaciones de identidad/marca y dispositivo completadas",
+        "Instrucción separada para publicar o invertir"
+      ],
+      "change_rule": "Una variable por comparación, sin retirar condiciones esenciales.",
+      "success_evidence": "Comprensión sin confusiones materiales y avance comercial pertinente; resultados actualmente no disponibles.",
+      "observations": null,
+      "sales_effect": null
+    },
+    {
+      "id": "H-V05",
+      "video_id": "V05",
+      "class": "hipotesis_opcional_posterior",
+      "hypothesis": "Con red vigente autorizada, probar una variante geográfica relevante sin prometer cobertura nacional.",
+      "status": "no_ejecutada_no_medida",
+      "preconditions": [
+        "Ficha vigente y copy aprobados",
+        "Validaciones de identidad/marca y dispositivo completadas",
+        "Instrucción separada para publicar o invertir"
+      ],
+      "change_rule": "Una variable por comparación, sin retirar condiciones esenciales.",
+      "success_evidence": "Comprensión sin confusiones materiales y avance comercial pertinente; resultados actualmente no disponibles.",
+      "observations": null,
+      "sales_effect": null
+    },
+    {
+      "id": "H-V06",
+      "video_id": "V06",
+      "class": "hipotesis_opcional_posterior",
+      "hypothesis": "Probar un contexto familiar humano solo con material autorizado y sin representar a participantes como clientes.",
+      "status": "no_ejecutada_no_medida",
+      "preconditions": [
+        "Ficha vigente y copy aprobados",
+        "Validaciones de identidad/marca y dispositivo completadas",
+        "Instrucción separada para publicar o invertir"
+      ],
+      "change_rule": "Una variable por comparación, sin retirar condiciones esenciales.",
+      "success_evidence": "Comprensión sin confusiones materiales y avance comercial pertinente; resultados actualmente no disponibles.",
+      "observations": null,
+      "sales_effect": null
+    },
+    {
+      "id": "H-V07",
+      "video_id": "V07",
+      "class": "hipotesis_opcional_posterior",
+      "hypothesis": "Verificar comprensión espontánea de 5/15/80% antes de experimentar con una apertura por tamaño de grupo.",
+      "status": "no_ejecutada_no_medida",
+      "preconditions": [
+        "Ficha vigente y copy aprobados",
+        "Validaciones de identidad/marca y dispositivo completadas",
+        "Instrucción separada para publicar o invertir"
+      ],
+      "change_rule": "Una variable por comparación, sin retirar condiciones esenciales.",
+      "success_evidence": "Comprensión sin confusiones materiales y avance comercial pertinente; resultados actualmente no disponibles.",
+      "observations": null,
+      "sales_effect": null
+    },
+    {
+      "id": "H-V08",
+      "video_id": "V08",
+      "class": "hipotesis_opcional_posterior",
+      "hypothesis": "Después de resolver la interpretación en ficha, probar una apertura que explicite la base del 100% sin separar sus condiciones.",
+      "status": "no_ejecutada_no_medida",
+      "preconditions": [
+        "Ficha vigente y copy aprobados",
+        "Validaciones de identidad/marca y dispositivo completadas",
+        "Instrucción separada para publicar o invertir"
+      ],
+      "change_rule": "Una variable por comparación, sin retirar condiciones esenciales.",
+      "success_evidence": "Comprensión sin confusiones materiales y avance comercial pertinente; resultados actualmente no disponibles.",
+      "observations": null,
+      "sales_effect": null
+    },
+    {
+      "id": "H-V09",
+      "video_id": "V09",
+      "class": "hipotesis_opcional_posterior",
+      "hypothesis": "Comparar la apertura actual con una explicación aprobada de cómo se determina el presupuesto, sin importes ficticios.",
+      "status": "no_ejecutada_no_medida",
+      "preconditions": [
+        "Ficha vigente y copy aprobados",
+        "Validaciones de identidad/marca y dispositivo completadas",
+        "Instrucción separada para publicar o invertir"
+      ],
+      "change_rule": "Una variable por comparación, sin retirar condiciones esenciales.",
+      "success_evidence": "Comprensión sin confusiones materiales y avance comercial pertinente; resultados actualmente no disponibles.",
+      "observations": null,
+      "sales_effect": null
+    },
+    {
+      "id": "H-V10",
+      "video_id": "V10",
+      "class": "hipotesis_opcional_posterior",
+      "hypothesis": "Con ficha y alternativa concretas, producir una variante específica para una necesidad territorial documentada.",
+      "status": "no_ejecutada_no_medida",
+      "preconditions": [
+        "Ficha vigente y copy aprobados",
+        "Validaciones de identidad/marca y dispositivo completadas",
+        "Instrucción separada para publicar o invertir"
+      ],
+      "change_rule": "Una variable por comparación, sin retirar condiciones esenciales.",
+      "success_evidence": "Comprensión sin confusiones materiales y avance comercial pertinente; resultados actualmente no disponibles.",
+      "observations": null,
+      "sales_effect": null
+    }
+  ],
+  "execution_boundary": "No se publican anuncios, activan campañas ni envían mensajes. No existe promesa de ventas ni perfección absoluta.",
+  "visual_review": {
+    "pilot_ids": [
+      "V03",
+      "V07",
+      "V08"
+    ],
+    "method": "6 fotogramas por MP4 en contactos de QA",
+    "continuous_playback": false,
+    "human_listening": false,
+    "reviewed_ids": [
+      "V01",
+      "V02",
+      "V03",
+      "V04",
+      "V05",
+      "V06",
+      "V07",
+      "V08",
+      "V09",
+      "V10"
+    ],
+    "frames_reviewed": 60,
+    "final_video_evidence": [
+      {
+        "video_id": "V01",
+        "file": "videos/bupa_adulto_mayor_70.mp4",
+        "sha256": "33a35e2a1ed5c782e5b11344e22a90529bb2da8ca66e7c3992f03fb4934893d3",
+        "closing_frame": "revision/qa/bupa_adulto_mayor_70/V01-S06.png",
+        "closing_frame_sha256": "71d7dd259b44eae178c8e0cfce2515b2e645d98057ef9999a3a0f0a880e0ea77",
+        "contact_sheet": "revision/qa/bupa_adulto_mayor_70/contacto_6_escenas.jpg",
+        "contact_sheet_sha256": "6e0cbde0de1c5c8c5a31a925e22ccdc75735108414b00e62633aed74a6c80e0d",
+        "channel_label": "WhatsApp: +56 9 8612 1803",
+        "visual_recheck": "PASS_6_ESCENAS_ETIQUETA_COMPLETA_SIN_COLISION",
+        "font_qa": "PASS_MONTSERRAT_SIN_FALLBACK_HOST"
+      },
+      {
+        "video_id": "V02",
+        "file": "videos/bupa_catastrofico.mp4",
+        "sha256": "78270d6241bb8501115fa0d516af070c9cf9ba5699898e765bcc9f84169775d9",
+        "closing_frame": "revision/qa/bupa_catastrofico/V02-S06.png",
+        "closing_frame_sha256": "cbb16d2255d67b2bc2e149b57bc0d8d5b3860bbfa3a6435155687cf97f74a74c",
+        "contact_sheet": "revision/qa/bupa_catastrofico/contacto_6_escenas.jpg",
+        "contact_sheet_sha256": "4b3babba258a1408dab3f76d3986bb41064a146db3c08b2a2c46f87f127f5e55",
+        "channel_label": "WhatsApp: +56 9 8612 1803",
+        "visual_recheck": "PASS_6_ESCENAS_ETIQUETA_COMPLETA_SIN_COLISION",
+        "font_qa": "PASS_MONTSERRAT_SIN_FALLBACK_HOST"
+      },
+      {
+        "video_id": "V03",
+        "file": "videos/bupa_complementa.mp4",
+        "sha256": "dc6e3d5ac68da21d7be2d72a3b4036577ab396f7272f529c05b163696391959b",
+        "closing_frame": "revision/qa/bupa_complementa/V03-S06.png",
+        "closing_frame_sha256": "2136d0878cf19c59daae1016370c1f80fed8a747ab95e9834dc6e6ace582ce66",
+        "contact_sheet": "revision/qa/bupa_complementa/contacto_6_escenas.jpg",
+        "contact_sheet_sha256": "01f57ed44da50fe22d007433c16ef5e785e55a2156b7027a407addc1891144b6",
+        "channel_label": "WhatsApp: +56 9 8612 1803",
+        "visual_recheck": "PASS_6_ESCENAS_ETIQUETA_COMPLETA_SIN_COLISION",
+        "font_qa": "PASS_MONTSERRAT_SIN_FALLBACK_HOST"
+      },
+      {
+        "video_id": "V04",
+        "file": "videos/bupa_cuidado_total.mp4",
+        "sha256": "ecd4a52e3e4badf867b8dfdd259ca10cbd1425d8d9ebbc4af651d7c3cc1f39eb",
+        "closing_frame": "revision/qa/bupa_cuidado_total/V04-S06.png",
+        "closing_frame_sha256": "cce39ca10395b23da685a8a177e3deeef533dd519e09fcdd3692ea2fb7b256bd",
+        "contact_sheet": "revision/qa/bupa_cuidado_total/contacto_6_escenas.jpg",
+        "contact_sheet_sha256": "b2ccfce984d3cba99bcabb87d71cf4f4795dae65c30d2ccf4ade627367973745",
+        "channel_label": "WhatsApp: +56 9 8612 1803",
+        "visual_recheck": "PASS_6_ESCENAS_ETIQUETA_COMPLETA_SIN_COLISION",
+        "font_qa": "PASS_MONTSERRAT_SIN_FALLBACK_HOST"
+      },
+      {
+        "video_id": "V05",
+        "file": "videos/bupa_multisalud.mp4",
+        "sha256": "bb9994088ec95639db32995a02e1c31679f03312970f4474472d559d5f1dbf11",
+        "closing_frame": "revision/qa/bupa_multisalud/V05-S06.png",
+        "closing_frame_sha256": "23fea3e9f23c616e175014ad03f59e71ecd27977c1f03f8bca5fbe08239b65b7",
+        "contact_sheet": "revision/qa/bupa_multisalud/contacto_6_escenas.jpg",
+        "contact_sheet_sha256": "35d49ce53b698b9fe77504e109f673804c0f73ef6ab692bfd2c49d9f3ebcdc00",
+        "channel_label": "WhatsApp: +56 9 8612 1803",
+        "visual_recheck": "PASS_6_ESCENAS_ETIQUETA_COMPLETA_SIN_COLISION",
+        "font_qa": "PASS_MONTSERRAT_SIN_FALLBACK_HOST"
+      },
+      {
+        "video_id": "V06",
+        "file": "videos/bupa_proteccion.mp4",
+        "sha256": "08e2db1f5b1234903f6a5e6b05811c4dc2af80d0b6dcea3c94be725b9ce53113",
+        "closing_frame": "revision/qa/bupa_proteccion/V06-S06.png",
+        "closing_frame_sha256": "db7d02fbb8f13b1747f21357d60a9240e7eb1cdfec2368ebac0b34880a9590c4",
+        "contact_sheet": "revision/qa/bupa_proteccion/contacto_6_escenas.jpg",
+        "contact_sheet_sha256": "771e874832910351842af7e86408527b15d5d77b18de3239e2f50aa3077ec6d9",
+        "channel_label": "WhatsApp: +56 9 8612 1803",
+        "visual_recheck": "PASS_6_ESCENAS_ETIQUETA_COMPLETA_SIN_COLISION",
+        "font_qa": "PASS_MONTSERRAT_SIN_FALLBACK_HOST"
+      },
+      {
+        "video_id": "V07",
+        "file": "videos/bupa_pymes.mp4",
+        "sha256": "ca8d27ef0c89c777f522473faa0022296ba66883241d942631fdff6a186a688c",
+        "closing_frame": "revision/qa/bupa_pymes/V07-S06.png",
+        "closing_frame_sha256": "74f3d07bb5bfad7094d7a89c3b3701fa3992dbc5aef62eca9afaf19f8644c4a5",
+        "contact_sheet": "revision/qa/bupa_pymes/contacto_6_escenas.jpg",
+        "contact_sheet_sha256": "a05a6a60c4b332b81e0b11a1b04bcec4aa6f7f12550dba65c646a065d7fb0f5d",
+        "channel_label": "WhatsApp: +56 9 8612 1803",
+        "visual_recheck": "PASS_6_ESCENAS_ETIQUETA_COMPLETA_SIN_COLISION",
+        "font_qa": "PASS_MONTSERRAT_SIN_FALLBACK_HOST"
+      },
+      {
+        "video_id": "V08",
+        "file": "videos/integramedica_100.mp4",
+        "sha256": "ba719c02905371babedea4b91f2f5153c5348b1d0632a8dd8c81588b35efd007",
+        "closing_frame": "revision/qa/integramedica_100/V08-S06.png",
+        "closing_frame_sha256": "bcf49c725144f718970b3c366dc2b2f9ace275bdf3848ce652dbdfc50ff1071e",
+        "contact_sheet": "revision/qa/integramedica_100/contacto_6_escenas.jpg",
+        "contact_sheet_sha256": "b9713cdd4c816ed4b55f8d801346a7fa1ad1dde220a4d2adcf5e3610414b732c",
+        "channel_label": "WhatsApp: +56 9 8612 1803",
+        "visual_recheck": "PASS_6_ESCENAS_ETIQUETA_COMPLETA_SIN_COLISION",
+        "font_qa": "PASS_MONTSERRAT_SIN_FALLBACK_HOST"
+      },
+      {
+        "video_id": "V09",
+        "file": "videos/mi_dental_integramedica.mp4",
+        "sha256": "04b04e1872cf49ed6f099678cfb677d0ca0861e56305cca6b03dd4832cd08bd5",
+        "closing_frame": "revision/qa/mi_dental_integramedica/V09-S06.png",
+        "closing_frame_sha256": "fddca1ff821a38cf5bc395c42aa844370a865d2031cc9e855689241cc9dc45af",
+        "contact_sheet": "revision/qa/mi_dental_integramedica/contacto_6_escenas.jpg",
+        "contact_sheet_sha256": "1667397032d3d4ed3468dc90531309a9a47a8c0816dbb97b4bed97d1abd7d24f",
+        "channel_label": "WhatsApp: +56 9 8612 1803",
+        "visual_recheck": "PASS_6_ESCENAS_ETIQUETA_COMPLETA_SIN_COLISION",
+        "font_qa": "PASS_MONTSERRAT_SIN_FALLBACK_HOST"
+      },
+      {
+        "video_id": "V10",
+        "file": "videos/seguros_global.mp4",
+        "sha256": "a14209ef7cdbd41ae06f0f7b5b3916d2eb6c133b9b60a7d5750e575e30fc36d7",
+        "closing_frame": "revision/qa/seguros_global/V10-S06.png",
+        "closing_frame_sha256": "a40b4fd4cc7afc50be7d3e73f26467c69afb5445d4e540e2ef72bf37ac9c699b",
+        "contact_sheet": "revision/qa/seguros_global/contacto_6_escenas.jpg",
+        "contact_sheet_sha256": "e3758501b67ed9519e5ae61c60babacc91e3ee23a7ed4a66bb1b66e93da9cdcc",
+        "channel_label": "WhatsApp: +56 9 8612 1803",
+        "visual_recheck": "PASS_6_ESCENAS_ETIQUETA_COMPLETA_SIN_COLISION",
+        "font_qa": "PASS_MONTSERRAT_SIN_FALLBACK_HOST"
+      }
+    ],
+    "total_samples_reviewed": 140,
+    "final_version_frames_reviewed": 60,
+    "count_definition": "140 observaciones acumuladas entre iteraciones, algunas repetidas;60fotogramas distintos del conjunto final actual. No es reproducción continua.",
+    "final_revision_context": "Revisión repetida tras regenerar diezMP4 con Montserrat real en subtítulos; hashes anteriores sustituidos.",
+    "qa_summary_sha256": "430178e513eb2c26997885042e9d1cfbf33cc850feb2ba1c98f78da8a07e1a6c",
+    "subtitle_font_no_host_fallback": true
+  },
+  "implementation_findings": [
+    {
+      "id": "UX-CTA-01",
+      "severity": "mejora_necesaria_de_recorrido",
+      "scope": "Plantilla de cierre compartida",
+      "evidence": "Canal WhatsApp solo en subtítulo temporal; arte fijo de3pilotos muestra número sin canal.",
+      "recommendation": "Añadir etiqueta fija WhatsApp junto al número, sin logo.",
+      "status": "cerrado_corregido_y_revalidado_en_10_mp4_definitivos_con_Montserrat",
+      "correction": "Etiqueta permanente WhatsApp: +56 9 8612 1803 integrada al cierre de los diez productos; render y QA repetidos.",
+      "evidence_video_ids": [
+        "V01",
+        "V02",
+        "V03",
+        "V04",
+        "V05",
+        "V06",
+        "V07",
+        "V08",
+        "V09",
+        "V10"
+      ]
+    }
+  ],
+  "known_executable_findings_open": []
+}

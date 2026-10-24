@@ -1,0 +1,146 @@
+{
+  "destination": "56986121803",
+  "source": "Mensajes exactos del AnexoA; plantilla de atención no enviada.",
+  "items": [
+    {
+      "id": "V01",
+      "product": "Plan IntegraMédica Adulto Mayor 70%",
+      "url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Plan%20IntegraM%C3%A9dica%20Adulto%20Mayor%2070%25.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "message": "Hola, quiero información y una cotización de Plan IntegraMédica Adulto Mayor 70%. Vi el anuncio en Instagram.",
+      "first_reply_template": "Hola, gracias por consultar por Plan IntegraMédica Adulto Mayor 70%. [IDENTIDAD_Y_ROL_VERIFICADOS]. ¿Qué edad tiene la persona que busca el plan y en qué ciudad se atendería?",
+      "template_status": "NO_ENVIADA_IDENTIDAD_PENDIENTE",
+      "question": "¿Qué edad tiene la persona que busca el plan y en qué ciudad se atendería?",
+      "boundaries": [
+        "No pedir diagnósticos ni documentos clínicos en el primer mensaje.",
+        "Confirmar requisitos y ficha antes de cotizar; no aprobar asegurabilidad.",
+        "No prometer precios, respuesta inmediata o gratuidad no confirmados."
+      ]
+    },
+    {
+      "id": "V02",
+      "product": "Seguro Bupa Catastrófico",
+      "url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20Catastr%C3%B3fico.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "message": "Hola, quiero información y una cotización de Seguro Bupa Catastrófico. Vi el anuncio en Instagram.",
+      "first_reply_template": "Hola, gracias por consultar por Seguro Bupa Catastrófico. [IDENTIDAD_Y_ROL_VERIFICADOS]. ¿Tienes Isapre o Fonasa y en qué ciudad usarías la cobertura?",
+      "template_status": "NO_ENVIADA_IDENTIDAD_PENDIENTE",
+      "question": "¿Tienes Isapre o Fonasa y en qué ciudad usarías la cobertura?",
+      "boundaries": [
+        "No pedir diagnósticos ni documentos clínicos en el primer mensaje.",
+        "Confirmar requisitos y ficha antes de cotizar; no aprobar asegurabilidad.",
+        "No prometer precios, respuesta inmediata o gratuidad no confirmados."
+      ]
+    },
+    {
+      "id": "V03",
+      "product": "Seguro Bupa Complementa",
+      "url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20Complementa.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "message": "Hola, quiero información y una cotización de Seguro Bupa Complementa. Vi el anuncio en Instagram.",
+      "first_reply_template": "Hola, gracias por consultar por Seguro Bupa Complementa. [IDENTIDAD_Y_ROL_VERIFICADOS]. ¿A qué Isapre estás afiliado y en qué ciudad usarías el plan?",
+      "template_status": "NO_ENVIADA_IDENTIDAD_PENDIENTE",
+      "question": "¿A qué Isapre estás afiliado y en qué ciudad usarías el plan?",
+      "boundaries": [
+        "No pedir diagnósticos ni documentos clínicos en el primer mensaje.",
+        "Confirmar requisitos y ficha antes de cotizar; no aprobar asegurabilidad.",
+        "No prometer precios, respuesta inmediata o gratuidad no confirmados."
+      ]
+    },
+    {
+      "id": "V04",
+      "product": "Seguro Bupa Cuidado Total",
+      "url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20Cuidado%20Total.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "message": "Hola, quiero información y una cotización de Seguro Bupa Cuidado Total. Vi el anuncio en Instagram.",
+      "first_reply_template": "Hola, gracias por consultar por Seguro Bupa Cuidado Total. [IDENTIDAD_Y_ROL_VERIFICADOS]. ¿Tienes Isapre o Fonasa y en qué ciudad te atenderías?",
+      "template_status": "NO_ENVIADA_IDENTIDAD_PENDIENTE",
+      "question": "¿Tienes Isapre o Fonasa y en qué ciudad te atenderías?",
+      "boundaries": [
+        "No pedir diagnósticos ni documentos clínicos en el primer mensaje.",
+        "Confirmar requisitos y ficha antes de cotizar; no aprobar asegurabilidad.",
+        "No prometer precios, respuesta inmediata o gratuidad no confirmados."
+      ]
+    },
+    {
+      "id": "V05",
+      "product": "Seguro Bupa MultiSalud",
+      "url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20MultiSalud.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "message": "Hola, quiero información y una cotización de Seguro Bupa MultiSalud. Vi el anuncio en Instagram.",
+      "first_reply_template": "Hola, gracias por consultar por Seguro Bupa MultiSalud. [IDENTIDAD_Y_ROL_VERIFICADOS]. ¿En qué tramo de Fonasa estás y en qué ciudad utilizarías la red?",
+      "template_status": "NO_ENVIADA_IDENTIDAD_PENDIENTE",
+      "question": "¿En qué tramo de Fonasa estás y en qué ciudad utilizarías la red?",
+      "boundaries": [
+        "No pedir diagnósticos ni documentos clínicos en el primer mensaje.",
+        "Confirmar requisitos y ficha antes de cotizar; no aprobar asegurabilidad.",
+        "No prometer precios, respuesta inmediata o gratuidad no confirmados."
+      ]
+    },
+    {
+      "id": "V06",
+      "product": "Seguro Bupa + Protección",
+      "url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20%2B%20Protecci%C3%B3n.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "message": "Hola, quiero información y una cotización de Seguro Bupa + Protección. Vi el anuncio en Instagram.",
+      "first_reply_template": "Hola, gracias por consultar por Seguro Bupa + Protección. [IDENTIDAD_Y_ROL_VERIFICADOS]. ¿En qué ciudad te atenderías y qué prestador de la red te interesa?",
+      "template_status": "NO_ENVIADA_IDENTIDAD_PENDIENTE",
+      "question": "¿En qué ciudad te atenderías y qué prestador de la red te interesa?",
+      "boundaries": [
+        "No pedir diagnósticos ni documentos clínicos en el primer mensaje.",
+        "Confirmar requisitos y ficha antes de cotizar; no aprobar asegurabilidad.",
+        "No prometer precios, respuesta inmediata o gratuidad no confirmados."
+      ]
+    },
+    {
+      "id": "V07",
+      "product": "Seguro Bupa Pymes",
+      "url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20Pymes.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "message": "Hola, quiero información y una cotización de Seguro Bupa Pymes. Vi el anuncio en Instagram.",
+      "first_reply_template": "Hola, gracias por consultar por Seguro Bupa Pymes. [IDENTIDAD_Y_ROL_VERIFICADOS]. ¿Lo evalúas para tu empresa y cuántos titulares incorporarías?",
+      "template_status": "NO_ENVIADA_IDENTIDAD_PENDIENTE",
+      "question": "¿Lo evalúas para tu empresa y cuántos titulares incorporarías?",
+      "boundaries": [
+        "No pedir diagnósticos ni documentos clínicos en el primer mensaje.",
+        "Confirmar requisitos y ficha antes de cotizar; no aprobar asegurabilidad.",
+        "No prometer precios, respuesta inmediata o gratuidad no confirmados."
+      ]
+    },
+    {
+      "id": "V08",
+      "product": "Plan IntegraMédica 100%",
+      "url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Plan%20IntegraM%C3%A9dica%20100%25.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "message": "Hola, quiero información y una cotización de Plan IntegraMédica 100%. Vi el anuncio en Instagram.",
+      "first_reply_template": "Hola, gracias por consultar por Plan IntegraMédica 100%. [IDENTIDAD_Y_ROL_VERIFICADOS]. ¿Tienes Isapre o Fonasa y buscas revisar atenciones ambulatorias en IntegraMédica?",
+      "template_status": "NO_ENVIADA_IDENTIDAD_PENDIENTE",
+      "question": "¿Tienes Isapre o Fonasa y buscas revisar atenciones ambulatorias en IntegraMédica?",
+      "boundaries": [
+        "No pedir diagnósticos ni documentos clínicos en el primer mensaje.",
+        "Confirmar requisitos y ficha antes de cotizar; no aprobar asegurabilidad.",
+        "No prometer precios, respuesta inmediata o gratuidad no confirmados."
+      ]
+    },
+    {
+      "id": "V09",
+      "product": "Plan Mi Dental IntegraMédica 68%",
+      "url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Plan%20Mi%20Dental%20IntegraM%C3%A9dica%2068%25.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "message": "Hola, quiero información y una cotización de Plan Mi Dental IntegraMédica 68%. Vi el anuncio en Instagram.",
+      "first_reply_template": "Hola, gracias por consultar por Plan Mi Dental IntegraMédica 68%. [IDENTIDAD_Y_ROL_VERIFICADOS]. ¿En qué ciudad utilizarías la red dental IntegraMédica?",
+      "template_status": "NO_ENVIADA_IDENTIDAD_PENDIENTE",
+      "question": "¿En qué ciudad utilizarías la red dental IntegraMédica?",
+      "boundaries": [
+        "No pedir diagnósticos ni documentos clínicos en el primer mensaje.",
+        "Confirmar requisitos y ficha antes de cotizar; no aprobar asegurabilidad.",
+        "No prometer precios, respuesta inmediata o gratuidad no confirmados."
+      ]
+    },
+    {
+      "id": "V10",
+      "product": "Seguros de Salud Global Bupa",
+      "url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguros%20de%20Salud%20Global%20Bupa.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "message": "Hola, quiero información y una cotización de Seguros de Salud Global Bupa. Vi el anuncio en Instagram.",
+      "first_reply_template": "Hola, gracias por consultar por Seguros de Salud Global Bupa. [IDENTIDAD_Y_ROL_VERIFICADOS]. ¿Buscas cobertura de salud internacional o asistencia para un viaje puntual, y en qué país la utilizarías?",
+      "template_status": "NO_ENVIADA_IDENTIDAD_PENDIENTE",
+      "question": "¿Buscas cobertura de salud internacional o asistencia para un viaje puntual, y en qué país la utilizarías?",
+      "boundaries": [
+        "No pedir diagnósticos ni documentos clínicos en el primer mensaje.",
+        "Confirmar requisitos y ficha antes de cotizar; no aprobar asegurabilidad.",
+        "No prometer precios, respuesta inmediata o gratuidad no confirmados."
+      ]
+    }
+  ]
+}

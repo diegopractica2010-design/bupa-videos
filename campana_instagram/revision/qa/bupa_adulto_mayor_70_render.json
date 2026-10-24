@@ -1,0 +1,262 @@
+{
+  "source_inputs": {
+    "sequence": "6b9fe5ad9377962ba46d296b3a9539ef60ac10d26824327bd25f360136aa1d24",
+    "timings": "5127e838da28baf562b5e4179bb2690ee14c940077d2e20b5776f54d1908a3e3",
+    "files": {
+      "recursos/audio/campana_salud_112bpm.wav": "6edf1efbc8345496b3a516a9dc7cb45a157ae9e8cdb8f9bd9e869ba3e36f1e2f",
+      "recursos/fuentes/Montserrat-Bold.ttf": "0b52db9cb0750e8bdbbe4b91d04b81c49697d9f409a48eb88132ebdb9f81c231",
+      "recursos/fuentes/Montserrat-ExtraBold.ttf": "c38e96ce348f356efeed275808f1fdc2b7ce812d74f551f0ff4e35ae8b20ffcc",
+      "audio/escenas/V01-S01.wav": "8200858da77fe19ff863ce784d72177d4206098b7cba19e954421362f6a0e047",
+      "recursos/graficos/V01-S01.png": "5b5357bcba9ce76c4c04a684d0feb6949abf126cefab2950deea2697816107fa",
+      "audio/escenas/V01-S02.wav": "35fa8ede42578e499fbf17998137e58041d436747f087abcc6f0a6fa64abc994",
+      "recursos/graficos/V01-S02.png": "6d0e11d0f3c2ba9743cab41fe9ab8d0d342b6320b97330dae3dda35d3b11bb93",
+      "audio/escenas/V01-S03.wav": "1d181374a0e6a0cc307615ec3faf300e829ffc49eb8c38baddd39af45a78821d",
+      "recursos/graficos/V01-S03.png": "b7ddddf81d5b453b6d2a690d56d87a747c1632fe146ff640970d3888881fb843",
+      "recursos/graficos/V01-S03_detalle.png": "b7ddddf81d5b453b6d2a690d56d87a747c1632fe146ff640970d3888881fb843",
+      "audio/escenas/V01-S04.wav": "fdf78a2d44357d630c85f129adb1e82cdf071b750c0b368f3b6a7b073a926910",
+      "recursos/graficos/V01-S04.png": "11e02cb7cb5c8cf435f331d4f8be5a529084c0e27c1ba61c138155181117bff5",
+      "recursos/graficos/V01-S04_detalle.png": "c32441f493fdbae7ea94961f85a09da695ec50c385d79247ff788107e7e9a7f8",
+      "audio/escenas/V01-S05.wav": "63449ccf57323eec122596231b0ce3d44fcc2e192176436baa4a146e9c07a699",
+      "recursos/graficos/V01-S05.png": "3f00677a499d00303f8268c0fbaa577a42fff1d82940dae40c92531553919287",
+      "recursos/graficos/V01-S05_detalle.png": "3f00677a499d00303f8268c0fbaa577a42fff1d82940dae40c92531553919287",
+      "audio/escenas/V01-S06.wav": "5ef6f3e825ed1fc2a0bb1e49bb4160a6f032da7ab6b8c4e433f7c38f54f08472",
+      "recursos/graficos/V01-S06.png": "cd1ef86694a03bc21eac6815d0db3867cf2b33d14855073df561baad6fba7c8e"
+    },
+    "renderer_code": "47c616cc2e42d5ff4d17c5a089305dee160b564a5f8ea1380c5f0386e284568d"
+  },
+  "id": "V01",
+  "file": "videos/bupa_adulto_mayor_70.mp4",
+  "sha256": "33a35e2a1ed5c782e5b11344e22a90529bb2da8ca66e7c3992f03fb4934893d3",
+  "segments": [
+    {
+      "scene": "V01-S01",
+      "phase": 0,
+      "start": 0.0,
+      "end": 5.133333333333334,
+      "cache_key": "b03fedf7112fc6cdc254f25ded47e458863032650dfebe5c77eb66f76075fb2a",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V01-S02",
+      "phase": 0,
+      "start": 5.133333333333334,
+      "end": 10.1,
+      "cache_key": "a2a2b69b4177dbc20170805fac81596407056a084a9aebe23c3f0b576e89f71c",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V01-S03",
+      "phase": 0,
+      "start": 10.1,
+      "end": 12.633333333333333,
+      "cache_key": "51031955bccd6b17fb73af8728adf9a4e1db7d13cd77c2f81245662cbe672f99",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V01-S03",
+      "phase": 1,
+      "start": 12.633333333333333,
+      "end": 15.166666666666666,
+      "cache_key": "cef94184d1b393f5f3f6e2f6737718e60d6862875a1043c28fd29b850b530b73",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V01-S04",
+      "phase": 0,
+      "start": 15.166666666666666,
+      "end": 17.866666666666667,
+      "cache_key": "ce905c4f350fc0ea5943456cd8a2a5c4dd65061e87f7fb0c7614c81d07b9f2c6",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V01-S04",
+      "phase": 1,
+      "start": 17.866666666666667,
+      "end": 20.533333333333335,
+      "cache_key": "7dbbd2755c41d2cecebcdda5a3c91944561f9efe915c281e63c6be191eccf4f6",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V01-S05",
+      "phase": 0,
+      "start": 20.533333333333335,
+      "end": 25.0,
+      "cache_key": "26901635fbce68f29b8048d72aa8ed782e87c8c6555f00d9c196d9be6879888d",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V01-S06",
+      "phase": 0,
+      "start": 25.0,
+      "end": 30.0,
+      "cache_key": "03726e6aba5e9a219594edc7bfc288269774869ec4af023130ee0397ce140663",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    }
+  ],
+  "voice_music_balance": [
+    {
+      "scene": "V01-S01",
+      "voice_over_music_rms_db": 21.42656232821123,
+      "required_db": 21
+    },
+    {
+      "scene": "V01-S02",
+      "voice_over_music_rms_db": 21.187621940409134,
+      "required_db": 21
+    },
+    {
+      "scene": "V01-S03",
+      "voice_over_music_rms_db": 21.093912233707957,
+      "required_db": 21
+    },
+    {
+      "scene": "V01-S04",
+      "voice_over_music_rms_db": 21.28608619795748,
+      "required_db": 21
+    },
+    {
+      "scene": "V01-S05",
+      "voice_over_music_rms_db": 21.578143431905513,
+      "required_db": 21
+    },
+    {
+      "scene": "V01-S06",
+      "voice_over_music_rms_db": 23.999999999997506,
+      "required_db": 24
+    }
+  ],
+  "subtitle_events": [
+    {
+      "scene": "V01-S01",
+      "start": 0.08433333333333333,
+      "end": 2.059333333333333,
+      "lines": [
+        "Setenta por ciento",
+        "sobre el copago"
+      ],
+      "first_word": 0,
+      "last_word": 5
+    },
+    {
+      "scene": "V01-S01",
+      "start": 2.059333333333333,
+      "end": 4.302666666666667,
+      "lines": [
+        "de atenciones",
+        "ambulatorias incluidas."
+      ],
+      "first_word": 6,
+      "last_word": 9
+    },
+    {
+      "scene": "V01-S02",
+      "start": 5.217666666666667,
+      "end": 9.265333333333334,
+      "lines": [
+        "Conoce el Plan IntegraMédica",
+        "Adulto Mayor setenta por ciento."
+      ],
+      "first_word": 0,
+      "last_word": 8
+    },
+    {
+      "scene": "V01-S03",
+      "start": 10.184333333333333,
+      "end": 12.384333333333332,
+      "lines": [
+        "En la red",
+        "IntegraMédica, según las"
+      ],
+      "first_word": 0,
+      "last_word": 5
+    },
+    {
+      "scene": "V01-S03",
+      "start": 12.384333333333332,
+      "end": 14.317333333333334,
+      "lines": [
+        "prestaciones incluidas",
+        "en el plan."
+      ],
+      "first_word": 6,
+      "last_word": 10
+    },
+    {
+      "scene": "V01-S04",
+      "start": 15.251,
+      "end": 18.44533333333333,
+      "lines": [
+        "Tiene requisitos de edad y un",
+        "tope anual por beneficiario."
+      ],
+      "first_word": 0,
+      "last_word": 9
+    },
+    {
+      "scene": "V01-S05",
+      "start": 20.59266666666667,
+      "end": 24.139333333333337,
+      "lines": [
+        "Antes de cotizar, revisa edad,",
+        "previsión y red de atención."
+      ],
+      "first_word": 0,
+      "last_word": 9
+    },
+    {
+      "scene": "V01-S06",
+      "start": 25.084333333333333,
+      "end": 27.259333333333334,
+      "lines": [
+        "Consulta requisitos",
+        "del Plan Adulto"
+      ],
+      "first_word": 0,
+      "last_word": 4
+    },
+    {
+      "scene": "V01-S06",
+      "start": 27.259333333333334,
+      "end": 29.601333333333336,
+      "lines": [
+        "Mayor setenta por",
+        "ciento por WhatsApp."
+      ],
+      "first_word": 5,
+      "last_word": 10
+    }
+  ],
+  "publication": "BLOQUEADA_FICHAS_MARCA_ESCUCHA_MOVIL"
+}

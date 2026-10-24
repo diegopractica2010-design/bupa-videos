@@ -1,0 +1,55 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/workspace/bupa-videos/campana_instagram/videos/bupa_adulto_mayor_70.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.103
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 787 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 597 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 180 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+  Stream #0:1 -> #0:1 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.103
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 200 kb/s, 30 fps, 30 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 wrapped_avframe
+  Stream #0:1(und): Audio: pcm_s16le, 192000 Hz, stereo, s16, 6144 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 pcm_s16le
+frame=  137 fps=0.0 q=-0.0 size=N/A time=00:00:02.30 bitrate=N/A speed=4.55x    
+frame=  336 fps=334 q=-0.0 size=N/A time=00:00:09.00 bitrate=N/A speed=8.94x    
+frame=  548 fps=364 q=-0.0 size=N/A time=00:00:16.10 bitrate=N/A speed=10.7x    
+frame=  806 fps=402 q=-0.0 size=N/A time=00:00:24.60 bitrate=N/A speed=12.3x    
+[Parsed_loudnorm_0 @ 0x7f4218002740] 
+{
+	"input_i" : "-16.13",
+	"input_tp" : "-2.14",
+	"input_lra" : "3.70",
+	"input_thresh" : "-27.06",
+	"output_i" : "-16.09",
+	"output_tp" : "-1.50",
+	"output_lra" : "3.30",
+	"output_thresh" : "-27.05",
+	"normalization_type" : "dynamic",
+	"target_offset" : "0.09"
+}
+[out#0/null @ 0x55b5d8eb4980] video:387KiB audio:22512KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  900 fps=408 q=-0.0 Lsize=N/A time=00:00:30.00 bitrate=N/A speed=13.6x    

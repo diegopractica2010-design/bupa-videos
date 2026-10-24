@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.partial.mp4
+*.partial.wav
+*.part
+.DS_Store

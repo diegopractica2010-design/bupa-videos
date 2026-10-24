@@ -1,0 +1,1508 @@
+{
+  "videos": [
+    {
+      "id": "V01",
+      "slug": "bupa_adulto_mayor_70",
+      "product": "Plan IntegraMédica Adulto Mayor 70%",
+      "target_duration": 30,
+      "goal": "Que la consulta aclare edad, previsión y funcionamiento del copago ambulatorio en red.",
+      "audience": "Personas mayores y familiares que evalúan atención ambulatoria; requisitos de edad y previsión según el informe, pendientes de ficha vigente.",
+      "scenes": [
+        {
+          "id": "V01-S01",
+          "purpose": "hook",
+          "voice": "Setenta por ciento sobre el copago de atenciones ambulatorias incluidas.",
+          "headline": "70% sobre copago ambulatorio",
+          "note": "Tope anual UF 25 por beneficiario. Red IntegraMédica.",
+          "visual": "consulta",
+          "cards": [
+            {
+              "title": "Ámbito",
+              "body": "Ambulatorio"
+            },
+            {
+              "title": "Base",
+              "body": "Copago"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 0.0,
+          "end": 5.133333333333334
+        },
+        {
+          "id": "V01-S02",
+          "purpose": "presentacion",
+          "voice": "Conoce el Plan IntegraMédica Adulto Mayor setenta por ciento.",
+          "headline": "Plan IntegraMédica Adulto Mayor 70%",
+          "note": "El 70 es porcentaje de cobertura, no edad mínima.",
+          "visual": "documento",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 5.133333333333334,
+          "end": 10.1
+        },
+        {
+          "id": "V01-S03",
+          "purpose": "beneficio",
+          "voice": "En la red IntegraMédica, según las prestaciones incluidas en el plan.",
+          "headline": "Red IntegraMédica",
+          "note": "Isapre o Fonasa B, C y D. Prestaciones y exclusiones según plan.",
+          "visual": "red",
+          "cards": [
+            {
+              "title": "Red de atención",
+              "body": "IntegraMédica"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 10.1,
+          "end": 15.166666666666666
+        },
+        {
+          "id": "V01-S04",
+          "purpose": "condicion",
+          "voice": "Tiene requisitos de edad y un tope anual por beneficiario.",
+          "headline": "Requisitos de edad",
+          "note": "Ingreso: 60 a 84 años y 364 días. Permanencia: hasta 99 años y 364 días.",
+          "visual": "calendario",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 15.166666666666666,
+          "end": 20.533333333333335
+        },
+        {
+          "id": "V01-S05",
+          "purpose": "orientacion",
+          "voice": "Antes de cotizar, revisa edad, previsión y red de atención.",
+          "headline": "¿Corresponde a lo que buscas?",
+          "note": "Tope anual UF 25 por beneficiario. Revisa prestaciones y exclusiones.",
+          "visual": "documento",
+          "cards": [
+            {
+              "title": "Primera revisión",
+              "body": "Edad, previsión y red"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 20.533333333333335,
+          "end": 25.0
+        },
+        {
+          "id": "V01-S06",
+          "purpose": "cta",
+          "voice": "Consulta requisitos del Plan Adulto Mayor setenta por ciento por WhatsApp.",
+          "headline": "Revisa requisitos y cotiza",
+          "note": "Topes y condiciones según plan.",
+          "visual": "cierre",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 25.0,
+          "end": 30.0
+        }
+      ],
+      "caption": "Plan IntegraMédica Adulto Mayor 70%. Cobertura del 70% sobre el copago de atenciones ambulatorias incluidas en la red IntegraMédica. El 70 identifica un porcentaje de cobertura, no una edad mínima.\n\nTope anual UF 25 por beneficiario. Ingreso: 60 a 84 años y 364 días. Permanencia: hasta 99 años y 364 días. Isapre o Fonasa B, C y D. Prestaciones y exclusiones según plan.\n\nAntes de cotizar, revisa los requisitos de edad, previsión y la red donde te atenderías.\n\nConsulta y cotiza por WhatsApp:\nhttps://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Plan%20IntegraM%C3%A9dica%20Adulto%20Mayor%2070%25.%20Vi%20el%20anuncio%20en%20Instagram.\n\nGráficos ilustrativos. La contratación y los beneficios se rigen por las condiciones aplicables. #Bupa #Salud",
+      "whatsapp_url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Plan%20IntegraM%C3%A9dica%20Adulto%20Mayor%2070%25.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "whatsapp_message": "Hola, quiero información y una cotización de Plan IntegraMédica Adulto Mayor 70%. Vi el anuncio en Instagram.",
+      "blocking_checks": [
+        {
+          "id": "ficha_vigente",
+          "status": "pendiente",
+          "detail": "Validar condiciones y versión comercial con ficha aplicable; el informe recibido no acredita vigencia actual."
+        },
+        {
+          "id": "marca",
+          "status": "pendiente",
+          "detail": "Conformidad de denominación y uso de marca por producto. No fabricar ni recortar logos."
+        },
+        {
+          "id": "escucha_y_movil",
+          "status": "pendiente",
+          "detail": "Escucha humana, pronunciación, registro/acento, sincronía perceptiva y lectura real en móvil."
+        },
+        {
+          "id": "identidad_y_destino",
+          "status": "pendiente",
+          "detail": "No atribuir credenciales ni representación. Validar identidad real de quien responde y abrir destino/botón sin enviar mensajes."
+        }
+      ],
+      "duration": 30.0
+    },
+    {
+      "id": "V02",
+      "slug": "bupa_catastrofico",
+      "product": "Seguro Bupa Catastrófico",
+      "target_duration": 28,
+      "goal": "Orientar una consulta sobre protección de alto costo, deducibles y requisitos sin expectativas de pago ilimitado.",
+      "audience": "Personas que evalúan protección de alto costo; el informe identifica Isapre o Fonasa B, C y D y evaluación de asegurabilidad.",
+      "scenes": [
+        {
+          "id": "V02-S01",
+          "purpose": "hook",
+          "voice": "Protección de alto costo, con libre elección según las condiciones del seguro.",
+          "headline": "Alto costo y libre elección",
+          "note": "Isapre o Fonasa B, C y D. Sujeto a evaluación de asegurabilidad.",
+          "visual": "escudo",
+          "cards": [
+            {
+              "title": "Protección",
+              "body": "Alto costo"
+            },
+            {
+              "title": "Libre elección",
+              "body": "Según condiciones"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 0.0,
+          "end": 5.2
+        },
+        {
+          "id": "V02-S02",
+          "purpose": "presentacion",
+          "voice": "Conoce el Seguro Bupa Catastrófico.",
+          "headline": "Seguro Bupa Catastrófico",
+          "note": "Coberturas y condiciones según póliza.",
+          "visual": "escudo",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 5.2,
+          "end": 8.733333333333333
+        },
+        {
+          "id": "V02-S03",
+          "purpose": "beneficio",
+          "voice": "Ofrece protección para enfermedades y accidentes de alto costo.",
+          "headline": "Enfermedades y accidentes",
+          "note": "Libre elección de prestador, con condiciones según sistema de salud.",
+          "visual": "red",
+          "cards": [
+            {
+              "title": "Alcance",
+              "body": "Según tu sistema de salud"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 8.733333333333333,
+          "end": 13.166666666666666
+        },
+        {
+          "id": "V02-S04",
+          "purpose": "condicion",
+          "voice": "Los topes y deducibles dependen de la edad y del sistema previsional.",
+          "headline": "Revisa topes y deducibles",
+          "note": "Carencias, exclusiones y requisitos según póliza.",
+          "visual": "documento",
+          "cards": [
+            {
+              "title": "Topes y deducibles",
+              "body": "Según edad y previsión"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 13.166666666666666,
+          "end": 17.966666666666665
+        },
+        {
+          "id": "V02-S05",
+          "purpose": "orientacion",
+          "voice": "Antes de cotizar, revisa los requisitos y el deducible que corresponden.",
+          "headline": "Una consulta con contexto",
+          "note": "Deducibles y topes según edad, previsión y póliza.",
+          "visual": "documento",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 17.966666666666665,
+          "end": 23.0
+        },
+        {
+          "id": "V02-S06",
+          "purpose": "cta",
+          "voice": "Consulta requisitos y deducibles de Bupa Catastrófico por WhatsApp.",
+          "headline": "Consulta y cotiza",
+          "note": "Coberturas, topes y condiciones según póliza.",
+          "visual": "cierre",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 23.0,
+          "end": 28.0
+        }
+      ],
+      "caption": "Seguro Bupa Catastrófico. Protección para enfermedades y accidentes de alto costo, con libre elección de prestador y condiciones según tu sistema de salud.\n\nIsapre o Fonasa B, C y D. Topes, deducibles, carencias y exclusiones según edad, sistema previsional y póliza. Sujeto a evaluación de asegurabilidad.\n\nConsulta los requisitos y el deducible aplicable antes de solicitar una cotización. No se ofrece un monto de cobertura universal.\n\nConsulta y cotiza por WhatsApp:\nhttps://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20Catastr%C3%B3fico.%20Vi%20el%20anuncio%20en%20Instagram.\n\nGráficos ilustrativos. La contratación y los beneficios se rigen por las condiciones aplicables. #Bupa #Salud",
+      "whatsapp_url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20Catastr%C3%B3fico.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "whatsapp_message": "Hola, quiero información y una cotización de Seguro Bupa Catastrófico. Vi el anuncio en Instagram.",
+      "blocking_checks": [
+        {
+          "id": "ficha_vigente",
+          "status": "pendiente",
+          "detail": "Validar condiciones y versión comercial con ficha aplicable; el informe recibido no acredita vigencia actual."
+        },
+        {
+          "id": "marca",
+          "status": "pendiente",
+          "detail": "Conformidad de denominación y uso de marca por producto. No fabricar ni recortar logos."
+        },
+        {
+          "id": "escucha_y_movil",
+          "status": "pendiente",
+          "detail": "Escucha humana, pronunciación, registro/acento, sincronía perceptiva y lectura real en móvil."
+        },
+        {
+          "id": "identidad_y_destino",
+          "status": "pendiente",
+          "detail": "No atribuir credenciales ni representación. Validar identidad real de quien responde y abrir destino/botón sin enviar mensajes."
+        }
+      ],
+      "duration": 28.0
+    },
+    {
+      "id": "V03",
+      "slug": "bupa_complementa",
+      "product": "Seguro Bupa Complementa",
+      "target_duration": 28,
+      "goal": "Que una persona afiliada a Isapre consulte cómo opera el complemento sobre copagos sin esperar pago de todo saldo.",
+      "audience": "Afiliados a Isapre; exclusividad y condiciones según el informe, pendientes de ficha vigente.",
+      "scenes": [
+        {
+          "id": "V03-S01",
+          "purpose": "hook",
+          "voice": "Si tienes Isapre, revisa cómo complementar tus copagos.",
+          "headline": "Para afiliados a Isapre",
+          "note": "Exclusivo Isapre. Prestaciones incluidas según plan.",
+          "visual": "copago",
+          "cards": [
+            {
+              "title": "Público",
+              "body": "Afiliados a Isapre"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 0.0,
+          "end": 4.8
+        },
+        {
+          "id": "V03-S02",
+          "purpose": "presentacion",
+          "voice": "Conoce el Seguro Bupa Complementa.",
+          "headline": "Seguro Bupa Complementa",
+          "note": "Coberturas y condiciones según plan.",
+          "visual": "escudo",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 4.8,
+          "end": 8.766666666666667
+        },
+        {
+          "id": "V03-S03",
+          "purpose": "beneficio",
+          "voice": "El complemento se aplica sobre copagos de prestaciones incluidas.",
+          "headline": "Cobertura sobre copagos",
+          "note": "Sujeto a bonificación previa, red y condiciones del plan.",
+          "visual": "copago",
+          "cards": [
+            {
+              "title": "Plan Isapre",
+              "body": "Bonificación previa"
+            },
+            {
+              "title": "Copago",
+              "body": "Prestaciones incluidas"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 8.766666666666667,
+          "end": 14.0
+        },
+        {
+          "id": "V03-S04",
+          "purpose": "condicion",
+          "voice": "En la misma proporción que tu Isapre, con topes y condiciones.",
+          "headline": "Complemento según plan",
+          "note": "Sujeto a topes, red, exclusiones y evaluación de asegurabilidad.",
+          "visual": "copago",
+          "cards": [
+            {
+              "title": "Complemento",
+              "body": "Según proporción y topes"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 14.0,
+          "end": 18.8
+        },
+        {
+          "id": "V03-S05",
+          "purpose": "orientacion",
+          "voice": "Revisa cómo opera con tu plan antes de contratar.",
+          "headline": "Entiende cómo se aplica",
+          "note": "Prestaciones incluidas, topes, red y exclusiones según plan.",
+          "visual": "documento",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 18.8,
+          "end": 23.0
+        },
+        {
+          "id": "V03-S06",
+          "purpose": "cta",
+          "voice": "Consulta cómo opera Bupa Complementa y cotiza por WhatsApp.",
+          "headline": "Revisa tu alternativa y cotiza",
+          "note": "Exclusivo para afiliados a Isapre. Condiciones según plan.",
+          "visual": "cierre",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 23.0,
+          "end": 28.0
+        }
+      ],
+      "caption": "Seguro Bupa Complementa, exclusivo para afiliados a Isapre. Su cobertura se aplica sobre copagos de prestaciones incluidas, en la misma proporción que tu Isapre, con topes y condiciones.\n\nSujeto a bonificación previa, topes, red, exclusiones y evaluación de asegurabilidad. No se promete pagar todo el saldo ni cubrir cualquier prestación.\n\nConsulta cómo opera el complemento con el plan aplicable antes de contratar.\n\nConsulta y cotiza por WhatsApp:\nhttps://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20Complementa.%20Vi%20el%20anuncio%20en%20Instagram.\n\nGráficos ilustrativos. La contratación y los beneficios se rigen por las condiciones aplicables. #Bupa #Salud",
+      "whatsapp_url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20Complementa.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "whatsapp_message": "Hola, quiero información y una cotización de Seguro Bupa Complementa. Vi el anuncio en Instagram.",
+      "blocking_checks": [
+        {
+          "id": "ficha_vigente",
+          "status": "pendiente",
+          "detail": "Validar condiciones y versión comercial con ficha aplicable; el informe recibido no acredita vigencia actual."
+        },
+        {
+          "id": "marca",
+          "status": "pendiente",
+          "detail": "Conformidad de denominación y uso de marca por producto. No fabricar ni recortar logos."
+        },
+        {
+          "id": "escucha_y_movil",
+          "status": "pendiente",
+          "detail": "Escucha humana, pronunciación, registro/acento, sincronía perceptiva y lectura real en móvil."
+        },
+        {
+          "id": "identidad_y_destino",
+          "status": "pendiente",
+          "detail": "No atribuir credenciales ni representación. Validar identidad real de quien responde y abrir destino/botón sin enviar mensajes."
+        },
+        {
+          "id": "mecanismo_isapre",
+          "status": "pendiente",
+          "detail": "Confirmar aplicación de misma proporción con ficha; no inventar liquidaciones ni prometer todo saldo."
+        }
+      ],
+      "duration": 28.0
+    },
+    {
+      "id": "V04",
+      "slug": "bupa_cuidado_total",
+      "product": "Seguro Bupa Cuidado Total",
+      "target_duration": 28,
+      "goal": "Mostrar desde el inicio las tres categorías documentadas y llevar a una revisión de previsión, red y condiciones del plan.",
+      "audience": "Personas con Isapre o Fonasa B, C y D según el caption del informe, sujetas a requisitos y evaluación.",
+      "scenes": [
+        {
+          "id": "V04-S01",
+          "purpose": "hook",
+          "voice": "Consultas, exámenes y hospitalización, según el plan contratado.",
+          "headline": "Coberturas según tu plan",
+          "note": "Isapre o Fonasa B, C y D. Sujeto a evaluación de asegurabilidad.",
+          "visual": "consulta",
+          "cards": [
+            {
+              "title": "Consultas",
+              "body": "Según plan"
+            },
+            {
+              "title": "Exámenes",
+              "body": "Según plan"
+            },
+            {
+              "title": "Hospitalización",
+              "body": "Según plan"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 0.0,
+          "end": 5.033333333333333
+        },
+        {
+          "id": "V04-S02",
+          "purpose": "presentacion",
+          "voice": "Conoce el Seguro Bupa Cuidado Total.",
+          "headline": "Seguro Bupa Cuidado Total",
+          "note": "El alcance depende del plan contratado.",
+          "visual": "escudo",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 5.033333333333333,
+          "end": 8.766666666666667
+        },
+        {
+          "id": "V04-S03",
+          "purpose": "beneficio",
+          "voice": "Las coberturas dependen del plan contratado y de sus prestadores.",
+          "headline": "Prestadores según plan",
+          "note": "Porcentajes, deducibles, topes y red según plan.",
+          "visual": "red",
+          "cards": [
+            {
+              "title": "Cobertura",
+              "body": "Según plan contratado"
+            },
+            {
+              "title": "Atención",
+              "body": "Prestadores aplicables"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 8.766666666666667,
+          "end": 13.6
+        },
+        {
+          "id": "V04-S04",
+          "purpose": "condicion",
+          "voice": "Revisa porcentajes, deducibles, topes y exclusiones.",
+          "headline": "Entiende el alcance",
+          "note": "Sujeto a condiciones del plan y evaluación de asegurabilidad.",
+          "visual": "documento",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 13.6,
+          "end": 18.033333333333335
+        },
+        {
+          "id": "V04-S05",
+          "purpose": "orientacion",
+          "voice": "Antes de cotizar, revisa tu previsión y la red donde te atenderías.",
+          "headline": "¿Corresponde a tu previsión y red?",
+          "note": "Prestaciones incluidas, sujetas a topes y exclusiones.",
+          "visual": "documento",
+          "cards": [
+            {
+              "title": "Primera revisión",
+              "body": "Previsión y red"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 18.033333333333335,
+          "end": 23.0
+        },
+        {
+          "id": "V04-S06",
+          "purpose": "cta",
+          "voice": "Consulta cobertura y cotización de Bupa Cuidado Total por WhatsApp.",
+          "headline": "Revisa cobertura y cotiza",
+          "note": "Coberturas, requisitos y exclusiones según plan.",
+          "visual": "cierre",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 23.0,
+          "end": 28.0
+        }
+      ],
+      "caption": "Seguro Bupa Cuidado Total. Incluye coberturas para consultas, exámenes y hospitalización según el plan contratado. El nombre del producto no implica cobertura ilimitada.\n\nIsapre o Fonasa B, C y D. Porcentajes, deducibles, topes, red y exclusiones según plan. Sujeto a evaluación de asegurabilidad.\n\nConsulta qué alternativa corresponde a tu previsión y prestadores antes de cotizar.\n\nConsulta y cotiza por WhatsApp:\nhttps://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20Cuidado%20Total.%20Vi%20el%20anuncio%20en%20Instagram.\n\nGráficos ilustrativos. La contratación y los beneficios se rigen por las condiciones aplicables. #Bupa #Salud",
+      "whatsapp_url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20Cuidado%20Total.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "whatsapp_message": "Hola, quiero información y una cotización de Seguro Bupa Cuidado Total. Vi el anuncio en Instagram.",
+      "blocking_checks": [
+        {
+          "id": "ficha_vigente",
+          "status": "pendiente",
+          "detail": "Validar condiciones y versión comercial con ficha aplicable; el informe recibido no acredita vigencia actual."
+        },
+        {
+          "id": "marca",
+          "status": "pendiente",
+          "detail": "Conformidad de denominación y uso de marca por producto. No fabricar ni recortar logos."
+        },
+        {
+          "id": "escucha_y_movil",
+          "status": "pendiente",
+          "detail": "Escucha humana, pronunciación, registro/acento, sincronía perceptiva y lectura real en móvil."
+        },
+        {
+          "id": "identidad_y_destino",
+          "status": "pendiente",
+          "detail": "No atribuir credenciales ni representación. Validar identidad real de quien responde y abrir destino/botón sin enviar mensajes."
+        }
+      ],
+      "duration": 28.0
+    },
+    {
+      "id": "V05",
+      "slug": "bupa_multisalud",
+      "product": "Seguro Bupa MultiSalud",
+      "target_duration": 28,
+      "goal": "Alinear público Fonasa B/C/D y conducir a revisar la red de MultiSalud antes de cotizar.",
+      "audience": "Afiliados a Fonasa B, C y D conforme al informe; no se afirma admisión automática.",
+      "scenes": [
+        {
+          "id": "V05-S01",
+          "purpose": "hook",
+          "voice": "Para afiliados a Fonasa B, C y D.",
+          "headline": "Fonasa B, C y D",
+          "note": "Sujeto a requisitos y evaluación de asegurabilidad.",
+          "visual": "documento",
+          "cards": [
+            {
+              "title": "Fonasa",
+              "body": "Tramos B, C y D"
+            },
+            {
+              "title": "Red del plan",
+              "body": "Revisa dónde atenderte"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 0.0,
+          "end": 4.566666666666666
+        },
+        {
+          "id": "V05-S02",
+          "purpose": "presentacion",
+          "voice": "Conoce el Seguro Bupa MultiSalud.",
+          "headline": "Seguro Bupa MultiSalud",
+          "note": "Red y condiciones según póliza.",
+          "visual": "escudo",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 4.566666666666666,
+          "end": 8.333333333333334
+        },
+        {
+          "id": "V05-S03",
+          "purpose": "beneficio",
+          "voice": "Ofrece coberturas ambulatorias y hospitalarias en su red de prestadores.",
+          "headline": "Ambulatorio y hospitalario",
+          "note": "Porcentajes y topes dependen de la red y las condiciones.",
+          "visual": "consulta",
+          "cards": [
+            {
+              "title": "Ambulatorio",
+              "body": "En la red del plan"
+            },
+            {
+              "title": "Hospitalario",
+              "body": "En la red del plan"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 8.333333333333334,
+          "end": 13.666666666666666
+        },
+        {
+          "id": "V05-S04",
+          "purpose": "condicion",
+          "voice": "La red, los topes y las condiciones importan al elegir.",
+          "headline": "Revisa la red aplicable",
+          "note": "Topes, deducibles, carencias y exclusiones según póliza.",
+          "visual": "red",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 13.666666666666666,
+          "end": 18.066666666666666
+        },
+        {
+          "id": "V05-S05",
+          "purpose": "orientacion",
+          "voice": "Consulta si la red del plan corresponde al lugar donde te atenderías.",
+          "headline": "Tu consulta: red y requisitos",
+          "note": "Fonasa B, C y D. Sujeto a evaluación de asegurabilidad.",
+          "visual": "documento",
+          "cards": [
+            {
+              "title": "Primera revisión",
+              "body": "Previsión y lugar de atención"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 18.066666666666666,
+          "end": 23.0
+        },
+        {
+          "id": "V05-S06",
+          "purpose": "cta",
+          "voice": "Consulta red y cotización de Bupa MultiSalud por WhatsApp.",
+          "headline": "Revisa red y cotiza",
+          "note": "Coberturas y condiciones según póliza.",
+          "visual": "cierre",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 23.0,
+          "end": 28.0
+        }
+      ],
+      "caption": "Seguro Bupa MultiSalud para afiliados a Fonasa B, C y D. Ofrece coberturas ambulatorias y hospitalarias en su red de prestadores; porcentajes y topes dependen de la red y las condiciones.\n\nRed, topes, deducibles, carencias y exclusiones según póliza. Sujeto a evaluación de asegurabilidad.\n\nConsulta requisitos y la red de atención aplicable antes de cotizar. No se afirma que cualquier prestador o situación previsional corresponda al plan.\n\nConsulta y cotiza por WhatsApp:\nhttps://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20MultiSalud.%20Vi%20el%20anuncio%20en%20Instagram.\n\nGráficos ilustrativos. La contratación y los beneficios se rigen por las condiciones aplicables. #Bupa #Salud",
+      "whatsapp_url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20MultiSalud.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "whatsapp_message": "Hola, quiero información y una cotización de Seguro Bupa MultiSalud. Vi el anuncio en Instagram.",
+      "blocking_checks": [
+        {
+          "id": "ficha_vigente",
+          "status": "pendiente",
+          "detail": "Validar condiciones y versión comercial con ficha aplicable; el informe recibido no acredita vigencia actual."
+        },
+        {
+          "id": "marca",
+          "status": "pendiente",
+          "detail": "Conformidad de denominación y uso de marca por producto. No fabricar ni recortar logos."
+        },
+        {
+          "id": "escucha_y_movil",
+          "status": "pendiente",
+          "detail": "Escucha humana, pronunciación, registro/acento, sincronía perceptiva y lectura real en móvil."
+        },
+        {
+          "id": "identidad_y_destino",
+          "status": "pendiente",
+          "detail": "No atribuir credenciales ni representación. Validar identidad real de quien responde y abrir destino/botón sin enviar mensajes."
+        }
+      ],
+      "duration": 28.0
+    },
+    {
+      "id": "V06",
+      "slug": "bupa_proteccion",
+      "product": "Seguro Bupa + Protección",
+      "target_duration": 28,
+      "goal": "Acercar desde la apertura familias Fonasa y los dos prestadores documentados sin trasladar condiciones desde otros productos.",
+      "audience": "Familias afiliadas a Fonasa según el informe; requisitos individuales y del plan por validar.",
+      "scenes": [
+        {
+          "id": "V06-S01",
+          "purpose": "hook",
+          "voice": "Familias Fonasa: Clínica Bupa Santiago y red IntegraMédica.",
+          "headline": "Fonasa y una red concreta",
+          "note": "Coberturas sujetas a prestadores, requisitos y condiciones del plan.",
+          "visual": "red",
+          "cards": [
+            {
+              "title": "Clínica",
+              "body": "Bupa Santiago"
+            },
+            {
+              "title": "Red",
+              "body": "IntegraMédica"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 0.0,
+          "end": 4.8
+        },
+        {
+          "id": "V06-S02",
+          "purpose": "presentacion",
+          "voice": "Conoce el Seguro Bupa más Protección.",
+          "headline": "Seguro Bupa + Protección",
+          "note": "Exclusivo Fonasa. Sujeto a evaluación de asegurabilidad.",
+          "visual": "escudo",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 4.8,
+          "end": 8.5
+        },
+        {
+          "id": "V06-S03",
+          "purpose": "beneficio",
+          "voice": "Las coberturas se aplican en los prestadores indicados, según el plan.",
+          "headline": "Clínica Bupa Santiago y red IntegraMédica",
+          "note": "Prestaciones y topes según la alternativa.",
+          "visual": "red",
+          "cards": [
+            {
+              "title": "Clínica Bupa Santiago",
+              "body": "Según plan"
+            },
+            {
+              "title": "Red IntegraMédica",
+              "body": "Según plan"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 8.5,
+          "end": 13.366666666666667
+        },
+        {
+          "id": "V06-S04",
+          "purpose": "condicion",
+          "voice": "La cobertura está sujeta a topes, carencias y exclusiones del plan.",
+          "headline": "Prestaciones según plan",
+          "note": "Prestaciones, red y condiciones según plan. Revisa requisitos de incorporación.",
+          "visual": "documento",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 13.366666666666667,
+          "end": 18.266666666666666
+        },
+        {
+          "id": "V06-S05",
+          "purpose": "orientacion",
+          "voice": "Antes de cotizar, confirma requisitos y la red donde te atenderías.",
+          "headline": "Revisa red y requisitos",
+          "note": "Coberturas en prestadores indicados. Sujeto a evaluación de asegurabilidad.",
+          "visual": "documento",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 18.266666666666666,
+          "end": 23.0
+        },
+        {
+          "id": "V06-S06",
+          "purpose": "cta",
+          "voice": "Consulta red y requisitos de Bupa más Protección por WhatsApp.",
+          "headline": "Consulta tu alternativa",
+          "note": "Coberturas, carencias y exclusiones según plan.",
+          "visual": "cierre",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 23.0,
+          "end": 28.0
+        }
+      ],
+      "caption": "Seguro Bupa + Protección para familias afiliadas a Fonasa. Coberturas en Clínica Bupa Santiago y la red IntegraMédica, según la alternativa del plan.\n\nExclusivo Fonasa. Cobertura en prestadores indicados, sujeta a topes, condiciones, carencias y exclusiones del plan. Sujeto a evaluación de asegurabilidad.\n\nConsulta requisitos, prestaciones y red antes de cotizar. Revisa los requisitos de incorporación y los prestadores aplicables.\n\nConsulta y cotiza por WhatsApp:\nhttps://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20%2B%20Protecci%C3%B3n.%20Vi%20el%20anuncio%20en%20Instagram.\n\nGráficos ilustrativos. La contratación y los beneficios se rigen por las condiciones aplicables. #Bupa #Salud",
+      "whatsapp_url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20%2B%20Protecci%C3%B3n.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "whatsapp_message": "Hola, quiero información y una cotización de Seguro Bupa + Protección. Vi el anuncio en Instagram.",
+      "blocking_checks": [
+        {
+          "id": "ficha_vigente",
+          "status": "pendiente",
+          "detail": "Validar condiciones y versión comercial con ficha aplicable; el informe recibido no acredita vigencia actual."
+        },
+        {
+          "id": "marca",
+          "status": "pendiente",
+          "detail": "Conformidad de denominación y uso de marca por producto. No fabricar ni recortar logos."
+        },
+        {
+          "id": "escucha_y_movil",
+          "status": "pendiente",
+          "detail": "Escucha humana, pronunciación, registro/acento, sincronía perceptiva y lectura real en móvil."
+        },
+        {
+          "id": "identidad_y_destino",
+          "status": "pendiente",
+          "detail": "No atribuir credenciales ni representación. Validar identidad real de quien responde y abrir destino/botón sin enviar mensajes."
+        }
+      ],
+      "duration": 28.0
+    },
+    {
+      "id": "V07",
+      "slug": "bupa_pymes",
+      "product": "Seguro Bupa Pymes",
+      "target_duration": 30,
+      "goal": "Recibir consultas de responsables de empresa con tamaño de grupo y expectativas correctas sobre requisitos por plan.",
+      "audience": "Personas que evalúan beneficios de salud colectivos para una empresa; no contratación individual del trabajador.",
+      "scenes": [
+        {
+          "id": "V07-S01",
+          "purpose": "hook",
+          "voice": "Si evalúas beneficios para tu empresa, revisa los requisitos del grupo.",
+          "headline": "Beneficios para tu empresa",
+          "note": "Planes colectivos. Requisitos de contratación según plan.",
+          "visual": "grupo",
+          "cards": [
+            {
+              "title": "Para tu empresa",
+              "body": "Revisa el grupo de titulares"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 0.0,
+          "end": 5.3
+        },
+        {
+          "id": "V07-S02",
+          "purpose": "presentacion",
+          "voice": "Conoce el Seguro Bupa Pymes.",
+          "headline": "Seguro Bupa Pymes",
+          "note": "Alternativas y condiciones según plan.",
+          "visual": "escudo",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 5.3,
+          "end": 9.1
+        },
+        {
+          "id": "V07-S03",
+          "purpose": "beneficio",
+          "voice": "Hay alternativas desde cinco titulares. El plan ochenta por ciento parte desde quince.",
+          "headline": "Requisitos por alternativa",
+          "note": "Cada alternativa tiene requisitos propios de titulares.",
+          "visual": "grupo",
+          "cards": [
+            {
+              "title": "Alternativas según plan",
+              "body": "Desde 5 titulares"
+            },
+            {
+              "title": "Plan 80%",
+              "body": "Desde 15 titulares"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 9.1,
+          "end": 15.266666666666667
+        },
+        {
+          "id": "V07-S04",
+          "purpose": "condicion",
+          "voice": "La adhesión mínima es del ochenta por ciento.",
+          "headline": "Requisito de adhesión",
+          "note": "Adhesión mínima 80%. Revisar cálculo y grupo aplicable.",
+          "visual": "grupo",
+          "cards": [
+            {
+              "title": "Adhesión mínima",
+              "body": "80%"
+            },
+            {
+              "title": "Concepto distinto",
+              "body": "Del porcentaje del plan"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 15.266666666666667,
+          "end": 19.866666666666667
+        },
+        {
+          "id": "V07-S05",
+          "purpose": "orientacion",
+          "voice": "Revisa cantidad de titulares, requisitos y combinación de coberturas.",
+          "headline": "¿Qué alternativa corresponde?",
+          "note": "Base y adicionales según plan. Coberturas, topes, deducibles y exclusiones aplicables.",
+          "visual": "documento",
+          "cards": [
+            {
+              "title": "Cobertura base",
+              "body": "Según plan"
+            },
+            {
+              "title": "Adicionales",
+              "body": "Según alternativa"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 19.866666666666667,
+          "end": 25.0
+        },
+        {
+          "id": "V07-S06",
+          "purpose": "cta",
+          "voice": "Consulta requisitos y cotización de Bupa Pymes por WhatsApp.",
+          "headline": "Cotiza para tu empresa",
+          "note": "Solicita una revisión según cantidad de titulares y requisitos.",
+          "visual": "cierre",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 25.0,
+          "end": 30.0
+        }
+      ],
+      "caption": "Seguro Bupa Pymes: beneficios de salud para tu equipo, con cobertura base y adicionales según la alternativa.\n\nHay alternativas desde cinco titulares, según el plan. El plan 80% requiere desde quince titulares. La adhesión mínima es del 80%; es un requisito distinto del porcentaje que identifica ese plan.\n\nCoberturas, topes, deducibles y exclusiones según plan y condiciones de contratación. Consulta los requisitos aplicables al grupo de tu empresa antes de cotizar.\n\nConsulta y cotiza por WhatsApp:\nhttps://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20Pymes.%20Vi%20el%20anuncio%20en%20Instagram.\n\nGráficos ilustrativos. La contratación y los beneficios se rigen por las condiciones aplicables. #Bupa #Salud",
+      "whatsapp_url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguro%20Bupa%20Pymes.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "whatsapp_message": "Hola, quiero información y una cotización de Seguro Bupa Pymes. Vi el anuncio en Instagram.",
+      "blocking_checks": [
+        {
+          "id": "ficha_vigente",
+          "status": "pendiente",
+          "detail": "Validar condiciones y versión comercial con ficha aplicable; el informe recibido no acredita vigencia actual."
+        },
+        {
+          "id": "marca",
+          "status": "pendiente",
+          "detail": "Conformidad de denominación y uso de marca por producto. No fabricar ni recortar logos."
+        },
+        {
+          "id": "escucha_y_movil",
+          "status": "pendiente",
+          "detail": "Escucha humana, pronunciación, registro/acento, sincronía perceptiva y lectura real en móvil."
+        },
+        {
+          "id": "identidad_y_destino",
+          "status": "pendiente",
+          "detail": "No atribuir credenciales ni representación. Validar identidad real de quien responde y abrir destino/botón sin enviar mensajes."
+        },
+        {
+          "id": "requisitos_grupo",
+          "status": "pendiente",
+          "detail": "Verificar plan, titulares y denominador de adhesión; no confundir los dos usos de80%."
+        }
+      ],
+      "duration": 30.0
+    },
+    {
+      "id": "V08",
+      "slug": "integramedica_100",
+      "product": "Plan IntegraMédica 100%",
+      "target_duration": 30,
+      "goal": "Acotar el beneficio ambulatorio e identificar la condición de bonificación sin inventar su relación con el nombre 100%.",
+      "audience": "Personas que evalúan el plan ambulatorio; Isapre o Fonasa B/C/D según informe, sin inferir admisión por la nota del 50%.",
+      "scenes": [
+        {
+          "id": "V08-S01",
+          "purpose": "hook",
+          "voice": "Atenciones ambulatorias en la red IntegraMédica, con prestaciones incluidas.",
+          "headline": "Copago ambulatorio en red",
+          "note": "Beneficios, requisitos y exclusiones según ficha.",
+          "visual": "consulta",
+          "cards": [
+            {
+              "title": "Red",
+              "body": "IntegraMédica"
+            },
+            {
+              "title": "Ámbito",
+              "body": "Prestaciones ambulatorias"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 0.0,
+          "end": 5.766666666666667
+        },
+        {
+          "id": "V08-S02",
+          "purpose": "presentacion",
+          "voice": "Conoce el Plan IntegraMédica cien por ciento.",
+          "headline": "Plan IntegraMédica 100%",
+          "note": "Isapre o Fonasa B, C y D.",
+          "visual": "documento",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 5.766666666666667,
+          "end": 9.766666666666667
+        },
+        {
+          "id": "V08-S03",
+          "purpose": "beneficio",
+          "voice": "Cubre el copago de prestaciones incluidas, con tope anual y carencias.",
+          "headline": "100% sobre copago incluido",
+          "note": "Tope anual UF 60 por beneficiario.",
+          "visual": "consulta",
+          "cards": [
+            {
+              "title": "Copago",
+              "body": "Prestaciones incluidas"
+            },
+            {
+              "title": "Tope anual",
+              "body": "UF 60 por beneficiario"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 9.766666666666667,
+          "end": 14.933333333333334
+        },
+        {
+          "id": "V08-S04",
+          "purpose": "condicion",
+          "voice": "Hay condiciones específicas de bonificación que deben revisarse.",
+          "headline": "Condición de bonificación",
+          "note": "Sin cobertura previsional: bonificación 50%.",
+          "visual": "documento",
+          "cards": [
+            {
+              "title": "Condición específica",
+              "body": "Sin cobertura previsional"
+            },
+            {
+              "title": "Bonificación",
+              "body": "50%, según ficha"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 14.933333333333334,
+          "end": 20.0
+        },
+        {
+          "id": "V08-S05",
+          "purpose": "orientacion",
+          "voice": "Revisa requisitos y las carencias aplicables antes de contratar.",
+          "headline": "Revisa topes y carencias",
+          "note": "Carencia de 4 meses en prestaciones indicadas.",
+          "visual": "calendario",
+          "cards": [
+            {
+              "title": "Carencia",
+              "body": "4 meses en prestaciones indicadas"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 20.0,
+          "end": 25.0
+        },
+        {
+          "id": "V08-S06",
+          "purpose": "cta",
+          "voice": "Cotiza el Plan IntegraMédica cien por ciento por WhatsApp.",
+          "headline": "Revisa condiciones y cotiza",
+          "note": "Prestaciones incluidas, topes, carencias y exclusiones según plan.",
+          "visual": "cierre",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 25.0,
+          "end": 30.0
+        }
+      ],
+      "caption": "Plan IntegraMédica 100%. Cubre el copago de prestaciones ambulatorias incluidas en la red IntegraMédica, con tope anual y carencias para determinadas prestaciones.\n\nTope anual UF 60 por beneficiario. Carencia de 4 meses en prestaciones señaladas en el plan. Isapre o Fonasa B, C y D. Red, requisitos y exclusiones según ficha.\n\nSin cobertura previsional: bonificación del 50%. Revisa esta condición y los requisitos en la ficha del plan aplicable.\n\nConsulta condiciones y requisitos antes de cotizar. No se promete cobertura ilimitada, inmediata ni costo cero.\n\nConsulta y cotiza por WhatsApp:\nhttps://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Plan%20IntegraM%C3%A9dica%20100%25.%20Vi%20el%20anuncio%20en%20Instagram.\n\nGráficos ilustrativos. La contratación y los beneficios se rigen por las condiciones aplicables. #Bupa #Salud",
+      "whatsapp_url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Plan%20IntegraM%C3%A9dica%20100%25.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "whatsapp_message": "Hola, quiero información y una cotización de Plan IntegraMédica 100%. Vi el anuncio en Instagram.",
+      "blocking_checks": [
+        {
+          "id": "ficha_vigente",
+          "status": "pendiente",
+          "detail": "Validar condiciones y versión comercial con ficha aplicable; el informe recibido no acredita vigencia actual."
+        },
+        {
+          "id": "marca",
+          "status": "pendiente",
+          "detail": "Conformidad de denominación y uso de marca por producto. No fabricar ni recortar logos."
+        },
+        {
+          "id": "escucha_y_movil",
+          "status": "pendiente",
+          "detail": "Escucha humana, pronunciación, registro/acento, sincronía perceptiva y lectura real en móvil."
+        },
+        {
+          "id": "identidad_y_destino",
+          "status": "pendiente",
+          "detail": "No atribuir credenciales ni representación. Validar identidad real de quien responde y abrir destino/botón sin enviar mensajes."
+        },
+        {
+          "id": "relacion_100_50",
+          "status": "pendiente",
+          "detail": "La nota50% se conserva separada. No se interpreta su relación exacta con100% ni se infiere elegibilidad sin ficha."
+        }
+      ],
+      "duration": 30.0
+    },
+    {
+      "id": "V09",
+      "slug": "mi_dental_integramedica",
+      "product": "Plan Mi Dental IntegraMédica 68%",
+      "target_duration": 30,
+      "goal": "Que se entienda desde el inicio el descuento sobre arancel, su red y prestaciones, sin expectativa de precio final garantizado.",
+      "audience": "Personas que consultan un plan dental IntegraMédica 68%; no se añade elegibilidad personal no documentada.",
+      "scenes": [
+        {
+          "id": "V09-S01",
+          "purpose": "hook",
+          "voice": "Sesenta y ocho por ciento de descuento sobre arancel en tratamientos incluidos.",
+          "headline": "68% de descuento sobre arancel",
+          "note": "Arancel IntegraMédica vigente. Sujeto a prestaciones del plan.",
+          "visual": "dental",
+          "cards": [
+            {
+              "title": "Descuento",
+              "body": "Sobre arancel"
+            },
+            {
+              "title": "Tratamientos",
+              "body": "Incluidos en el plan"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 0.0,
+          "end": 5.633333333333334
+        },
+        {
+          "id": "V09-S02",
+          "purpose": "presentacion",
+          "voice": "Conoce Mi Dental IntegraMédica sesenta y ocho por ciento.",
+          "headline": "Mi Dental IntegraMédica 68%",
+          "note": "Descuento sobre arancel. Prestaciones y condiciones según plan.",
+          "visual": "dental",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 5.633333333333334,
+          "end": 10.333333333333334
+        },
+        {
+          "id": "V09-S03",
+          "purpose": "beneficio",
+          "voice": "Contempla una limpieza anual y radiografías según los topes del plan.",
+          "headline": "Prevención según topes",
+          "note": "Una limpieza anual; radiografías con topes.",
+          "visual": "dental",
+          "cards": [
+            {
+              "title": "Limpieza",
+              "body": "Una anual"
+            },
+            {
+              "title": "Radiografías",
+              "body": "Según topes del plan"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 10.333333333333334,
+          "end": 15.366666666666667
+        },
+        {
+          "id": "V09-S04",
+          "purpose": "condicion",
+          "voice": "Es un descuento sobre arancel, sin precio final garantizado.",
+          "headline": "Descuento, no precio final",
+          "note": "Prestaciones, frecuencias, exclusiones y condiciones según plan.",
+          "visual": "documento",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 15.366666666666667,
+          "end": 19.8
+        },
+        {
+          "id": "V09-S05",
+          "purpose": "orientacion",
+          "voice": "Consulta las prestaciones incluidas y las condiciones de la red dental.",
+          "headline": "Revisa prestaciones y red",
+          "note": "Red dental IntegraMédica. Prestaciones y condiciones según plan.",
+          "visual": "red",
+          "cards": [
+            {
+              "title": "Red dental",
+              "body": "IntegraMédica"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 19.8,
+          "end": 25.0
+        },
+        {
+          "id": "V09-S06",
+          "purpose": "cta",
+          "voice": "Consulta prestaciones y cotización de Mi Dental IntegraMédica por WhatsApp.",
+          "headline": "Consulta prestaciones y cotiza",
+          "note": "Sujeto a las condiciones del plan. Sin precio final garantizado.",
+          "visual": "cierre",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 25.0,
+          "end": 30.0
+        }
+      ],
+      "caption": "Plan Mi Dental IntegraMédica 68%. Descuento del 68% sobre arancel IntegraMédica vigente en tratamientos dentales incluidos. No equivale a un precio final garantizado.\n\nContempla una limpieza anual y radiografías según los topes del plan. Prestaciones, frecuencias, exclusiones y condiciones según plan.\n\nConsulta prestaciones incluidas y condiciones de la red dental antes de cotizar. No se publican precios de tratamientos ni se garantiza un costo final.\n\nConsulta y cotiza por WhatsApp:\nhttps://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Plan%20Mi%20Dental%20IntegraM%C3%A9dica%2068%25.%20Vi%20el%20anuncio%20en%20Instagram.\n\nGráficos ilustrativos. La contratación y los beneficios se rigen por las condiciones aplicables. #Bupa #Salud",
+      "whatsapp_url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Plan%20Mi%20Dental%20IntegraM%C3%A9dica%2068%25.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "whatsapp_message": "Hola, quiero información y una cotización de Plan Mi Dental IntegraMédica 68%. Vi el anuncio en Instagram.",
+      "blocking_checks": [
+        {
+          "id": "ficha_vigente",
+          "status": "pendiente",
+          "detail": "Validar condiciones y versión comercial con ficha aplicable; el informe recibido no acredita vigencia actual."
+        },
+        {
+          "id": "marca",
+          "status": "pendiente",
+          "detail": "Conformidad de denominación y uso de marca por producto. No fabricar ni recortar logos."
+        },
+        {
+          "id": "escucha_y_movil",
+          "status": "pendiente",
+          "detail": "Escucha humana, pronunciación, registro/acento, sincronía perceptiva y lectura real en móvil."
+        },
+        {
+          "id": "identidad_y_destino",
+          "status": "pendiente",
+          "detail": "No atribuir credenciales ni representación. Validar identidad real de quien responde y abrir destino/botón sin enviar mensajes."
+        }
+      ],
+      "duration": 30.0
+    },
+    {
+      "id": "V10",
+      "slug": "seguros_global",
+      "product": "Seguros de Salud Global Bupa",
+      "target_duration": 28,
+      "goal": "Distinguir cobertura médica internacional de una consulta genérica de viaje y revisar plan/territorio antes de cotizar.",
+      "audience": "Personas que buscan evaluar cobertura médica en Chile y extranjero; elegibilidad y territorio dependen de la alternativa.",
+      "scenes": [
+        {
+          "id": "V10-S01",
+          "purpose": "hook",
+          "voice": "Cobertura médica en Chile y el extranjero, según el plan.",
+          "headline": "Salud en Chile y extranjero",
+          "note": "Alcance y territorio sujetos al plan contratado.",
+          "visual": "mundo",
+          "cards": [
+            {
+              "title": "Chile y extranjero",
+              "body": "Según plan"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 0.0,
+          "end": 4.266666666666667
+        },
+        {
+          "id": "V10-S02",
+          "purpose": "presentacion",
+          "voice": "Conoce los Seguros de Salud Global Bupa.",
+          "headline": "Seguros de Salud Global Bupa",
+          "note": "Familia de seguros con distintas alternativas.",
+          "visual": "escudo",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 4.266666666666667,
+          "end": 7.733333333333333
+        },
+        {
+          "id": "V10-S03",
+          "purpose": "beneficio",
+          "voice": "Existen alternativas con distintos beneficios, requisitos y alcance territorial.",
+          "headline": "Alternativas según tu necesidad",
+          "note": "Cada alternativa tiene beneficios y condiciones propios.",
+          "visual": "mundo",
+          "cards": [
+            {
+              "title": "Plan",
+              "body": "Identificar alternativa"
+            },
+            {
+              "title": "Territorio",
+              "body": "Revisar alcance"
+            }
+          ],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 7.733333333333333,
+          "end": 13.3
+        },
+        {
+          "id": "V10-S04",
+          "purpose": "condicion",
+          "voice": "Revisa el territorio y las condiciones de la alternativa que evalúas.",
+          "headline": "Cobertura sujeta al plan",
+          "note": "No es una promesa de asistencia de viaje ni de rescate aéreo.",
+          "visual": "documento",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 13.3,
+          "end": 17.9
+        },
+        {
+          "id": "V10-S05",
+          "purpose": "orientacion",
+          "voice": "Antes de cotizar, identifica el plan y el país donde usarías la cobertura.",
+          "headline": "Tu consulta: plan y territorio",
+          "note": "Cobertura, requisitos, exclusiones y evaluación de asegurabilidad según plan.",
+          "visual": "mundo",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 17.9,
+          "end": 23.0
+        },
+        {
+          "id": "V10-S06",
+          "purpose": "cta",
+          "voice": "Consulta plan, territorio y cotización de Salud Global Bupa por WhatsApp.",
+          "headline": "Revisa tu alternativa y cotiza",
+          "note": "Beneficios y condiciones según el plan contratado.",
+          "visual": "cierre",
+          "cards": [],
+          "source_refs": [
+            "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+          ],
+          "start": 23.0,
+          "end": 28.0
+        }
+      ],
+      "caption": "Seguros de Salud Global Bupa. Alternativas de cobertura médica en Chile y el extranjero, según el plan y sus condiciones. La familia incluye distintas variantes; no se les atribuyen beneficios idénticos.\n\nCobertura, territorio, requisitos, exclusiones y evaluación de asegurabilidad según el plan contratado. No es una promesa de asistencia de viaje ni de rescate aéreo.\n\nConsulta primero el plan y el territorio aplicable a tu necesidad antes de cotizar.\n\nConsulta y cotiza por WhatsApp:\nhttps://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguros%20de%20Salud%20Global%20Bupa.%20Vi%20el%20anuncio%20en%20Instagram.\n\nGráficos ilustrativos. La contratación y los beneficios se rigen por las condiciones aplicables. #Bupa #Salud",
+      "whatsapp_url": "https://wa.me/56986121803?text=Hola%2C%20quiero%20informaci%C3%B3n%20y%20una%20cotizaci%C3%B3n%20de%20Seguros%20de%20Salud%20Global%20Bupa.%20Vi%20el%20anuncio%20en%20Instagram.",
+      "whatsapp_message": "Hola, quiero información y una cotización de Seguros de Salud Global Bupa. Vi el anuncio en Instagram.",
+      "blocking_checks": [
+        {
+          "id": "ficha_vigente",
+          "status": "pendiente",
+          "detail": "Validar condiciones y versión comercial con ficha aplicable; el informe recibido no acredita vigencia actual."
+        },
+        {
+          "id": "marca",
+          "status": "pendiente",
+          "detail": "Conformidad de denominación y uso de marca por producto. No fabricar ni recortar logos."
+        },
+        {
+          "id": "escucha_y_movil",
+          "status": "pendiente",
+          "detail": "Escucha humana, pronunciación, registro/acento, sincronía perceptiva y lectura real en móvil."
+        },
+        {
+          "id": "identidad_y_destino",
+          "status": "pendiente",
+          "detail": "No atribuir credenciales ni representación. Validar identidad real de quien responde y abrir destino/botón sin enviar mensajes."
+        }
+      ],
+      "duration": 28.0
+    }
+  ],
+  "timing_policy": [
+    {
+      "id": "V01",
+      "target_duration": 30,
+      "duration": 30.0,
+      "criterion": "Voz sin recortes; lectura de condiciones; cierre cinco segundos; 30fps."
+    },
+    {
+      "id": "V02",
+      "target_duration": 28,
+      "duration": 28.0,
+      "criterion": "Voz sin recortes; lectura de condiciones; cierre cinco segundos; 30fps."
+    },
+    {
+      "id": "V03",
+      "target_duration": 28,
+      "duration": 28.0,
+      "criterion": "Voz sin recortes; lectura de condiciones; cierre cinco segundos; 30fps."
+    },
+    {
+      "id": "V04",
+      "target_duration": 28,
+      "duration": 28.0,
+      "criterion": "Voz sin recortes; lectura de condiciones; cierre cinco segundos; 30fps."
+    },
+    {
+      "id": "V05",
+      "target_duration": 28,
+      "duration": 28.0,
+      "criterion": "Voz sin recortes; lectura de condiciones; cierre cinco segundos; 30fps."
+    },
+    {
+      "id": "V06",
+      "target_duration": 28,
+      "duration": 28.0,
+      "criterion": "Voz sin recortes; lectura de condiciones; cierre cinco segundos; 30fps."
+    },
+    {
+      "id": "V07",
+      "target_duration": 30,
+      "duration": 30.0,
+      "criterion": "Voz sin recortes; lectura de condiciones; cierre cinco segundos; 30fps."
+    },
+    {
+      "id": "V08",
+      "target_duration": 30,
+      "duration": 30.0,
+      "criterion": "Voz sin recortes; lectura de condiciones; cierre cinco segundos; 30fps."
+    },
+    {
+      "id": "V09",
+      "target_duration": 30,
+      "duration": 30.0,
+      "criterion": "Voz sin recortes; lectura de condiciones; cierre cinco segundos; 30fps."
+    },
+    {
+      "id": "V10",
+      "target_duration": 28,
+      "duration": 28.0,
+      "criterion": "Voz sin recortes; lectura de condiciones; cierre cinco segundos; 30fps."
+    }
+  ],
+  "status": "REVISION_INTERNA_BLOQUEADA_PARA_PUBLICACION"
+}

@@ -1,0 +1,54 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/workspace/bupa-videos/campana_instagram/videos/mi_dental_integramedica.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.103
+  Duration: 00:00:30.00, start: 0.000000, bitrate: 826 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 634 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 182 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+  Stream #0:1 -> #0:1 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.103
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 200 kb/s, 30 fps, 30 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 wrapped_avframe
+  Stream #0:1(und): Audio: pcm_s16le, 192000 Hz, stereo, s16, 6144 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 pcm_s16le
+frame=  315 fps=0.0 q=-0.0 size=N/A time=00:00:07.90 bitrate=N/A speed=15.8x    
+frame=  571 fps=570 q=-0.0 size=N/A time=00:00:16.70 bitrate=N/A speed=16.7x    
+frame=  789 fps=525 q=-0.0 size=N/A time=00:00:23.80 bitrate=N/A speed=15.8x    
+[Parsed_loudnorm_0 @ 0x7f702c002740] 
+{
+	"input_i" : "-16.12",
+	"input_tp" : "-2.06",
+	"input_lra" : "3.40",
+	"input_thresh" : "-26.93",
+	"output_i" : "-16.12",
+	"output_tp" : "-1.82",
+	"output_lra" : "3.40",
+	"output_thresh" : "-26.96",
+	"normalization_type" : "dynamic",
+	"target_offset" : "0.12"
+}
+[out#0/null @ 0x55b07391b980] video:387KiB audio:22512KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  900 fps=504 q=-0.0 Lsize=N/A time=00:00:30.00 bitrate=N/A speed=16.8x    

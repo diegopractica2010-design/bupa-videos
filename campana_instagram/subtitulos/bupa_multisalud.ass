@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat,48,&H00FFFFFF,&H00FFFFFF,&H263F2B10,&H263F2B10,-1,0,0,0,100,100,0,0,3,16,0,7,112,112,930,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.08,0:00:02.30,Sub,,0,0,0,,{\pos(112,946)}Para afiliados a\NFonasa B, C y D.
+Dialogue: 0,0:00:04.65,0:00:06.99,Sub,,0,0,0,,{\pos(112,946)}Conoce el Seguro\NBupa MultiSalud.
+Dialogue: 0,0:00:08.42,0:00:10.49,Sub,,0,0,0,,{\pos(112,946)}Ofrece coberturas\Nambulatorias y
+Dialogue: 0,0:00:10.49,0:00:12.70,Sub,,0,0,0,,{\pos(112,946)}hospitalarias en su\Nred de prestadores.
+Dialogue: 0,0:00:13.75,0:00:17.14,Sub,,0,0,0,,{\pos(112,946)}La red, los topes y las\Ncondiciones importan al elegir.
+Dialogue: 0,0:00:18.15,0:00:20.43,Sub,,0,0,0,,{\pos(112,946)}Consulta si la red\Ndel plan corresponde
+Dialogue: 0,0:00:20.43,0:00:22.07,Sub,,0,0,0,,{\pos(112,946)}al lugar donde te atenderías.
+Dialogue: 0,0:00:23.08,0:00:26.85,Sub,,0,0,0,,{\pos(112,946)}Consulta red y cotización de\NBupa MultiSalud por WhatsApp.

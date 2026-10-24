@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-24",
+  "reason": "Las instancias estáticas700/800 conservaban nombres Thin/Regular y señal de peso regular, impidiendo selección Bold por libass. Se corrigen nombres y banderas, sin cambiar glifos, métricas o tablas de layout.",
+  "license": "SIL Open Font License 1.1, OFL.txt; copyright original conservado en la fuente. No se declara Reserved Font Name en la cabecera de la licencia suministrada.",
+  "fonts": [
+    {
+      "file": "Montserrat-Bold.ttf",
+      "weight": 700,
+      "before_sha256": "92d32ccf5074ce60654c4a0d2e4720fc11c532c8475bf2022ae058a6087c13d0",
+      "after_sha256": "0b52db9cb0750e8bdbbe4b91d04b81c49697d9f409a48eb88132ebdb9f81c231",
+      "names_before": {
+        "1": "Montserrat Thin",
+        "2": "Regular",
+        "3": "9.000;ULA;Montserrat-Thin",
+        "4": "Montserrat Thin",
+        "6": "Montserrat-Thin",
+        "16": "Montserrat",
+        "17": "Thin"
+      },
+      "names_after": {
+        "1": "Montserrat",
+        "2": "Bold",
+        "3": "9.000;ULA;Montserrat-Bold",
+        "4": "Montserrat Bold",
+        "6": "Montserrat-Bold",
+        "16": "Montserrat",
+        "17": "Bold"
+      },
+      "tables_unchanged_sha256": {
+        "glyf": "63d8316ef7598c7e94a8c01de365e0b2ab3952e099ca54a6ff62dacde1d47e12",
+        "loca": "a51a7afc37d0d85aa0ca332ec96dd4eabb04286cadd0539559c68428898dd66a",
+        "hmtx": "570f37dd8fb4c6fbecc52b3fc7ba7e7dcbac157be12810da36f28dfb64083248",
+        "hhea": "c56d75356a229f55d9ba75e52d474b84fccf6d5089fa0fe562b98ae2ebb77d8e",
+        "maxp": "49ba15cc630f0b482837724d07aba92e515339fa79da782853b441910fdefd9d",
+        "cmap": "e252449e09597f1ae600868c100d4b15dc04d5785862b662247c4dc481e86c27",
+        "GPOS": "08a5ffb500e0f8117d11d1df171b57082513b3690c7e68f5fec007473d4aa2ee",
+        "GSUB": "6aa1159433b4c7718cb3248ef9f521134a827a102c8cb4b5ad1d8744445a42db",
+        "GDEF": "522ab684f5944d9d87e5d223b5b2036609447359669dbc67ef132724432eddbd",
+        "post": "c2505b9b90ffeaf9a074ca475bb31b78959c733aa9b0f7b442b9bfa9e0c36119"
+      },
+      "outline_metrics_and_layout_tables_identical": true,
+      "sample_bitmap_and_advance_identical": true,
+      "sample_text": "áéíóúñü¿¡ +56 9 8612 1803 WhatsApp Isapre 100% Fonasa",
+      "head_macStyle": 1,
+      "OS2_fsSelection": 160
+    },
+    {
+      "file": "Montserrat-ExtraBold.ttf",
+      "weight": 800,
+      "before_sha256": "c1231e9cf0b8f4628528746f44cb6e802edeafc863b88d2ca893f238f2d99bf6",
+      "after_sha256": "c38e96ce348f356efeed275808f1fdc2b7ce812d74f551f0ff4e35ae8b20ffcc",
+      "names_before": {
+        "1": "Montserrat Thin",
+        "2": "Regular",
+        "3": "9.000;ULA;Montserrat-Thin",
+        "4": "Montserrat Thin",
+        "6": "Montserrat-Thin",
+        "16": "Montserrat",
+        "17": "Thin"
+      },
+      "names_after": {
+        "1": "Montserrat",
+        "2": "ExtraBold",
+        "3": "9.000;ULA;Montserrat-ExtraBold",
+        "4": "Montserrat ExtraBold",
+        "6": "Montserrat-ExtraBold",
+        "16": "Montserrat",
+        "17": "ExtraBold"
+      },
+      "tables_unchanged_sha256": {
+        "glyf": "d34233c134d9ce181b6316f3b032b306682810b7e00ff3d85b1e84bd729580a0",
+        "loca": "2bc34e39a03c304481a4085dc50981d25c831fa78df58e9950ad4a6d9beee03a",
+        "hmtx": "fe41f7fcf8fce2ca3023f8ff2b8cbd35924106e746681f8955f1b3669f1f8327",
+        "hhea": "74efdf8614b88dc90fe9962d83dbfedcda236c3067598935092dcf922ebaea34",
+        "maxp": "49ba15cc630f0b482837724d07aba92e515339fa79da782853b441910fdefd9d",
+        "cmap": "e252449e09597f1ae600868c100d4b15dc04d5785862b662247c4dc481e86c27",
+        "GPOS": "6b0b4f93fd511c03ed83ff1d02dab6665bde94514b8d9a32d8d104ce2cbf4a12",
+        "GSUB": "7fedefb4211de1da914de2edbf93f2e7a094bbaff6d77927b2aefaecb012c557",
+        "GDEF": "c283b7e76556d77469e7b5018386d830828d7b6cdd875cd2a946d22847a29cab",
+        "post": "c2505b9b90ffeaf9a074ca475bb31b78959c733aa9b0f7b442b9bfa9e0c36119"
+      },
+      "outline_metrics_and_layout_tables_identical": true,
+      "sample_bitmap_and_advance_identical": true,
+      "sample_text": "áéíóúñü¿¡ +56 9 8612 1803 WhatsApp Isapre 100% Fonasa",
+      "head_macStyle": 1,
+      "OS2_fsSelection": 160
+    }
+  ]
+}

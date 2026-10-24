@@ -1,0 +1,20 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat,48,&H00FFFFFF,&H00FFFFFF,&H263F2B10,&H263F2B10,-1,0,0,0,100,100,0,0,3,16,0,7,112,112,930,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.08,0:00:02.70,Sub,,0,0,0,,{\pos(112,946)}Consultas, exámenes\Ny hospitalización,
+Dialogue: 0,0:00:02.71,0:00:04.08,Sub,,0,0,0,,{\pos(112,946)}según el plan contratado.
+Dialogue: 0,0:00:05.12,0:00:07.48,Sub,,0,0,0,,{\pos(112,946)}Conoce el Seguro\NBupa Cuidado Total.
+Dialogue: 0,0:00:08.85,0:00:10.78,Sub,,0,0,0,,{\pos(112,946)}Las coberturas\Ndependen del plan
+Dialogue: 0,0:00:10.78,0:00:12.66,Sub,,0,0,0,,{\pos(112,946)}contratado y de sus prestadores.
+Dialogue: 0,0:00:13.68,0:00:17.14,Sub,,0,0,0,,{\pos(112,946)}Revisa porcentajes, deducibles,\Ntopes y exclusiones.
+Dialogue: 0,0:00:18.12,0:00:20.57,Sub,,0,0,0,,{\pos(112,946)}Antes de cotizar,\Nrevisa tu previsión
+Dialogue: 0,0:00:20.57,0:00:22.07,Sub,,0,0,0,,{\pos(112,946)}y la red donde te atenderías.
+Dialogue: 0,0:00:23.08,0:00:25.31,Sub,,0,0,0,,{\pos(112,946)}Consulta cobertura\Ny cotización de
+Dialogue: 0,0:00:25.31,0:00:27.32,Sub,,0,0,0,,{\pos(112,946)}Bupa Cuidado Total\Npor WhatsApp.

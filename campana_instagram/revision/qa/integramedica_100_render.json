@@ -1,0 +1,282 @@
+{
+  "source_inputs": {
+    "sequence": "811cdd548cb2ecf40eab0b09e05b2699e43da504c34f7480a60d4477bc13c760",
+    "timings": "90eeceaa7f1d141c75a0cca186da881d2029e2f625834226a56228f40399c3bb",
+    "files": {
+      "recursos/audio/campana_salud_112bpm.wav": "6edf1efbc8345496b3a516a9dc7cb45a157ae9e8cdb8f9bd9e869ba3e36f1e2f",
+      "recursos/fuentes/Montserrat-Bold.ttf": "0b52db9cb0750e8bdbbe4b91d04b81c49697d9f409a48eb88132ebdb9f81c231",
+      "recursos/fuentes/Montserrat-ExtraBold.ttf": "c38e96ce348f356efeed275808f1fdc2b7ce812d74f551f0ff4e35ae8b20ffcc",
+      "audio/escenas/V08-S01.wav": "ead74be7efd48d9f84780cf73630cc86aea2c3e5c35a12d7ce049a405f9eb80e",
+      "recursos/graficos/V08-S01.png": "5e0bc63e9ef0474297794a6209cf9f4bf697b8c38dc0b4055d655be506387af6",
+      "audio/escenas/V08-S02.wav": "a6663687facf7dc5adea5b0fd95cd3f83dd6f8af1b80aef9cc92a235b03fd83f",
+      "recursos/graficos/V08-S02.png": "6ac7ca3c9bda2e1c52752dd3582fb5f611e9ac6b9d8ab2d2b790ff4e23bced42",
+      "audio/escenas/V08-S03.wav": "9e31383765fc1847ddb91989bf3f914281be3e6223aab24ea31c16e0d2c9c6de",
+      "recursos/graficos/V08-S03.png": "845d2a488a424394c8884290047c4447c79197561539a9325bc163a17d1946fb",
+      "recursos/graficos/V08-S03_detalle.png": "845d2a488a424394c8884290047c4447c79197561539a9325bc163a17d1946fb",
+      "audio/escenas/V08-S04.wav": "37c89c144be158689b7ac983a18115f2c367bf218c24c2d6ea4ba1beabf5954c",
+      "recursos/graficos/V08-S04.png": "74974740bd3ce26cb2cf92641404c37f31968ba7620e29c207791fb68acc0b87",
+      "recursos/graficos/V08-S04_detalle.png": "74974740bd3ce26cb2cf92641404c37f31968ba7620e29c207791fb68acc0b87",
+      "audio/escenas/V08-S05.wav": "48c811be50de391054b64c85079c00cd03ffc0a41d2f4ff176d4a1570b3a2c29",
+      "recursos/graficos/V08-S05.png": "164c14d6994f454f605afa98977522e1285918c651392b3bf40ab6de2153d37c",
+      "recursos/graficos/V08-S05_detalle.png": "164c14d6994f454f605afa98977522e1285918c651392b3bf40ab6de2153d37c",
+      "audio/escenas/V08-S06.wav": "31b62ad5b130911279e83bd5093ff56d5cfdf9854e052fb1be6f21c0da47397b",
+      "recursos/graficos/V08-S06.png": "a2f5e00c0e17e79948a380be6a3eb85c6b2d848bc90009cf5a368ed5553fa1b1"
+    },
+    "renderer_code": "47c616cc2e42d5ff4d17c5a089305dee160b564a5f8ea1380c5f0386e284568d"
+  },
+  "id": "V08",
+  "file": "videos/integramedica_100.mp4",
+  "sha256": "ba719c02905371babedea4b91f2f5153c5348b1d0632a8dd8c81588b35efd007",
+  "segments": [
+    {
+      "scene": "V08-S01",
+      "phase": 0,
+      "start": 0.0,
+      "end": 5.766666666666667,
+      "cache_key": "7148b1eb3a45fb3f58782213a64aeeb21441ec208c6b5f9aaaa913322e9fb41e",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V08-S02",
+      "phase": 0,
+      "start": 5.766666666666667,
+      "end": 9.766666666666667,
+      "cache_key": "752b5a02f71cd9ac90cc6be46ccee94f3f9cb5ec3657e961656b75f0df1df510",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V08-S03",
+      "phase": 0,
+      "start": 9.766666666666667,
+      "end": 12.366666666666667,
+      "cache_key": "0a19a2292a291e48eec7969f9472bee28ca55267baab5c75bdb6662eb6b6f847",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V08-S03",
+      "phase": 1,
+      "start": 12.366666666666667,
+      "end": 14.933333333333334,
+      "cache_key": "372681c86feaf3511bebd790d93572cd27371fefe32ae63672db0ccad28d2ce7",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V08-S04",
+      "phase": 0,
+      "start": 14.933333333333334,
+      "end": 17.466666666666665,
+      "cache_key": "605ccaf07dd1d82d6c4982ef968ea8a7e404a97864adece3f235f3c75dd63426",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V08-S04",
+      "phase": 1,
+      "start": 17.466666666666665,
+      "end": 20.0,
+      "cache_key": "8621bae14179708d3d0bc53c5b1992b641afd6018b633a6526d9494c6e3b97d8",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V08-S05",
+      "phase": 0,
+      "start": 20.0,
+      "end": 22.5,
+      "cache_key": "0b09cc713ce7776449c26b28a7a963d0150be9917800b2cfe8da3b4362913de0",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V08-S05",
+      "phase": 1,
+      "start": 22.5,
+      "end": 25.0,
+      "cache_key": "2c5fd3248c8082d568526865e74856331832f909d9b63a8204ea93a018c3088b",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V08-S06",
+      "phase": 0,
+      "start": 25.0,
+      "end": 30.0,
+      "cache_key": "d2235d3539f38ba9a0b1d8c6646a8bb1557c6d5163faa44865fe56238ee24eed",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    }
+  ],
+  "voice_music_balance": [
+    {
+      "scene": "V08-S01",
+      "voice_over_music_rms_db": 21.15706259524879,
+      "required_db": 21
+    },
+    {
+      "scene": "V08-S02",
+      "voice_over_music_rms_db": 21.20342702711303,
+      "required_db": 21
+    },
+    {
+      "scene": "V08-S03",
+      "voice_over_music_rms_db": 21.706841595146887,
+      "required_db": 21
+    },
+    {
+      "scene": "V08-S04",
+      "voice_over_music_rms_db": 20.99999999999826,
+      "required_db": 21
+    },
+    {
+      "scene": "V08-S05",
+      "voice_over_music_rms_db": 21.274134935929702,
+      "required_db": 21
+    },
+    {
+      "scene": "V08-S06",
+      "voice_over_music_rms_db": 24.187758943357785,
+      "required_db": 24
+    }
+  ],
+  "subtitle_events": [
+    {
+      "scene": "V08-S01",
+      "start": 0.059333333333333335,
+      "end": 1.9843333333333333,
+      "lines": [
+        "Atenciones ambulatorias",
+        "en la red"
+      ],
+      "first_word": 0,
+      "last_word": 4
+    },
+    {
+      "scene": "V08-S01",
+      "start": 1.9843333333333333,
+      "end": 4.686666666666667,
+      "lines": [
+        "IntegraMédica, con",
+        "prestaciones incluidas."
+      ],
+      "first_word": 5,
+      "last_word": 8
+    },
+    {
+      "scene": "V08-S02",
+      "start": 5.851,
+      "end": 8.725333333333333,
+      "lines": [
+        "Conoce el Plan IntegraMédica",
+        "cien por ciento."
+      ],
+      "first_word": 0,
+      "last_word": 6
+    },
+    {
+      "scene": "V08-S03",
+      "start": 9.851,
+      "end": 11.426,
+      "lines": [
+        "Cubre el copago de prestaciones"
+      ],
+      "first_word": 0,
+      "last_word": 4
+    },
+    {
+      "scene": "V08-S03",
+      "start": 11.426,
+      "end": 13.877333333333333,
+      "lines": [
+        "incluidas, con tope",
+        "anual y carencias."
+      ],
+      "first_word": 5,
+      "last_word": 10
+    },
+    {
+      "scene": "V08-S04",
+      "start": 15.017666666666667,
+      "end": 16.817666666666668,
+      "lines": [
+        "Hay condiciones específicas de"
+      ],
+      "first_word": 0,
+      "last_word": 3
+    },
+    {
+      "scene": "V08-S04",
+      "start": 16.817666666666668,
+      "end": 18.937333333333335,
+      "lines": [
+        "bonificación que",
+        "deben revisarse."
+      ],
+      "first_word": 4,
+      "last_word": 7
+    },
+    {
+      "scene": "V08-S05",
+      "start": 20.084333333333333,
+      "end": 22.134333333333334,
+      "lines": [
+        "Revisa requisitos",
+        "y las carencias"
+      ],
+      "first_word": 0,
+      "last_word": 4
+    },
+    {
+      "scene": "V08-S05",
+      "start": 22.134333333333334,
+      "end": 23.94,
+      "lines": [
+        "aplicables antes de contratar."
+      ],
+      "first_word": 5,
+      "last_word": 8
+    },
+    {
+      "scene": "V08-S06",
+      "start": 25.084333333333333,
+      "end": 28.726666666666667,
+      "lines": [
+        "Cotiza el Plan IntegraMédica",
+        "cien por ciento por WhatsApp."
+      ],
+      "first_word": 0,
+      "last_word": 8
+    }
+  ],
+  "publication": "BLOQUEADA_FICHAS_MARCA_ESCUCHA_MOVIL"
+}

@@ -1,0 +1,164 @@
+{
+  "status": "COMPLETE",
+  "timestamp_utc": "2026-10-24T13:12:59.527455+00:00",
+  "scope": "Copia de la entrega en directorio limpio en el mismo entorno Linux. Reconstrucción de V03 sin carpetas anteriores ni modelos TTS/ASR. No es instalación en otro sistema ni reconstrucción independiente de los diez videos.",
+  "project_root": "/tmp/bupa_entrega_limpia_final/campana_instagram",
+  "cache": "/tmp/bupa_v3_repro_final_cache",
+  "commands": [
+    [
+      "/workspace/bupa-tts-venv/bin/python",
+      "/tmp/bupa_entrega_limpia_final/campana_instagram/herramientas/renderizar.py",
+      "--root",
+      "/tmp/bupa_entrega_limpia_final/campana_instagram",
+      "--only",
+      "V03",
+      "--cache",
+      "/tmp/bupa_v3_repro_final_cache"
+    ],
+    [
+      "/workspace/bupa-tts-venv/bin/python",
+      "/tmp/bupa_entrega_limpia_final/campana_instagram/herramientas/generar_musica.py",
+      "--destination",
+      "/tmp/bupa_musica_limpia"
+    ]
+  ],
+  "qa_execution": "Importar verificar.py desde la copia, read_inputs y check_video(root,V03,timings). El verificador actualizado solo cambió el nombre de una clave; se volvió a ejecutar tras copiarlo. Todos los controles del MP4 reconstruido pasaron.",
+  "input_files_sha256": {
+    "herramientas/renderizar.py": "47c616cc2e42d5ff4d17c5a089305dee160b564a5f8ea1380c5f0386e284568d",
+    "herramientas/verificar.py": "68123ae2a1c7a0e22f9fb8eed69edfd8926a268b75cd12fb60b2978d40d9dd7e",
+    "herramientas/generar_musica.py": "8eb5f23ce825a3692fa0c18c76e916c0ae22683ef1ca31e331b933c4849ff239",
+    "contenido/secuencias.json": "4d85afc0c1578b019bf4922051b5a7b2fe4949735adb0dd60cffd09f19165ee2",
+    "revision/tiempos_voz.json": "8524fb6d01f5e083d732363a40aed0aaaabb1f5bbec5a97eff3cc431780074e6",
+    "recursos/fuentes/Montserrat-Bold.ttf": "0b52db9cb0750e8bdbbe4b91d04b81c49697d9f409a48eb88132ebdb9f81c231",
+    "recursos/fuentes/Montserrat-ExtraBold.ttf": "c38e96ce348f356efeed275808f1fdc2b7ce812d74f551f0ff4e35ae8b20ffcc"
+  },
+  "source_and_copy_inputs_equal": true,
+  "render_source_fingerprint_equal_to_delivery": true,
+  "checks": {
+    "dimensions": true,
+    "fps": true,
+    "frame_count": true,
+    "duration": true,
+    "video_codec": true,
+    "rec709": true,
+    "audio_codec": true,
+    "faststart": true,
+    "cfr_timestamps": true,
+    "full_decode": true,
+    "mix_lufs": true,
+    "mix_truepeak": true,
+    "no_black_intervals": true,
+    "subtitles": true,
+    "voice_music_balance": true,
+    "subtitle_font_no_host_fallback": true,
+    "render_hash_matches": true,
+    "source_inputs_current": true,
+    "file_unchanged_during_qa": true
+  },
+  "reconstructed_mp4_sha256": "dbb8200c72fbacfda4d5ba8273a82dd70eea5eeb0612e282d2acc61c01a5c871",
+  "delivery_mp4_sha256": "dc6e3d5ac68da21d7be2d72a3b4036577ab396f7272f529c05b163696391959b",
+  "mp4_byte_identical": false,
+  "comparison": {
+    "same_source_inputs": true,
+    "decoded_video_ssim": 0.999995,
+    "decoded_audio_sha256": [
+      "SHA256=c0e80baaeccf3b8d535da25d8e5b92e4fdf3f3af1c4ad29c026013ee6dc48e08",
+      "SHA256=c0e80baaeccf3b8d535da25d8e5b92e4fdf3f3af1c4ad29c026013ee6dc48e08"
+    ],
+    "decoded_audio_bit_identical": true
+  },
+  "font_selection_per_segment": [
+    {
+      "scene": "V03-S01",
+      "phase": 0,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V03-S02",
+      "phase": 0,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V03-S03",
+      "phase": 0,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V03-S03",
+      "phase": 1,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V03-S04",
+      "phase": 0,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V03-S05",
+      "phase": 0,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V03-S06",
+      "phase": 0,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    }
+  ],
+  "music": {
+    "original_sha256": "6edf1efbc8345496b3a516a9dc7cb45a157ae9e8cdb8f9bd9e869ba3e36f1e2f",
+    "regenerated_sha256": "6edf1efbc8345496b3a516a9dc7cb45a157ae9e8cdb8f9bd9e869ba3e36f1e2f",
+    "byte_identical": true
+  },
+  "incident": {
+    "id": "REP-FONT-01",
+    "status": "CORREGIDA_Y_VERIFICADA",
+    "initial_evidence": {
+      "id": "REP-FONT-01",
+      "status": "correccion_en_curso",
+      "evidence": "TTF pesos700/800 con nombres MontserratThin/Regular; libass resolvió Montserrat700 a OpenAISansdelhost",
+      "first_pass_technical_checks": {
+        "dimensions": true,
+        "fps": true,
+        "frame_count": true,
+        "duration": true,
+        "video_codec": true,
+        "rec709": true,
+        "audio_codec": true,
+        "faststart": true,
+        "cfr_timestamps": true,
+        "full_decode": true,
+        "mix_lufs": true,
+        "mix_truepeak": true,
+        "no_black_intervals": true,
+        "subtitles": true,
+        "voice_music_balance": true,
+        "render_hash_matches": true,
+        "source_inputs_current": true,
+        "file_unchanged_during_qa": true
+      },
+      "initial_mp4_clean_sha256": "04f2c223e98a43441a5d657fe81ae38b9fab0e5186bac70096296768198c95fa",
+      "initial_mp4_delivery_sha256": "39fc8268aa10d2f09f2c6524bf48c8ab506e7356153fe1d15ed0df0e2bc3558f",
+      "decoded_audio_equal": true,
+      "decoded_video_equal": false,
+      "same_source_inputs": true,
+      "music_regenerated_sha256": "6edf1efbc8345496b3a516a9dc7cb45a157ae9e8cdb8f9bd9e869ba3e36f1e2f"
+    },
+    "correction": "Metadata de instancias TTF normalizada sin alterar glifos/métricas. Fontconfig aislado, selección Montserrat-Bold y guarda explícita de selección por segmento. Nuevo render y QA verificados desde copia limpia."
+  },
+  "raw_evidence_outside_repository": "/tmp/bupa_entrega_limpia_final",
+  "human_listening_or_mobile_test_performed": false
+}

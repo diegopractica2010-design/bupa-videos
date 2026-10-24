@@ -1,0 +1,272 @@
+{
+  "source_inputs": {
+    "sequence": "decc724ebca0e6063282e7a255f8a1eee2f14c8366b78f82ccc4cb123f9f768f",
+    "timings": "ff19ba1ce53d77a86998cf95ac6997b600cc1ca8173bad6247969ac520b01582",
+    "files": {
+      "recursos/audio/campana_salud_112bpm.wav": "6edf1efbc8345496b3a516a9dc7cb45a157ae9e8cdb8f9bd9e869ba3e36f1e2f",
+      "recursos/fuentes/Montserrat-Bold.ttf": "0b52db9cb0750e8bdbbe4b91d04b81c49697d9f409a48eb88132ebdb9f81c231",
+      "recursos/fuentes/Montserrat-ExtraBold.ttf": "c38e96ce348f356efeed275808f1fdc2b7ce812d74f551f0ff4e35ae8b20ffcc",
+      "audio/escenas/V09-S01.wav": "bb99ffe4c4a7a79df55138287a50f82d43d452adcc6ccadf7973ca181c92ac43",
+      "recursos/graficos/V09-S01.png": "d480472ed3600348c0b2ef0510a9e46907cca95e282bf32c4c9ca5cf7352d306",
+      "audio/escenas/V09-S02.wav": "ba7e081098c92032bcb49d8929ea20930d679eb853cfa3dcfce3375dcedd1d59",
+      "recursos/graficos/V09-S02.png": "508ea75f27ebeea40601f1518ee3356a60a11dd0085ab1f4223f720c408cb82f",
+      "audio/escenas/V09-S03.wav": "8f928e546f171a986acd260037746be7ad1f40fa7383e5a1899b2c7a0a003ff1",
+      "recursos/graficos/V09-S03.png": "9d5125bdba44d335c1e86272eed042668785d8602e9fbcdfd96b10f4c32b885f",
+      "recursos/graficos/V09-S03_detalle.png": "9d5125bdba44d335c1e86272eed042668785d8602e9fbcdfd96b10f4c32b885f",
+      "audio/escenas/V09-S04.wav": "3ca967e246af1a2f7ebb2dd4e09fbf23f67122eb885007cd2f6ae2056b946b9a",
+      "recursos/graficos/V09-S04.png": "efbf8633e29aedf40c07baffdf7188129875e600d2bc63231cddf6d3f233b3a1",
+      "recursos/graficos/V09-S04_detalle.png": "6c7fb794bb5b17b004e326a7b4767df98a96107968f0cb4006645abc3a92623a",
+      "audio/escenas/V09-S05.wav": "4871ed4f8dc48990402d5766889b6d5a0a1ba575d55a3b500cb9db0fe6f26bec",
+      "recursos/graficos/V09-S05.png": "51029c44ae5e9277bbaea17c40c30f68aa177dfdbc507e7aaabb4ed3090177d2",
+      "recursos/graficos/V09-S05_detalle.png": "51029c44ae5e9277bbaea17c40c30f68aa177dfdbc507e7aaabb4ed3090177d2",
+      "audio/escenas/V09-S06.wav": "4d1b0ea85318431ad4a047b78e70860367b860d31e257b72254a2d3fbbab4360",
+      "recursos/graficos/V09-S06.png": "8a620ab3228dc86c489f44f8beb24217e7618ea65a2b56f7f04e757f96364dc3"
+    },
+    "renderer_code": "47c616cc2e42d5ff4d17c5a089305dee160b564a5f8ea1380c5f0386e284568d"
+  },
+  "id": "V09",
+  "file": "videos/mi_dental_integramedica.mp4",
+  "sha256": "04b04e1872cf49ed6f099678cfb677d0ca0861e56305cca6b03dd4832cd08bd5",
+  "segments": [
+    {
+      "scene": "V09-S01",
+      "phase": 0,
+      "start": 0.0,
+      "end": 5.633333333333334,
+      "cache_key": "16e12091eb086a62d1fbc37afb63ead34a903bc4b1b0abb91a6f39c3a440d12c",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V09-S02",
+      "phase": 0,
+      "start": 5.633333333333334,
+      "end": 10.333333333333334,
+      "cache_key": "3f899817d872258a1e9d293c5a369e0bb7c44e326d067fcbcaf9f26123cd1406",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V09-S03",
+      "phase": 0,
+      "start": 10.333333333333334,
+      "end": 12.866666666666667,
+      "cache_key": "1853e6fb55a60674ffac14887658e499a2b885bd7ca4775f546702038ea9f08d",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V09-S03",
+      "phase": 1,
+      "start": 12.866666666666667,
+      "end": 15.366666666666667,
+      "cache_key": "86a1bda37f782e4120dd628455c0a32733b6048c6b50fc814b49767f62a3c9f9",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V09-S04",
+      "phase": 0,
+      "start": 15.366666666666667,
+      "end": 19.8,
+      "cache_key": "ed7a3259160ed375c58a852f1be248986f31b5adefc56fcc5df0d9c3c578f50b",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V09-S05",
+      "phase": 0,
+      "start": 19.8,
+      "end": 22.4,
+      "cache_key": "9c65566748828c0a20231cef4a560834737248761be21f67b595b58f65943d61",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V09-S05",
+      "phase": 1,
+      "start": 22.4,
+      "end": 25.0,
+      "cache_key": "47c25342e470cd310cb093ddedaad01a1ebf5e05d0df2f38f93be5b9aaa962fa",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V09-S06",
+      "phase": 0,
+      "start": 25.0,
+      "end": 30.0,
+      "cache_key": "507fc5b1e785ca90dc884dd7376dc7a81bee99606891640cfbbd74b07d8c5caf",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    }
+  ],
+  "voice_music_balance": [
+    {
+      "scene": "V09-S01",
+      "voice_over_music_rms_db": 21.29008437839633,
+      "required_db": 21
+    },
+    {
+      "scene": "V09-S02",
+      "voice_over_music_rms_db": 21.623748662430785,
+      "required_db": 21
+    },
+    {
+      "scene": "V09-S03",
+      "voice_over_music_rms_db": 21.52558835346589,
+      "required_db": 21
+    },
+    {
+      "scene": "V09-S04",
+      "voice_over_music_rms_db": 20.999999999998167,
+      "required_db": 21
+    },
+    {
+      "scene": "V09-S05",
+      "voice_over_music_rms_db": 21.294830866282037,
+      "required_db": 21
+    },
+    {
+      "scene": "V09-S06",
+      "voice_over_music_rms_db": 24.093155781880245,
+      "required_db": 24
+    }
+  ],
+  "subtitle_events": [
+    {
+      "scene": "V09-S01",
+      "start": 0.08433333333333333,
+      "end": 2.409333333333333,
+      "lines": [
+        "Sesenta y ocho por",
+        "ciento de descuento"
+      ],
+      "first_word": 0,
+      "last_word": 6
+    },
+    {
+      "scene": "V09-S01",
+      "start": 2.409333333333333,
+      "end": 4.622666666666667,
+      "lines": [
+        "sobre arancel en",
+        "tratamientos incluidos."
+      ],
+      "first_word": 7,
+      "last_word": 11
+    },
+    {
+      "scene": "V09-S02",
+      "start": 5.717666666666667,
+      "end": 9.360000000000001,
+      "lines": [
+        "Conoce Mi Dental IntegraMédica",
+        "sesenta y ocho por ciento."
+      ],
+      "first_word": 0,
+      "last_word": 8
+    },
+    {
+      "scene": "V09-S03",
+      "start": 10.417666666666667,
+      "end": 12.217666666666666,
+      "lines": [
+        "Contempla una limpieza anual y"
+      ],
+      "first_word": 0,
+      "last_word": 4
+    },
+    {
+      "scene": "V09-S03",
+      "start": 12.217666666666666,
+      "end": 14.401333333333334,
+      "lines": [
+        "radiografías según",
+        "los topes del plan."
+      ],
+      "first_word": 5,
+      "last_word": 10
+    },
+    {
+      "scene": "V09-S04",
+      "start": 15.426,
+      "end": 18.837333333333333,
+      "lines": [
+        "Es un descuento sobre arancel,",
+        "sin precio final garantizado."
+      ],
+      "first_word": 0,
+      "last_word": 8
+    },
+    {
+      "scene": "V09-S05",
+      "start": 19.884333333333334,
+      "end": 22.229333333333336,
+      "lines": [
+        "Consulta las",
+        "prestaciones incluidas"
+      ],
+      "first_word": 0,
+      "last_word": 3
+    },
+    {
+      "scene": "V09-S05",
+      "start": 22.234333333333336,
+      "end": 24.017333333333337,
+      "lines": [
+        "y las condiciones",
+        "de la red dental."
+      ],
+      "first_word": 4,
+      "last_word": 10
+    },
+    {
+      "scene": "V09-S06",
+      "start": 25.084333333333333,
+      "end": 27.309333333333335,
+      "lines": [
+        "Consulta prestaciones",
+        "y cotización de"
+      ],
+      "first_word": 0,
+      "last_word": 4
+    },
+    {
+      "scene": "V09-S06",
+      "start": 27.309333333333335,
+      "end": 29.750666666666667,
+      "lines": [
+        "Mi Dental IntegraMédica",
+        "por WhatsApp."
+      ],
+      "first_word": 5,
+      "last_word": 9
+    }
+  ],
+  "publication": "BLOQUEADA_FICHAS_MARCA_ESCUCHA_MOVIL"
+}

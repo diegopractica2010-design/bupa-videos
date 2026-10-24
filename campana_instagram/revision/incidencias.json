@@ -1,0 +1,75 @@
+{
+  "incidencias": [
+    {
+      "id": "ED-01",
+      "video": "V08",
+      "escena": "V08-S06",
+      "severidad": "necesario",
+      "hallazgo": "La llamada a la acción hablada excedía la ventana de cinco segundos.",
+      "evidencia_inicial": "5,184 s de voz; aserción del sintetizador.",
+      "correccion": "Reformular a «Cotiza el Plan IntegraMédica cien por ciento por WhatsApp.», conservando finalidad/producto/canal.",
+      "resultado": {
+        "duracion_voz": 3.6866666666666665,
+        "speed": 1.0,
+        "ventana": 5
+      },
+      "estado": "cerrado"
+    },
+    {
+      "id": "TEC-01",
+      "video": "todos",
+      "severidad": "necesario",
+      "hallazgo": "La estructura de PNG esperada por el renderer no coincidía con el generador.",
+      "correccion": "Unificar lectura en recursos/graficos/Vxx-Sxx.png; repetir render.",
+      "evidencia": "qa/resumen.json source_inputs_current/full_decode",
+      "estado": "cerrado"
+    },
+    {
+      "id": "UX-CTA-01",
+      "video": "todos",
+      "severidad": "necesario",
+      "hallazgo": "El canal WhatsApp dependía del subtítulo temporal; el número quedaba sin etiqueta fija.",
+      "correccion": "Fijar «WhatsApp: +56 9 8612 1803» en el arte de los diez cierres; regenerar y revisar.",
+      "evidencia": "revision_creativa_final.md y recomendaciones_ventas_pendientes.json",
+      "estado": "cerrado"
+    },
+    {
+      "id": "TEC-02",
+      "video": "todos",
+      "severidad": "necesario",
+      "hallazgo": "Un reporte anterior podía quedar visible mientras se producía un nuevo render.",
+      "correccion": "Invalidar QA al iniciar; exigir hashes y concordancia de guiones/secuencias/layout.",
+      "evidencia": "qa/resumen.json, herramientas/renderizar.py y verificar.py",
+      "estado": "cerrado"
+    },
+    {
+      "id": "FONT-01",
+      "video": "todos",
+      "severidad": "necesario",
+      "hallazgo": "Las instancias Montserrat conservaban nombres internos incorrectos; libass sustituía subtítulos por fuente del host.",
+      "correccion": "Corregir metadata TTF sin cambiar glifos/métricas; aislar Fontconfig; rechazar sustitución por segmento. Reexportar los diez y repetir QA y reconstrucción.",
+      "evidencia": [
+        "../recursos/fuentes/correccion_metadata.json",
+        "informe_tecnico_final.md",
+        "reproduccion_limpia.json",
+        "fuentes_renderizadas.json"
+      ],
+      "estado": "cerrado"
+    }
+  ],
+  "bloqueos_externos": "../VALIDACIONES_PENDIENTES.md",
+  "observacion": "Las hipótesis comerciales no medidas se registran aparte; no son defectos aprobados ni ventas observadas.",
+  "sha256_mp4_finales": {
+    "V01": "33a35e2a1ed5c782e5b11344e22a90529bb2da8ca66e7c3992f03fb4934893d3",
+    "V02": "78270d6241bb8501115fa0d516af070c9cf9ba5699898e765bcc9f84169775d9",
+    "V03": "dc6e3d5ac68da21d7be2d72a3b4036577ab396f7272f529c05b163696391959b",
+    "V04": "ecd4a52e3e4badf867b8dfdd259ca10cbd1425d8d9ebbc4af651d7c3cc1f39eb",
+    "V05": "bb9994088ec95639db32995a02e1c31679f03312970f4474472d559d5f1dbf11",
+    "V06": "08e2db1f5b1234903f6a5e6b05811c4dc2af80d0b6dcea3c94be725b9ce53113",
+    "V07": "ca8d27ef0c89c777f522473faa0022296ba66883241d942631fdff6a186a688c",
+    "V08": "ba719c02905371babedea4b91f2f5153c5348b1d0632a8dd8c81588b35efd007",
+    "V09": "04b04e1872cf49ed6f099678cfb677d0ca0861e56305cca6b03dd4832cd08bd5",
+    "V10": "a14209ef7cdbd41ae06f0f7b5b3916d2eb6c133b9b60a7d5750e575e30fc36d7"
+  },
+  "hallazgos_ejecutables_conocidos_abiertos": []
+}

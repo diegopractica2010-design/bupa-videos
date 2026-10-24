@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat,48,&H00FFFFFF,&H00FFFFFF,&H263F2B10,&H263F2B10,-1,0,0,0,100,100,0,0,3,16,0,7,112,112,930,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.08,0:00:03.52,Sub,,0,0,0,,{\pos(112,946)}Si tienes Isapre, revisa cómo\Ncomplementar tus copagos.
+Dialogue: 0,0:00:04.88,0:00:07.12,Sub,,0,0,0,,{\pos(112,946)}Conoce el Seguro\NBupa Complementa.
+Dialogue: 0,0:00:08.85,0:00:10.70,Sub,,0,0,0,,{\pos(112,946)}El complemento se aplica sobre
+Dialogue: 0,0:00:10.70,0:00:12.83,Sub,,0,0,0,,{\pos(112,946)}copagos de\Nprestaciones incluidas.
+Dialogue: 0,0:00:14.08,0:00:17.62,Sub,,0,0,0,,{\pos(112,946)}En la misma proporción que tu\NIsapre, con topes y condiciones.
+Dialogue: 0,0:00:18.88,0:00:21.82,Sub,,0,0,0,,{\pos(112,946)}Revisa cómo opera con tu\Nplan antes de contratar.
+Dialogue: 0,0:00:23.08,0:00:24.71,Sub,,0,0,0,,{\pos(112,946)}Consulta cómo opera Bupa
+Dialogue: 0,0:00:24.71,0:00:26.81,Sub,,0,0,0,,{\pos(112,946)}Complementa y\Ncotiza por WhatsApp.

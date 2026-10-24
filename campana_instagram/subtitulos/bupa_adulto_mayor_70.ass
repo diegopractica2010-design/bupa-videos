@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat,48,&H00FFFFFF,&H00FFFFFF,&H263F2B10,&H263F2B10,-1,0,0,0,100,100,0,0,3,16,0,7,112,112,930,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.08,0:00:02.06,Sub,,0,0,0,,{\pos(112,946)}Setenta por ciento\Nsobre el copago
+Dialogue: 0,0:00:02.06,0:00:04.30,Sub,,0,0,0,,{\pos(112,946)}de atenciones\Nambulatorias incluidas.
+Dialogue: 0,0:00:05.22,0:00:09.27,Sub,,0,0,0,,{\pos(112,946)}Conoce el Plan IntegraMédica\NAdulto Mayor setenta por ciento.
+Dialogue: 0,0:00:10.18,0:00:12.38,Sub,,0,0,0,,{\pos(112,946)}En la red\NIntegraMédica, según las
+Dialogue: 0,0:00:12.38,0:00:14.32,Sub,,0,0,0,,{\pos(112,946)}prestaciones incluidas\Nen el plan.
+Dialogue: 0,0:00:15.25,0:00:18.45,Sub,,0,0,0,,{\pos(112,946)}Tiene requisitos de edad y un\Ntope anual por beneficiario.
+Dialogue: 0,0:00:20.59,0:00:24.14,Sub,,0,0,0,,{\pos(112,946)}Antes de cotizar, revisa edad,\Nprevisión y red de atención.
+Dialogue: 0,0:00:25.08,0:00:27.26,Sub,,0,0,0,,{\pos(112,946)}Consulta requisitos\Ndel Plan Adulto
+Dialogue: 0,0:00:27.26,0:00:29.60,Sub,,0,0,0,,{\pos(112,946)}Mayor setenta por\Nciento por WhatsApp.

@@ -1,0 +1,22 @@
+{
+  "publication_authorized": false,
+  "observations": null,
+  "status": "NO_DISPONIBLE_SIN_CAMPANA_ACTIVADA",
+  "definitions": {
+    "consulta_pertinente": "Interés correspondiente al producto que permite continuar revisión inicial; no es contratación aprobada.",
+    "cotizacion_solicitada": "La persona pide revisar una alternativa cotizable.",
+    "cotizacion_enviada": "Se entregó una cotización basada en requisitos y ficha confirmados.",
+    "contratacion_confirmada": "Contratación efectivamente confirmada, no inferida de un clic."
+  },
+  "fields": [
+    "fecha",
+    "producto",
+    "conversacion_iniciada",
+    "consulta_pertinente",
+    "cotizacion_solicitada",
+    "cotizacion_enviada",
+    "contratacion_confirmada",
+    "motivo_sin_encaje"
+  ],
+  "zero_denominator": "Tasa no calculable; sin datos no registrar cero ficticio."
+}

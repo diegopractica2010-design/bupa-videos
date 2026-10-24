@@ -1,0 +1,61 @@
+{
+  "status": "PASS",
+  "requested_family": "Montserrat",
+  "requested_weight": 700,
+  "selected_postscript_name": "Montserrat-Bold",
+  "font_file": "recursos/fuentes/Montserrat-Bold.ttf",
+  "font_sha256": "0b52db9cb0750e8bdbbe4b91d04b81c49697d9f409a48eb88132ebdb9f81c231",
+  "fontconfig": {
+    "scope": "Solo fuentes entregadas; sin configuración ni aliases del host",
+    "config_sha256": "e8ac97576517d3147d2cb787caf001741cd36b2a205ef65d50a32665514668fa"
+  },
+  "segments_total": 74,
+  "segments_with_subtitles": 74,
+  "observed_selections": [
+    "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+  ],
+  "all_font_guards_pass": true,
+  "videos": [
+    {
+      "id": "V01",
+      "sha256": "33a35e2a1ed5c782e5b11344e22a90529bb2da8ca66e7c3992f03fb4934893d3"
+    },
+    {
+      "id": "V02",
+      "sha256": "78270d6241bb8501115fa0d516af070c9cf9ba5699898e765bcc9f84169775d9"
+    },
+    {
+      "id": "V03",
+      "sha256": "dc6e3d5ac68da21d7be2d72a3b4036577ab396f7272f529c05b163696391959b"
+    },
+    {
+      "id": "V04",
+      "sha256": "ecd4a52e3e4badf867b8dfdd259ca10cbd1425d8d9ebbc4af651d7c3cc1f39eb"
+    },
+    {
+      "id": "V05",
+      "sha256": "bb9994088ec95639db32995a02e1c31679f03312970f4474472d559d5f1dbf11"
+    },
+    {
+      "id": "V06",
+      "sha256": "08e2db1f5b1234903f6a5e6b05811c4dc2af80d0b6dcea3c94be725b9ce53113"
+    },
+    {
+      "id": "V07",
+      "sha256": "ca8d27ef0c89c777f522473faa0022296ba66883241d942631fdff6a186a688c"
+    },
+    {
+      "id": "V08",
+      "sha256": "ba719c02905371babedea4b91f2f5153c5348b1d0632a8dd8c81588b35efd007"
+    },
+    {
+      "id": "V09",
+      "sha256": "04b04e1872cf49ed6f099678cfb677d0ca0861e56305cca6b03dd4832cd08bd5"
+    },
+    {
+      "id": "V10",
+      "sha256": "a14209ef7cdbd41ae06f0f7b5b3916d2eb6c133b9b60a7d5750e575e30fc36d7"
+    }
+  ],
+  "note": "Los subtítulos se rasterizan en video usando la TTF entregada; no se afirma que el MP4 contenga un archivo de fuente."
+}

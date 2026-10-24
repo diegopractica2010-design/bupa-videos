@@ -1,0 +1,20 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat,48,&H00FFFFFF,&H00FFFFFF,&H263F2B10,&H263F2B10,-1,0,0,0,100,100,0,0,3,16,0,7,112,112,930,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.08,0:00:03.39,Sub,,0,0,0,,{\pos(112,946)}Cobertura médica en Chile y\Nel extranjero, según el plan.
+Dialogue: 0,0:00:04.35,0:00:06.93,Sub,,0,0,0,,{\pos(112,946)}Conoce los Seguros\Nde Salud Global Bupa.
+Dialogue: 0,0:00:07.82,0:00:09.72,Sub,,0,0,0,,{\pos(112,946)}Existen alternativas\Ncon distintos
+Dialogue: 0,0:00:09.72,0:00:12.66,Sub,,0,0,0,,{\pos(112,946)}beneficios, requisitos\Ny alcance territorial.
+Dialogue: 0,0:00:13.38,0:00:15.71,Sub,,0,0,0,,{\pos(112,946)}Revisa el territorio\Ny las condiciones
+Dialogue: 0,0:00:15.71,0:00:17.26,Sub,,0,0,0,,{\pos(112,946)}de la alternativa que evalúas.
+Dialogue: 0,0:00:17.98,0:00:20.40,Sub,,0,0,0,,{\pos(112,946)}Antes de cotizar,\Nidentifica el plan
+Dialogue: 0,0:00:20.41,0:00:22.33,Sub,,0,0,0,,{\pos(112,946)}y el país donde\Nusarías la cobertura.
+Dialogue: 0,0:00:23.08,0:00:25.43,Sub,,0,0,0,,{\pos(112,946)}Consulta plan,\Nterritorio y cotización
+Dialogue: 0,0:00:25.43,0:00:27.47,Sub,,0,0,0,,{\pos(112,946)}de Salud Global\NBupa por WhatsApp.

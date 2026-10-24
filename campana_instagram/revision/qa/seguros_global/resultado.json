@@ -1,0 +1,89 @@
+{
+  "id": "V10",
+  "file": "videos/seguros_global.mp4",
+  "sha256": "a14209ef7cdbd41ae06f0f7b5b3916d2eb6c133b9b60a7d5750e575e30fc36d7",
+  "checks": {
+    "dimensions": true,
+    "fps": true,
+    "frame_count": true,
+    "duration": true,
+    "video_codec": true,
+    "rec709": true,
+    "audio_codec": true,
+    "faststart": true,
+    "cfr_timestamps": true,
+    "full_decode": true,
+    "mix_lufs": true,
+    "mix_truepeak": true,
+    "no_black_intervals": true,
+    "subtitles": true,
+    "voice_music_balance": true,
+    "subtitle_font_no_host_fallback": true,
+    "render_hash_matches": true,
+    "source_inputs_current": true,
+    "file_unchanged_during_qa": true
+  },
+  "loudness_mix": {
+    "input_i": "-16.20",
+    "input_tp": "-2.10",
+    "input_lra": "3.00",
+    "input_thresh": "-26.94",
+    "output_i": "-16.02",
+    "output_tp": "-1.93",
+    "output_lra": "3.00",
+    "output_thresh": "-26.71",
+    "normalization_type": "dynamic",
+    "target_offset": "0.02"
+  },
+  "black_intervals": [],
+  "subtitle_validation": {
+    "events": 10,
+    "text_literal": true,
+    "format_and_order": true,
+    "matches_voice_model_times": true,
+    "human_sync": "PENDIENTE"
+  },
+  "voice_music_balance_pre_loudnorm": [
+    {
+      "scene": "V10-S01",
+      "voice_over_music_rms_db": 21.473545188275722,
+      "required_db": 21
+    },
+    {
+      "scene": "V10-S02",
+      "voice_over_music_rms_db": 21.465306576993672,
+      "required_db": 21
+    },
+    {
+      "scene": "V10-S03",
+      "voice_over_music_rms_db": 21.207178004339042,
+      "required_db": 21
+    },
+    {
+      "scene": "V10-S04",
+      "voice_over_music_rms_db": 20.99999999999822,
+      "required_db": 21
+    },
+    {
+      "scene": "V10-S05",
+      "voice_over_music_rms_db": 21.44972493747959,
+      "required_db": 21
+    },
+    {
+      "scene": "V10-S06",
+      "voice_over_music_rms_db": 24.021035029271836,
+      "required_db": 24
+    }
+  ],
+  "contact_sheet": "revision/qa/seguros_global/contacto_6_escenas.jpg",
+  "sampled_frames": [
+    "revision/qa/seguros_global/V10-S01.png",
+    "revision/qa/seguros_global/V10-S02.png",
+    "revision/qa/seguros_global/V10-S03.png",
+    "revision/qa/seguros_global/V10-S04.png",
+    "revision/qa/seguros_global/V10-S05.png",
+    "revision/qa/seguros_global/V10-S06.png"
+  ],
+  "human_review": "PENDIENTE_ESCUCHA_Y_REPRODUCCION_COMPLETA",
+  "publication": "BLOQUEADA_FICHAS_IDENTIDAD_MARCA_MOVIL"
+}

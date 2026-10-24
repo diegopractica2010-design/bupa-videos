@@ -1,0 +1,259 @@
+{
+  "source_inputs": {
+    "sequence": "3d36d1e04ba9a0ac1a1e96ba30429a913f718845f379b07b855f255d4acf5acc",
+    "timings": "cb07c6ec8b2cd5de31fb93b0d929b451772139bff4ecd84bd874400cc48929ef",
+    "files": {
+      "recursos/audio/campana_salud_112bpm.wav": "6edf1efbc8345496b3a516a9dc7cb45a157ae9e8cdb8f9bd9e869ba3e36f1e2f",
+      "recursos/fuentes/Montserrat-Bold.ttf": "0b52db9cb0750e8bdbbe4b91d04b81c49697d9f409a48eb88132ebdb9f81c231",
+      "recursos/fuentes/Montserrat-ExtraBold.ttf": "c38e96ce348f356efeed275808f1fdc2b7ce812d74f551f0ff4e35ae8b20ffcc",
+      "audio/escenas/V07-S01.wav": "03b896a72dfaaaffa39f2334d3dd290a9ac414af0b456d353d3ae4e029755879",
+      "recursos/graficos/V07-S01.png": "0749dc86705ef3aa94869149da0c653198a0fed8afde0767d7734b0b2533c17e",
+      "audio/escenas/V07-S02.wav": "bfd5743ccd8a2eb94b69e7b2140669e5cac47fc829f1d3a376affae700f991d0",
+      "recursos/graficos/V07-S02.png": "3432e026727e1e153b3f0b8515bbd4bbfba0d6bb2a130d98d315ee81eb77e5ea",
+      "audio/escenas/V07-S03.wav": "ca63011566212a2bf82ed7aedfe186f4f25ec89571e67c98ad733d5183486f40",
+      "recursos/graficos/V07-S03.png": "5a7cdc8af765586456ddcfb156bf4ddf00e040264ad4e9b830d7296773e9d0a5",
+      "recursos/graficos/V07-S03_detalle.png": "5a7cdc8af765586456ddcfb156bf4ddf00e040264ad4e9b830d7296773e9d0a5",
+      "audio/escenas/V07-S04.wav": "d442c357be69b1cade64afb8fd1d6ba9a2b12fded959f52d89153efbef7ffa74",
+      "recursos/graficos/V07-S04.png": "cc35cdacd4a18890ed93f3473ff747e8c3a6dd6c097919f79c8a9fce6b756ee7",
+      "recursos/graficos/V07-S04_detalle.png": "cc35cdacd4a18890ed93f3473ff747e8c3a6dd6c097919f79c8a9fce6b756ee7",
+      "audio/escenas/V07-S05.wav": "9801c7577d649eabcb3df95f46e92fd775f53501858264b07f4eab00e93fc797",
+      "recursos/graficos/V07-S05.png": "3e1767a10bbcf237df8c8e32e99a951529ebe95a9d81db2097a6d9b261715adc",
+      "recursos/graficos/V07-S05_detalle.png": "3e1767a10bbcf237df8c8e32e99a951529ebe95a9d81db2097a6d9b261715adc",
+      "audio/escenas/V07-S06.wav": "dd188eeded896c1a1961b855129e70415164d801e6c6b1d959a739ef0c59e779",
+      "recursos/graficos/V07-S06.png": "4b3742f8f2c8553e7e65d665d4311801f0493f9ca0ed2dee1b53eae0b518f652"
+    },
+    "renderer_code": "47c616cc2e42d5ff4d17c5a089305dee160b564a5f8ea1380c5f0386e284568d"
+  },
+  "id": "V07",
+  "file": "videos/bupa_pymes.mp4",
+  "sha256": "ca8d27ef0c89c777f522473faa0022296ba66883241d942631fdff6a186a688c",
+  "segments": [
+    {
+      "scene": "V07-S01",
+      "phase": 0,
+      "start": 0.0,
+      "end": 5.3,
+      "cache_key": "cc4f56785a3f50533416a09e8abe2a17c3a208826f6f34c85be74dc9e97032d9",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V07-S02",
+      "phase": 0,
+      "start": 5.3,
+      "end": 9.1,
+      "cache_key": "771ac849794c5a2a5adb36731547714e38b515d48aa78eb9874f383346ec18b3",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V07-S03",
+      "phase": 0,
+      "start": 9.1,
+      "end": 12.2,
+      "cache_key": "a66d4cb1b7f1da4de20dbfdbc2fc9fc83db25f035ebbec41a9a667310d05a0f8",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V07-S03",
+      "phase": 1,
+      "start": 12.2,
+      "end": 15.266666666666667,
+      "cache_key": "b8072229a80ed504742d1d9c4b7e39d772d86afdeaa5570b6daa51ec6560ab1e",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V07-S04",
+      "phase": 0,
+      "start": 15.266666666666667,
+      "end": 19.866666666666667,
+      "cache_key": "87c15e6c526861d27af9b1cf46909a56eb5a37730b5edf074fbcd2a65619c158",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V07-S05",
+      "phase": 0,
+      "start": 19.866666666666667,
+      "end": 22.433333333333334,
+      "cache_key": "8a301525e210b970bdc0527e3e250a00ce52c0376ed6694af2c1876f818c696d",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V07-S05",
+      "phase": 1,
+      "start": 22.433333333333334,
+      "end": 25.0,
+      "cache_key": "dec541f4434e8def8cf387e9f0459c5793f938195be390864933fd52f260c145",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    },
+    {
+      "scene": "V07-S06",
+      "phase": 0,
+      "start": 25.0,
+      "end": 30.0,
+      "cache_key": "2ad1a3205739eada481f8da6ed2af9e450ed28c409af5524b06d04e1c57e62dc",
+      "reused": false,
+      "has_subtitles": true,
+      "font_selection": [
+        "(Montserrat, 700, 0) -> Montserrat-Bold, 0, Montserrat-Bold"
+      ]
+    }
+  ],
+  "voice_music_balance": [
+    {
+      "scene": "V07-S01",
+      "voice_over_music_rms_db": 21.541811051975216,
+      "required_db": 21
+    },
+    {
+      "scene": "V07-S02",
+      "voice_over_music_rms_db": 21.186628687336523,
+      "required_db": 21
+    },
+    {
+      "scene": "V07-S03",
+      "voice_over_music_rms_db": 20.999999999998252,
+      "required_db": 21
+    },
+    {
+      "scene": "V07-S04",
+      "voice_over_music_rms_db": 21.719712678296233,
+      "required_db": 21
+    },
+    {
+      "scene": "V07-S05",
+      "voice_over_music_rms_db": 21.307451726119172,
+      "required_db": 21
+    },
+    {
+      "scene": "V07-S06",
+      "voice_over_music_rms_db": 24.053095242998634,
+      "required_db": 24
+    }
+  ],
+  "subtitle_events": [
+    {
+      "scene": "V07-S01",
+      "start": 0.08433333333333333,
+      "end": 2.5293333333333328,
+      "lines": [
+        "Si evalúas beneficios",
+        "para tu empresa,"
+      ],
+      "first_word": 0,
+      "last_word": 5
+    },
+    {
+      "scene": "V07-S01",
+      "start": 2.559333333333333,
+      "end": 4.331333333333333,
+      "lines": [
+        "revisa los requisitos del grupo."
+      ],
+      "first_word": 6,
+      "last_word": 10
+    },
+    {
+      "scene": "V07-S02",
+      "start": 5.405666666666667,
+      "end": 7.213333333333334,
+      "lines": [
+        "Conoce el Seguro Bupa Pymes."
+      ],
+      "first_word": 0,
+      "last_word": 4
+    },
+    {
+      "scene": "V07-S03",
+      "start": 9.184333333333333,
+      "end": 11.889333333333333,
+      "lines": [
+        "Hay alternativas desde",
+        "cinco titulares. El"
+      ],
+      "first_word": 0,
+      "last_word": 5
+    },
+    {
+      "scene": "V07-S03",
+      "start": 11.889333333333333,
+      "end": 14.307333333333332,
+      "lines": [
+        "plan ochenta por ciento",
+        "parte desde quince."
+      ],
+      "first_word": 6,
+      "last_word": 12
+    },
+    {
+      "scene": "V07-S04",
+      "start": 15.351,
+      "end": 18.012,
+      "lines": [
+        "La adhesión mínima es",
+        "del ochenta por ciento."
+      ],
+      "first_word": 0,
+      "last_word": 7
+    },
+    {
+      "scene": "V07-S05",
+      "start": 19.951,
+      "end": 21.846000000000004,
+      "lines": [
+        "Revisa cantidad de titulares,"
+      ],
+      "first_word": 0,
+      "last_word": 3
+    },
+    {
+      "scene": "V07-S05",
+      "start": 21.876,
+      "end": 24.006,
+      "lines": [
+        "requisitos y combinación",
+        "de coberturas."
+      ],
+      "first_word": 4,
+      "last_word": 8
+    },
+    {
+      "scene": "V07-S06",
+      "start": 25.084333333333333,
+      "end": 28.769333333333336,
+      "lines": [
+        "Consulta requisitos y cotización",
+        "de Bupa Pymes por WhatsApp."
+      ],
+      "first_word": 0,
+      "last_word": 8
+    }
+  ],
+  "publication": "BLOQUEADA_FICHAS_MARCA_ESCUCHA_MOVIL"
+}

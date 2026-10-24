@@ -1,0 +1,2005 @@
+{
+  "version": "3.0",
+  "state": "no_aprobado_para_publicacion",
+  "status_definition": "documentado_por_auditoria_pendiente_ficha_vigente significa trazado al informe disponible, nunca verificado como oferta vigente ni aprobado.",
+  "sources": [
+    {
+      "id": "AUDITORIA_V1",
+      "document": "Auditoria_videos_Instagram_WhatsApp_v1.pdf",
+      "version": "1.0",
+      "date": "2026-10-24",
+      "availability": "PDF/DOCX recibidos; páginas citadas por numeración del informe."
+    },
+    {
+      "id": "ANALISIS_CLIENTE",
+      "document": "cliente.md",
+      "role": "Motivación editorial, no prueba de condiciones."
+    },
+    {
+      "id": "ANALISIS_VENDEDOR",
+      "document": "vendedor_senior.md",
+      "role": "Motivación editorial, no prueba de condiciones."
+    },
+    {
+      "id": "ANALISIS_INSTAGRAM",
+      "document": "cliente_impulso_rrss.md",
+      "role": "Motivación editorial, no prueba de condiciones."
+    }
+  ],
+  "claims": [
+    {
+      "id": "V01-C01",
+      "video_id": "V01",
+      "statement": "Denominación: Plan IntegraMédica Adulto Mayor 70%.",
+      "scene_ids": [
+        "V01-S01",
+        "V01-S02",
+        "V01-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V01-C02",
+      "video_id": "V01",
+      "statement": "70% de cobertura sobre el copago de atenciones ambulatorias incluidas; no hospitalización ni edad mínima 70.",
+      "scene_ids": [
+        "V01-S01",
+        "V01-S02"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V01-C03",
+      "video_id": "V01",
+      "statement": "Red de atención IntegraMédica y prestaciones incluidas según plan.",
+      "scene_ids": [
+        "V01-S01",
+        "V01-S03",
+        "V01-S05"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V01-C04",
+      "video_id": "V01",
+      "statement": "Tope anual UF 25 por beneficiario.",
+      "scene_ids": [
+        "V01-S01",
+        "V01-S04",
+        "V01-S05"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V01-C05",
+      "video_id": "V01",
+      "statement": "Ingreso de 60 a 84 años y 364 días; permanencia hasta 99 años y 364 días.",
+      "scene_ids": [
+        "V01-S04"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V01-C06",
+      "video_id": "V01",
+      "statement": "Isapre o Fonasa B, C y D.",
+      "scene_ids": [
+        "V01-S03"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V01-C07",
+      "video_id": "V01",
+      "statement": "Prestaciones, exclusiones, topes y condiciones según plan.",
+      "scene_ids": [
+        "V01-S03",
+        "V01-S05",
+        "V01-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V02-C01",
+      "video_id": "V02",
+      "statement": "Denominación: Seguro Bupa Catastrófico.",
+      "scene_ids": [
+        "V02-S01",
+        "V02-S02",
+        "V02-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V02-C02",
+      "video_id": "V02",
+      "statement": "Protección para enfermedades y accidentes de alto costo.",
+      "scene_ids": [
+        "V02-S01",
+        "V02-S03"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V02-C03",
+      "video_id": "V02",
+      "statement": "Libre elección de prestador con condiciones según sistema de salud.",
+      "scene_ids": [
+        "V02-S01",
+        "V02-S03"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V02-C04",
+      "video_id": "V02",
+      "statement": "Topes y deducibles varían según edad y sistema previsional.",
+      "scene_ids": [
+        "V02-S04",
+        "V02-S05"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V02-C05",
+      "video_id": "V02",
+      "statement": "Isapre o Fonasa B, C y D; sujeto a evaluación de asegurabilidad.",
+      "scene_ids": [
+        "V02-S01",
+        "V02-S05"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V02-C06",
+      "video_id": "V02",
+      "statement": "Carencias, exclusiones y requisitos según póliza; no monto universal.",
+      "scene_ids": [
+        "V02-S04",
+        "V02-S05",
+        "V02-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V03-C01",
+      "video_id": "V03",
+      "statement": "Denominación: Seguro Bupa Complementa.",
+      "scene_ids": [
+        "V03-S01",
+        "V03-S02",
+        "V03-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V03-C02",
+      "video_id": "V03",
+      "statement": "Exclusivo para afiliados a Isapre.",
+      "scene_ids": [
+        "V03-S01",
+        "V03-S05",
+        "V03-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V03-C03",
+      "video_id": "V03",
+      "statement": "Cobertura sobre copagos de prestaciones incluidas.",
+      "scene_ids": [
+        "V03-S01",
+        "V03-S03"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V03-C04",
+      "video_id": "V03",
+      "statement": "Opera en la misma proporción que Isapre, con topes y condiciones.",
+      "scene_ids": [
+        "V03-S04"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V03-C05",
+      "video_id": "V03",
+      "statement": "Sujeto a bonificación previa, topes, red, exclusiones y evaluación de asegurabilidad.",
+      "scene_ids": [
+        "V03-S03",
+        "V03-S04",
+        "V03-S05"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V03-C06",
+      "video_id": "V03",
+      "statement": "No se promete pagar todo el saldo ni cubrir cualquier prestación.",
+      "scene_ids": [],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V04-C01",
+      "video_id": "V04",
+      "statement": "Denominación: Seguro Bupa Cuidado Total.",
+      "scene_ids": [
+        "V04-S01",
+        "V04-S02",
+        "V04-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V04-C02",
+      "video_id": "V04",
+      "statement": "Incluye coberturas para consultas, exámenes y hospitalización según plan contratado.",
+      "scene_ids": [
+        "V04-S01",
+        "V04-S03"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V04-C03",
+      "video_id": "V04",
+      "statement": "Isapre o Fonasa B, C y D, con evaluación de asegurabilidad.",
+      "scene_ids": [
+        "V04-S01",
+        "V04-S04",
+        "V04-S05"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V04-C04",
+      "video_id": "V04",
+      "statement": "Porcentajes, deducibles, topes, red y exclusiones según plan.",
+      "scene_ids": [
+        "V04-S03",
+        "V04-S04",
+        "V04-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V04-C05",
+      "video_id": "V04",
+      "statement": "No se promete cobertura ilimitada por el nombre Total.",
+      "scene_ids": [
+        "V04-S05"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V05-C01",
+      "video_id": "V05",
+      "statement": "Denominación: Seguro Bupa MultiSalud.",
+      "scene_ids": [
+        "V05-S01",
+        "V05-S02",
+        "V05-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V05-C02",
+      "video_id": "V05",
+      "statement": "Dirigido a afiliados a Fonasa B, C y D.",
+      "scene_ids": [
+        "V05-S01",
+        "V05-S05"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V05-C03",
+      "video_id": "V05",
+      "statement": "Coberturas ambulatorias y hospitalarias en la red de prestadores del plan.",
+      "scene_ids": [
+        "V05-S03"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V05-C04",
+      "video_id": "V05",
+      "statement": "Porcentajes y topes dependen de red y condiciones.",
+      "scene_ids": [
+        "V05-S03",
+        "V05-S04"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V05-C05",
+      "video_id": "V05",
+      "statement": "Red, topes, deducibles, carencias y exclusiones según póliza; evaluación de asegurabilidad.",
+      "scene_ids": [
+        "V05-S01",
+        "V05-S04",
+        "V05-S05",
+        "V05-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V06-C01",
+      "video_id": "V06",
+      "statement": "Denominación: Seguro Bupa + Protección.",
+      "scene_ids": [
+        "V06-S01",
+        "V06-S02",
+        "V06-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V06-C02",
+      "video_id": "V06",
+      "statement": "Dirigido a familias afiliadas a Fonasa; exclusivo Fonasa según el informe.",
+      "scene_ids": [
+        "V06-S01",
+        "V06-S02"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V06-C03",
+      "video_id": "V06",
+      "statement": "Coberturas en Clínica Bupa Santiago y red IntegraMédica.",
+      "scene_ids": [
+        "V06-S01",
+        "V06-S03"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V06-C04",
+      "video_id": "V06",
+      "statement": "Prestaciones, topes, condiciones, carencias y exclusiones según plan.",
+      "scene_ids": [
+        "V06-S03",
+        "V06-S04",
+        "V06-S05",
+        "V06-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V06-C05",
+      "video_id": "V06",
+      "statement": "Sujeto a evaluación de asegurabilidad; no se promete admisión automática de toda la familia.",
+      "scene_ids": [
+        "V06-S02",
+        "V06-S04",
+        "V06-S05"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V07-C01",
+      "video_id": "V07",
+      "statement": "Denominación: Seguro Bupa Pymes; planes colectivos para empresa.",
+      "scene_ids": [
+        "V07-S01",
+        "V07-S02",
+        "V07-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V07-C02",
+      "video_id": "V07",
+      "statement": "Alternativas desde cinco titulares, según plan.",
+      "scene_ids": [
+        "V07-S03"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V07-C03",
+      "video_id": "V07",
+      "statement": "Plan 80%: desde quince titulares.",
+      "scene_ids": [
+        "V07-S03"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V07-C04",
+      "video_id": "V07",
+      "statement": "Adhesión mínima 80%; es un concepto distinto del porcentaje del plan.",
+      "scene_ids": [
+        "V07-S04"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V07-C05",
+      "video_id": "V07",
+      "statement": "Cobertura base y adicionales según alternativa.",
+      "scene_ids": [
+        "V07-S05"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V07-C06",
+      "video_id": "V07",
+      "statement": "Coberturas, topes, deducibles, exclusiones y requisitos según plan y contratación.",
+      "scene_ids": [
+        "V07-S01",
+        "V07-S05",
+        "V07-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V08-C01",
+      "video_id": "V08",
+      "statement": "Denominación: Plan IntegraMédica 100%.",
+      "scene_ids": [
+        "V08-S01",
+        "V08-S02",
+        "V08-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V08-C02",
+      "video_id": "V08",
+      "statement": "Plan de prestaciones ambulatorias incluidas en red IntegraMédica.",
+      "scene_ids": [
+        "V08-S01",
+        "V08-S03"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V08-C03",
+      "video_id": "V08",
+      "statement": "Cobertura sobre el copago de prestaciones incluidas, con tope anual y carencias.",
+      "scene_ids": [
+        "V08-S03"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V08-C04",
+      "video_id": "V08",
+      "statement": "Tope anual UF 60 por beneficiario.",
+      "scene_ids": [
+        "V08-S03"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V08-C05",
+      "video_id": "V08",
+      "statement": "Carencia de cuatro meses en prestaciones indicadas del plan.",
+      "scene_ids": [
+        "V08-S05"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V08-C06",
+      "video_id": "V08",
+      "statement": "Isapre o Fonasa B, C y D según nota/caption del informe.",
+      "scene_ids": [
+        "V08-S02"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V08-C07",
+      "video_id": "V08",
+      "statement": "Nota literal separada: Sin cobertura previsional: bonificación 50%.",
+      "scene_ids": [
+        "V08-S04"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V08-C08",
+      "video_id": "V08",
+      "statement": "Requisitos, red y exclusiones según ficha; no promesa de atención gratuita, inmediata o ilimitada.",
+      "scene_ids": [
+        "V08-S01",
+        "V08-S05",
+        "V08-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V09-C01",
+      "video_id": "V09",
+      "statement": "Denominación/version: Plan Mi Dental IntegraMédica 68%.",
+      "scene_ids": [
+        "V09-S01",
+        "V09-S02",
+        "V09-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V09-C02",
+      "video_id": "V09",
+      "statement": "68% de descuento sobre arancel IntegraMédica vigente en tratamientos incluidos.",
+      "scene_ids": [
+        "V09-S01",
+        "V09-S02",
+        "V09-S04"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V09-C03",
+      "video_id": "V09",
+      "statement": "Una limpieza anual y radiografías según topes del plan.",
+      "scene_ids": [
+        "V09-S03"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V09-C04",
+      "video_id": "V09",
+      "statement": "Prestaciones, frecuencias, exclusiones y condiciones según plan.",
+      "scene_ids": [
+        "V09-S04",
+        "V09-S05",
+        "V09-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V09-C05",
+      "video_id": "V09",
+      "statement": "Red dental IntegraMédica.",
+      "scene_ids": [
+        "V09-S05"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V09-C06",
+      "video_id": "V09",
+      "statement": "No se ofrece precio final garantizado ni tarifas de tratamientos.",
+      "scene_ids": [
+        "V09-S01",
+        "V09-S04",
+        "V09-S05",
+        "V09-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V10-C01",
+      "video_id": "V10",
+      "statement": "Denominación: Seguros de Salud Global Bupa; familia con distintas alternativas.",
+      "scene_ids": [
+        "V10-S01",
+        "V10-S02",
+        "V10-S03",
+        "V10-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V10-C02",
+      "video_id": "V10",
+      "statement": "Alternativas de cobertura médica en Chile y extranjero según plan.",
+      "scene_ids": [
+        "V10-S01",
+        "V10-S03"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V10-C03",
+      "video_id": "V10",
+      "statement": "Alcance, beneficios, territorio, requisitos y exclusiones dependen del plan.",
+      "scene_ids": [
+        "V10-S03",
+        "V10-S04",
+        "V10-S05",
+        "V10-S06"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V10-C04",
+      "video_id": "V10",
+      "statement": "Evaluación de asegurabilidad según plan contratado.",
+      "scene_ids": [
+        "V10-S05"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    },
+    {
+      "id": "V10-C05",
+      "video_id": "V10",
+      "statement": "No se promete asistencia de viaje ni rescate aéreo en esta pieza.",
+      "scene_ids": [
+        "V10-S04"
+      ],
+      "caption_included": true,
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "source_available": "Informe PDF/DOCX recibido; fichas locales citadas y su vigencia no comprobadas directamente en esta edición.",
+      "status": "documentado_por_auditoria_pendiente_ficha_vigente",
+      "approved": false
+    }
+  ],
+  "copy_trace": [
+    {
+      "scene_id": "V01-S01",
+      "literal_copy": {
+        "voice": "Setenta por ciento sobre el copago de atenciones ambulatorias incluidas.",
+        "headline": "70% sobre copago ambulatorio",
+        "note": "Tope anual UF 25 por beneficiario. Red IntegraMédica.",
+        "cards": [
+          {
+            "title": "Ámbito",
+            "body": "Ambulatorio"
+          },
+          {
+            "title": "Base",
+            "body": "Copago"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V01-S02",
+      "literal_copy": {
+        "voice": "Conoce el Plan IntegraMédica Adulto Mayor setenta por ciento.",
+        "headline": "Plan IntegraMédica Adulto Mayor 70%",
+        "note": "El 70 es porcentaje de cobertura, no edad mínima.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V01-S03",
+      "literal_copy": {
+        "voice": "En la red IntegraMédica, según las prestaciones incluidas en el plan.",
+        "headline": "Red IntegraMédica",
+        "note": "Isapre o Fonasa B, C y D. Prestaciones y exclusiones según plan.",
+        "cards": [
+          {
+            "title": "Red de atención",
+            "body": "IntegraMédica"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V01-S04",
+      "literal_copy": {
+        "voice": "Tiene requisitos de edad y un tope anual por beneficiario.",
+        "headline": "Requisitos de edad",
+        "note": "Ingreso: 60 a 84 años y 364 días. Permanencia: hasta 99 años y 364 días.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V01-S05",
+      "literal_copy": {
+        "voice": "Antes de cotizar, revisa edad, previsión y red de atención.",
+        "headline": "¿Corresponde a lo que buscas?",
+        "note": "Tope anual UF 25 por beneficiario. Revisa prestaciones y exclusiones.",
+        "cards": [
+          {
+            "title": "Primera revisión",
+            "body": "Edad, previsión y red"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V01-S06",
+      "literal_copy": {
+        "voice": "Consulta requisitos del Plan Adulto Mayor setenta por ciento por WhatsApp.",
+        "headline": "Revisa requisitos y cotiza",
+        "note": "Topes y condiciones según plan.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 13–14, 93: V01 §9.8 y notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V02-S01",
+      "literal_copy": {
+        "voice": "Protección de alto costo, con libre elección según las condiciones del seguro.",
+        "headline": "Alto costo y libre elección",
+        "note": "Isapre o Fonasa B, C y D. Sujeto a evaluación de asegurabilidad.",
+        "cards": [
+          {
+            "title": "Protección",
+            "body": "Alto costo"
+          },
+          {
+            "title": "Libre elección",
+            "body": "Según condiciones"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V02-S02",
+      "literal_copy": {
+        "voice": "Conoce el Seguro Bupa Catastrófico.",
+        "headline": "Seguro Bupa Catastrófico",
+        "note": "Coberturas y condiciones según póliza.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V02-S03",
+      "literal_copy": {
+        "voice": "Ofrece protección para enfermedades y accidentes de alto costo.",
+        "headline": "Enfermedades y accidentes",
+        "note": "Libre elección de prestador, con condiciones según sistema de salud.",
+        "cards": [
+          {
+            "title": "Alcance",
+            "body": "Según tu sistema de salud"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V02-S04",
+      "literal_copy": {
+        "voice": "Los topes y deducibles dependen de la edad y del sistema previsional.",
+        "headline": "Revisa topes y deducibles",
+        "note": "Carencias, exclusiones y requisitos según póliza.",
+        "cards": [
+          {
+            "title": "Topes y deducibles",
+            "body": "Según edad y previsión"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V02-S05",
+      "literal_copy": {
+        "voice": "Antes de cotizar, revisa los requisitos y el deducible que corresponden.",
+        "headline": "Una consulta con contexto",
+        "note": "Deducibles y topes según edad, previsión y póliza.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V02-S06",
+      "literal_copy": {
+        "voice": "Consulta requisitos y deducibles de Bupa Catastrófico por WhatsApp.",
+        "headline": "Consulta y cotiza",
+        "note": "Coberturas, topes y condiciones según póliza.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 21–22, 93: V02 §9.8, notas y límites de topes/deducibles; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V03-S01",
+      "literal_copy": {
+        "voice": "Si tienes Isapre, revisa cómo complementar tus copagos.",
+        "headline": "Para afiliados a Isapre",
+        "note": "Exclusivo Isapre. Prestaciones incluidas según plan.",
+        "cards": [
+          {
+            "title": "Público",
+            "body": "Afiliados a Isapre"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V03-S02",
+      "literal_copy": {
+        "voice": "Conoce el Seguro Bupa Complementa.",
+        "headline": "Seguro Bupa Complementa",
+        "note": "Coberturas y condiciones según plan.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V03-S03",
+      "literal_copy": {
+        "voice": "El complemento se aplica sobre copagos de prestaciones incluidas.",
+        "headline": "Cobertura sobre copagos",
+        "note": "Sujeto a bonificación previa, red y condiciones del plan.",
+        "cards": [
+          {
+            "title": "Plan Isapre",
+            "body": "Bonificación previa"
+          },
+          {
+            "title": "Copago",
+            "body": "Prestaciones incluidas"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V03-S04",
+      "literal_copy": {
+        "voice": "En la misma proporción que tu Isapre, con topes y condiciones.",
+        "headline": "Complemento según plan",
+        "note": "Sujeto a topes, red, exclusiones y evaluación de asegurabilidad.",
+        "cards": [
+          {
+            "title": "Complemento",
+            "body": "Según proporción y topes"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V03-S05",
+      "literal_copy": {
+        "voice": "Revisa cómo opera con tu plan antes de contratar.",
+        "headline": "Entiende cómo se aplica",
+        "note": "Prestaciones incluidas, topes, red y exclusiones según plan.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V03-S06",
+      "literal_copy": {
+        "voice": "Consulta cómo opera Bupa Complementa y cotiza por WhatsApp.",
+        "headline": "Revisa tu alternativa y cotiza",
+        "note": "Exclusivo para afiliados a Isapre. Condiciones según plan.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 29–30, 93: V03 §9.8, esquema y exclusión de promesas absolutas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V04-S01",
+      "literal_copy": {
+        "voice": "Consultas, exámenes y hospitalización, según el plan contratado.",
+        "headline": "Coberturas según tu plan",
+        "note": "Isapre o Fonasa B, C y D. Sujeto a evaluación de asegurabilidad.",
+        "cards": [
+          {
+            "title": "Consultas",
+            "body": "Según plan"
+          },
+          {
+            "title": "Exámenes",
+            "body": "Según plan"
+          },
+          {
+            "title": "Hospitalización",
+            "body": "Según plan"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V04-S02",
+      "literal_copy": {
+        "voice": "Conoce el Seguro Bupa Cuidado Total.",
+        "headline": "Seguro Bupa Cuidado Total",
+        "note": "El alcance depende del plan contratado.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V04-S03",
+      "literal_copy": {
+        "voice": "Las coberturas dependen del plan contratado y de sus prestadores.",
+        "headline": "Prestadores según plan",
+        "note": "Porcentajes, deducibles, topes y red según plan.",
+        "cards": [
+          {
+            "title": "Cobertura",
+            "body": "Según plan contratado"
+          },
+          {
+            "title": "Atención",
+            "body": "Prestadores aplicables"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V04-S04",
+      "literal_copy": {
+        "voice": "Revisa porcentajes, deducibles, topes y exclusiones.",
+        "headline": "Entiende el alcance",
+        "note": "Sujeto a condiciones del plan y evaluación de asegurabilidad.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V04-S05",
+      "literal_copy": {
+        "voice": "Antes de cotizar, revisa tu previsión y la red donde te atenderías.",
+        "headline": "¿Corresponde a tu previsión y red?",
+        "note": "Prestaciones incluidas, sujetas a topes y exclusiones.",
+        "cards": [
+          {
+            "title": "Primera revisión",
+            "body": "Previsión y red"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V04-S06",
+      "literal_copy": {
+        "voice": "Consulta cobertura y cotización de Bupa Cuidado Total por WhatsApp.",
+        "headline": "Revisa cobertura y cotiza",
+        "note": "Coberturas, requisitos y exclusiones según plan.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 36–37, 93: V04 §9.8 y alcance condicionado; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V05-S01",
+      "literal_copy": {
+        "voice": "Para afiliados a Fonasa B, C y D.",
+        "headline": "Fonasa B, C y D",
+        "note": "Sujeto a requisitos y evaluación de asegurabilidad.",
+        "cards": [
+          {
+            "title": "Fonasa",
+            "body": "Tramos B, C y D"
+          },
+          {
+            "title": "Red del plan",
+            "body": "Revisa dónde atenderte"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V05-S02",
+      "literal_copy": {
+        "voice": "Conoce el Seguro Bupa MultiSalud.",
+        "headline": "Seguro Bupa MultiSalud",
+        "note": "Red y condiciones según póliza.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V05-S03",
+      "literal_copy": {
+        "voice": "Ofrece coberturas ambulatorias y hospitalarias en su red de prestadores.",
+        "headline": "Ambulatorio y hospitalario",
+        "note": "Porcentajes y topes dependen de la red y las condiciones.",
+        "cards": [
+          {
+            "title": "Ambulatorio",
+            "body": "En la red del plan"
+          },
+          {
+            "title": "Hospitalario",
+            "body": "En la red del plan"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V05-S04",
+      "literal_copy": {
+        "voice": "La red, los topes y las condiciones importan al elegir.",
+        "headline": "Revisa la red aplicable",
+        "note": "Topes, deducibles, carencias y exclusiones según póliza.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V05-S05",
+      "literal_copy": {
+        "voice": "Consulta si la red del plan corresponde al lugar donde te atenderías.",
+        "headline": "Tu consulta: red y requisitos",
+        "note": "Fonasa B, C y D. Sujeto a evaluación de asegurabilidad.",
+        "cards": [
+          {
+            "title": "Primera revisión",
+            "body": "Previsión y lugar de atención"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V05-S06",
+      "literal_copy": {
+        "voice": "Consulta red y cotización de Bupa MultiSalud por WhatsApp.",
+        "headline": "Revisa red y cotiza",
+        "note": "Coberturas y condiciones según póliza.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 43–44, 93–94: W06, V05 §9.8 y corrección de público; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V06-S01",
+      "literal_copy": {
+        "voice": "Familias Fonasa: Clínica Bupa Santiago y red IntegraMédica.",
+        "headline": "Fonasa y una red concreta",
+        "note": "Coberturas sujetas a prestadores, requisitos y condiciones del plan.",
+        "cards": [
+          {
+            "title": "Clínica",
+            "body": "Bupa Santiago"
+          },
+          {
+            "title": "Red",
+            "body": "IntegraMédica"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V06-S02",
+      "literal_copy": {
+        "voice": "Conoce el Seguro Bupa más Protección.",
+        "headline": "Seguro Bupa + Protección",
+        "note": "Exclusivo Fonasa. Sujeto a evaluación de asegurabilidad.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V06-S03",
+      "literal_copy": {
+        "voice": "Las coberturas se aplican en los prestadores indicados, según el plan.",
+        "headline": "Clínica Bupa Santiago y red IntegraMédica",
+        "note": "Prestaciones y topes según la alternativa.",
+        "cards": [
+          {
+            "title": "Clínica Bupa Santiago",
+            "body": "Según plan"
+          },
+          {
+            "title": "Red IntegraMédica",
+            "body": "Según plan"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V06-S04",
+      "literal_copy": {
+        "voice": "La cobertura está sujeta a topes, carencias y exclusiones del plan.",
+        "headline": "Prestaciones según plan",
+        "note": "Prestaciones, red y condiciones según plan. Revisa requisitos de incorporación.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V06-S05",
+      "literal_copy": {
+        "voice": "Antes de cotizar, confirma requisitos y la red donde te atenderías.",
+        "headline": "Revisa red y requisitos",
+        "note": "Coberturas en prestadores indicados. Sujeto a evaluación de asegurabilidad.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V06-S06",
+      "literal_copy": {
+        "voice": "Consulta red y requisitos de Bupa más Protección por WhatsApp.",
+        "headline": "Consulta tu alternativa",
+        "note": "Coberturas, carencias y exclusiones según plan.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 50–51, 94: D28/W07, V06 §9.8 y red; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V07-S01",
+      "literal_copy": {
+        "voice": "Si evalúas beneficios para tu empresa, revisa los requisitos del grupo.",
+        "headline": "Beneficios para tu empresa",
+        "note": "Planes colectivos. Requisitos de contratación según plan.",
+        "cards": [
+          {
+            "title": "Para tu empresa",
+            "body": "Revisa el grupo de titulares"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V07-S02",
+      "literal_copy": {
+        "voice": "Conoce el Seguro Bupa Pymes.",
+        "headline": "Seguro Bupa Pymes",
+        "note": "Alternativas y condiciones según plan.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V07-S03",
+      "literal_copy": {
+        "voice": "Hay alternativas desde cinco titulares. El plan ochenta por ciento parte desde quince.",
+        "headline": "Requisitos por alternativa",
+        "note": "Cada alternativa tiene requisitos propios de titulares.",
+        "cards": [
+          {
+            "title": "Alternativas según plan",
+            "body": "Desde 5 titulares"
+          },
+          {
+            "title": "Plan 80%",
+            "body": "Desde 15 titulares"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V07-S04",
+      "literal_copy": {
+        "voice": "La adhesión mínima es del ochenta por ciento.",
+        "headline": "Requisito de adhesión",
+        "note": "Adhesión mínima 80%. Revisar cálculo y grupo aplicable.",
+        "cards": [
+          {
+            "title": "Adhesión mínima",
+            "body": "80%"
+          },
+          {
+            "title": "Concepto distinto",
+            "body": "Del porcentaje del plan"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V07-S05",
+      "literal_copy": {
+        "voice": "Revisa cantidad de titulares, requisitos y combinación de coberturas.",
+        "headline": "¿Qué alternativa corresponde?",
+        "note": "Base y adicionales según plan. Coberturas, topes, deducibles y exclusiones aplicables.",
+        "cards": [
+          {
+            "title": "Cobertura base",
+            "body": "Según plan"
+          },
+          {
+            "title": "Adicionales",
+            "body": "Según alternativa"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V07-S06",
+      "literal_copy": {
+        "voice": "Consulta requisitos y cotización de Bupa Pymes por WhatsApp.",
+        "headline": "Cotiza para tu empresa",
+        "note": "Solicita una revisión según cantidad de titulares y requisitos.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 57–58, 94: D16 y V07 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V08-S01",
+      "literal_copy": {
+        "voice": "Atenciones ambulatorias en la red IntegraMédica, con prestaciones incluidas.",
+        "headline": "Copago ambulatorio en red",
+        "note": "Beneficios, requisitos y exclusiones según ficha.",
+        "cards": [
+          {
+            "title": "Red",
+            "body": "IntegraMédica"
+          },
+          {
+            "title": "Ámbito",
+            "body": "Prestaciones ambulatorias"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V08-S02",
+      "literal_copy": {
+        "voice": "Conoce el Plan IntegraMédica cien por ciento.",
+        "headline": "Plan IntegraMédica 100%",
+        "note": "Isapre o Fonasa B, C y D.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V08-S03",
+      "literal_copy": {
+        "voice": "Cubre el copago de prestaciones incluidas, con tope anual y carencias.",
+        "headline": "100% sobre copago incluido",
+        "note": "Tope anual UF 60 por beneficiario.",
+        "cards": [
+          {
+            "title": "Copago",
+            "body": "Prestaciones incluidas"
+          },
+          {
+            "title": "Tope anual",
+            "body": "UF 60 por beneficiario"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V08-S04",
+      "literal_copy": {
+        "voice": "Hay condiciones específicas de bonificación que deben revisarse.",
+        "headline": "Condición de bonificación",
+        "note": "Sin cobertura previsional: bonificación 50%.",
+        "cards": [
+          {
+            "title": "Condición específica",
+            "body": "Sin cobertura previsional"
+          },
+          {
+            "title": "Bonificación",
+            "body": "50%, según ficha"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V08-S05",
+      "literal_copy": {
+        "voice": "Revisa requisitos y las carencias aplicables antes de contratar.",
+        "headline": "Revisa topes y carencias",
+        "note": "Carencia de 4 meses en prestaciones indicadas.",
+        "cards": [
+          {
+            "title": "Carencia",
+            "body": "4 meses en prestaciones indicadas"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V08-S06",
+      "literal_copy": {
+        "voice": "Cotiza el Plan IntegraMédica cien por ciento por WhatsApp.",
+        "headline": "Revisa condiciones y cotiza",
+        "note": "Prestaciones incluidas, topes, carencias y exclusiones según plan.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 64–65, 94: D10 y V08 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V09-S01",
+      "literal_copy": {
+        "voice": "Sesenta y ocho por ciento de descuento sobre arancel en tratamientos incluidos.",
+        "headline": "68% de descuento sobre arancel",
+        "note": "Arancel IntegraMédica vigente. Sujeto a prestaciones del plan.",
+        "cards": [
+          {
+            "title": "Descuento",
+            "body": "Sobre arancel"
+          },
+          {
+            "title": "Tratamientos",
+            "body": "Incluidos en el plan"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V09-S02",
+      "literal_copy": {
+        "voice": "Conoce Mi Dental IntegraMédica sesenta y ocho por ciento.",
+        "headline": "Mi Dental IntegraMédica 68%",
+        "note": "Descuento sobre arancel. Prestaciones y condiciones según plan.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V09-S03",
+      "literal_copy": {
+        "voice": "Contempla una limpieza anual y radiografías según los topes del plan.",
+        "headline": "Prevención según topes",
+        "note": "Una limpieza anual; radiografías con topes.",
+        "cards": [
+          {
+            "title": "Limpieza",
+            "body": "Una anual"
+          },
+          {
+            "title": "Radiografías",
+            "body": "Según topes del plan"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V09-S04",
+      "literal_copy": {
+        "voice": "Es un descuento sobre arancel, sin precio final garantizado.",
+        "headline": "Descuento, no precio final",
+        "note": "Prestaciones, frecuencias, exclusiones y condiciones según plan.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V09-S05",
+      "literal_copy": {
+        "voice": "Consulta las prestaciones incluidas y las condiciones de la red dental.",
+        "headline": "Revisa prestaciones y red",
+        "note": "Red dental IntegraMédica. Prestaciones y condiciones según plan.",
+        "cards": [
+          {
+            "title": "Red dental",
+            "body": "IntegraMédica"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V09-S06",
+      "literal_copy": {
+        "voice": "Consulta prestaciones y cotización de Mi Dental IntegraMédica por WhatsApp.",
+        "headline": "Consulta prestaciones y cotiza",
+        "note": "Sujeto a las condiciones del plan. Sin precio final garantizado.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 71–72, 94: D14 y V09 §9.8/notas; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V10-S01",
+      "literal_copy": {
+        "voice": "Cobertura médica en Chile y el extranjero, según el plan.",
+        "headline": "Salud en Chile y extranjero",
+        "note": "Alcance y territorio sujetos al plan contratado.",
+        "cards": [
+          {
+            "title": "Chile y extranjero",
+            "body": "Según plan"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V10-S02",
+      "literal_copy": {
+        "voice": "Conoce los Seguros de Salud Global Bupa.",
+        "headline": "Seguros de Salud Global Bupa",
+        "note": "Familia de seguros con distintas alternativas.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V10-S03",
+      "literal_copy": {
+        "voice": "Existen alternativas con distintos beneficios, requisitos y alcance territorial.",
+        "headline": "Alternativas según tu necesidad",
+        "note": "Cada alternativa tiene beneficios y condiciones propios.",
+        "cards": [
+          {
+            "title": "Plan",
+            "body": "Identificar alternativa"
+          },
+          {
+            "title": "Territorio",
+            "body": "Revisar alcance"
+          }
+        ]
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V10-S04",
+      "literal_copy": {
+        "voice": "Revisa el territorio y las condiciones de la alternativa que evalúas.",
+        "headline": "Cobertura sujeta al plan",
+        "note": "No es una promesa de asistencia de viaje ni de rescate aéreo.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V10-S05",
+      "literal_copy": {
+        "voice": "Antes de cotizar, identifica el plan y el país donde usarías la cobertura.",
+        "headline": "Tu consulta: plan y territorio",
+        "note": "Cobertura, requisitos, exclusiones y evaluación de asegurabilidad según plan.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    },
+    {
+      "scene_id": "V10-S06",
+      "literal_copy": {
+        "voice": "Consulta plan, territorio y cotización de Salud Global Bupa por WhatsApp.",
+        "headline": "Revisa tu alternativa y cotiza",
+        "note": "Beneficios y condiciones según el plan contratado.",
+        "cards": []
+      },
+      "source_refs": [
+        "Auditoria_videos_Instagram_WhatsApp_v1.pdf, pp. 7, 79–80, 95: W02 y V10 §9.8/límites de familia; Anexo A. Informe recibido; cotejo con ficha vigente pendiente."
+      ],
+      "review_status": "reformulacion_editorial_pendiente_revision_comercial"
+    }
+  ],
+  "operational_reference": {
+    "whatsapp_base": "https://wa.me/56986121803",
+    "status": "destino_confirmado_por_usuario; apertura real pendiente; no se enviaron mensajes"
+  },
+  "omissions_and_limits": [
+    "No se incorporan montos en pesos, promociones, tarifas, aprobaciones, límites no documentados ni autorizaciones de marca.",
+    "No se explica la relación100/50 del V08 sin ficha; se conserva la condición documental y el bloqueo.",
+    "No se transfiere Fonasa B/C/D a +Protección.",
+    "Pymes diferencia plan80% y adhesión80%, sin inventar denominador de adhesión.",
+    "El cambio a gráficos originales elimina la dependencia de stock del montaje v3, no los bloqueos comerciales y de marca."
+  ]
+}

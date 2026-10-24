@@ -1,0 +1,89 @@
+{
+  "id": "V06",
+  "file": "videos/bupa_proteccion.mp4",
+  "sha256": "08e2db1f5b1234903f6a5e6b05811c4dc2af80d0b6dcea3c94be725b9ce53113",
+  "checks": {
+    "dimensions": true,
+    "fps": true,
+    "frame_count": true,
+    "duration": true,
+    "video_codec": true,
+    "rec709": true,
+    "audio_codec": true,
+    "faststart": true,
+    "cfr_timestamps": true,
+    "full_decode": true,
+    "mix_lufs": true,
+    "mix_truepeak": true,
+    "no_black_intervals": true,
+    "subtitles": true,
+    "voice_music_balance": true,
+    "subtitle_font_no_host_fallback": true,
+    "render_hash_matches": true,
+    "source_inputs_current": true,
+    "file_unchanged_during_qa": true
+  },
+  "loudness_mix": {
+    "input_i": "-16.20",
+    "input_tp": "-2.11",
+    "input_lra": "3.60",
+    "input_thresh": "-27.32",
+    "output_i": "-16.18",
+    "output_tp": "-2.11",
+    "output_lra": "3.40",
+    "output_thresh": "-27.21",
+    "normalization_type": "dynamic",
+    "target_offset": "0.18"
+  },
+  "black_intervals": [],
+  "subtitle_validation": {
+    "events": 10,
+    "text_literal": true,
+    "format_and_order": true,
+    "matches_voice_model_times": true,
+    "human_sync": "PENDIENTE"
+  },
+  "voice_music_balance_pre_loudnorm": [
+    {
+      "scene": "V06-S01",
+      "voice_over_music_rms_db": 21.37679859211861,
+      "required_db": 21
+    },
+    {
+      "scene": "V06-S02",
+      "voice_over_music_rms_db": 21.34268987097324,
+      "required_db": 21
+    },
+    {
+      "scene": "V06-S03",
+      "voice_over_music_rms_db": 20.999999999998252,
+      "required_db": 21
+    },
+    {
+      "scene": "V06-S04",
+      "voice_over_music_rms_db": 21.134607291909848,
+      "required_db": 21
+    },
+    {
+      "scene": "V06-S05",
+      "voice_over_music_rms_db": 21.37805749972246,
+      "required_db": 21
+    },
+    {
+      "scene": "V06-S06",
+      "voice_over_music_rms_db": 24.03800736048521,
+      "required_db": 24
+    }
+  ],
+  "contact_sheet": "revision/qa/bupa_proteccion/contacto_6_escenas.jpg",
+  "sampled_frames": [
+    "revision/qa/bupa_proteccion/V06-S01.png",
+    "revision/qa/bupa_proteccion/V06-S02.png",
+    "revision/qa/bupa_proteccion/V06-S03.png",
+    "revision/qa/bupa_proteccion/V06-S04.png",
+    "revision/qa/bupa_proteccion/V06-S05.png",
+    "revision/qa/bupa_proteccion/V06-S06.png"
+  ],
+  "human_review": "PENDIENTE_ESCUCHA_Y_REPRODUCCION_COMPLETA",
+  "publication": "BLOQUEADA_FICHAS_IDENTIDAD_MARCA_MOVIL"
+}

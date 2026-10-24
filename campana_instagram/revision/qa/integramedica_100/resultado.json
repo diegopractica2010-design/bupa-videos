@@ -1,0 +1,89 @@
+{
+  "id": "V08",
+  "file": "videos/integramedica_100.mp4",
+  "sha256": "ba719c02905371babedea4b91f2f5153c5348b1d0632a8dd8c81588b35efd007",
+  "checks": {
+    "dimensions": true,
+    "fps": true,
+    "frame_count": true,
+    "duration": true,
+    "video_codec": true,
+    "rec709": true,
+    "audio_codec": true,
+    "faststart": true,
+    "cfr_timestamps": true,
+    "full_decode": true,
+    "mix_lufs": true,
+    "mix_truepeak": true,
+    "no_black_intervals": true,
+    "subtitles": true,
+    "voice_music_balance": true,
+    "subtitle_font_no_host_fallback": true,
+    "render_hash_matches": true,
+    "source_inputs_current": true,
+    "file_unchanged_during_qa": true
+  },
+  "loudness_mix": {
+    "input_i": "-16.22",
+    "input_tp": "-2.08",
+    "input_lra": "4.00",
+    "input_thresh": "-27.45",
+    "output_i": "-16.13",
+    "output_tp": "-2.01",
+    "output_lra": "3.90",
+    "output_thresh": "-27.25",
+    "normalization_type": "dynamic",
+    "target_offset": "0.13"
+  },
+  "black_intervals": [],
+  "subtitle_validation": {
+    "events": 10,
+    "text_literal": true,
+    "format_and_order": true,
+    "matches_voice_model_times": true,
+    "human_sync": "PENDIENTE"
+  },
+  "voice_music_balance_pre_loudnorm": [
+    {
+      "scene": "V08-S01",
+      "voice_over_music_rms_db": 21.15706259524879,
+      "required_db": 21
+    },
+    {
+      "scene": "V08-S02",
+      "voice_over_music_rms_db": 21.20342702711303,
+      "required_db": 21
+    },
+    {
+      "scene": "V08-S03",
+      "voice_over_music_rms_db": 21.706841595146887,
+      "required_db": 21
+    },
+    {
+      "scene": "V08-S04",
+      "voice_over_music_rms_db": 20.99999999999826,
+      "required_db": 21
+    },
+    {
+      "scene": "V08-S05",
+      "voice_over_music_rms_db": 21.274134935929702,
+      "required_db": 21
+    },
+    {
+      "scene": "V08-S06",
+      "voice_over_music_rms_db": 24.187758943357785,
+      "required_db": 24
+    }
+  ],
+  "contact_sheet": "revision/qa/integramedica_100/contacto_6_escenas.jpg",
+  "sampled_frames": [
+    "revision/qa/integramedica_100/V08-S01.png",
+    "revision/qa/integramedica_100/V08-S02.png",
+    "revision/qa/integramedica_100/V08-S03.png",
+    "revision/qa/integramedica_100/V08-S04.png",
+    "revision/qa/integramedica_100/V08-S05.png",
+    "revision/qa/integramedica_100/V08-S06.png"
+  ],
+  "human_review": "PENDIENTE_ESCUCHA_Y_REPRODUCCION_COMPLETA",
+  "publication": "BLOQUEADA_FICHAS_IDENTIDAD_MARCA_MOVIL"
+}

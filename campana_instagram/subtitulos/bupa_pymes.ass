@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat,48,&H00FFFFFF,&H00FFFFFF,&H263F2B10,&H263F2B10,-1,0,0,0,100,100,0,0,3,16,0,7,112,112,930,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.08,0:00:02.53,Sub,,0,0,0,,{\pos(112,946)}Si evalúas beneficios\Npara tu empresa,
+Dialogue: 0,0:00:02.56,0:00:04.33,Sub,,0,0,0,,{\pos(112,946)}revisa los requisitos del grupo.
+Dialogue: 0,0:00:05.41,0:00:07.21,Sub,,0,0,0,,{\pos(112,946)}Conoce el Seguro Bupa Pymes.
+Dialogue: 0,0:00:09.18,0:00:11.89,Sub,,0,0,0,,{\pos(112,946)}Hay alternativas desde\Ncinco titulares. El
+Dialogue: 0,0:00:11.89,0:00:14.31,Sub,,0,0,0,,{\pos(112,946)}plan ochenta por ciento\Nparte desde quince.
+Dialogue: 0,0:00:15.35,0:00:18.01,Sub,,0,0,0,,{\pos(112,946)}La adhesión mínima es\Ndel ochenta por ciento.
+Dialogue: 0,0:00:19.95,0:00:21.85,Sub,,0,0,0,,{\pos(112,946)}Revisa cantidad de titulares,
+Dialogue: 0,0:00:21.88,0:00:24.01,Sub,,0,0,0,,{\pos(112,946)}requisitos y combinación\Nde coberturas.
+Dialogue: 0,0:00:25.08,0:00:28.77,Sub,,0,0,0,,{\pos(112,946)}Consulta requisitos y cotización\Nde Bupa Pymes por WhatsApp.

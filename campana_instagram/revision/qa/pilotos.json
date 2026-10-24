@@ -1,0 +1,284 @@
+{
+  "status": "COMPLETE_PILOTS_ONLY",
+  "selected": [
+    "V03",
+    "V07",
+    "V08"
+  ],
+  "technical_pass_selected": true,
+  "videos": [
+    {
+      "id": "V03",
+      "file": "videos/bupa_complementa.mp4",
+      "sha256": "056cf8190b463d1501ecaa947e758cff59cd4f92f008af6b4e8ddb9736222c7f",
+      "checks": {
+        "dimensions": true,
+        "fps": true,
+        "frame_count": true,
+        "duration": true,
+        "video_codec": true,
+        "rec709": true,
+        "audio_codec": true,
+        "faststart": true,
+        "cfr_timestamps": true,
+        "full_decode": true,
+        "mix_lufs": true,
+        "mix_truepeak": true,
+        "no_black_intervals": true,
+        "subtitles": true,
+        "voice_music_balance": true,
+        "render_hash_matches": true,
+        "source_inputs_current": true,
+        "file_unchanged_during_qa": true
+      },
+      "loudness_mix": {
+        "input_i": "-16.29",
+        "input_tp": "-2.18",
+        "input_lra": "5.50",
+        "input_thresh": "-27.76",
+        "output_i": "-16.20",
+        "output_tp": "-2.15",
+        "output_lra": "4.80",
+        "output_thresh": "-27.60",
+        "normalization_type": "dynamic",
+        "target_offset": "0.20"
+      },
+      "black_intervals": [],
+      "subtitle_validation": {
+        "events": 8,
+        "text_literal": true,
+        "format_and_order": true,
+        "matches_voice_model_times": true,
+        "human_sync": "PENDIENTE"
+      },
+      "voice_music_balance_pre_loudnorm": [
+        {
+          "scene": "V03-S01",
+          "voice_over_music_rms_db": 21.234181302396223,
+          "required_db": 21
+        },
+        {
+          "scene": "V03-S02",
+          "voice_over_music_rms_db": 20.999999999998302,
+          "required_db": 21
+        },
+        {
+          "scene": "V03-S03",
+          "voice_over_music_rms_db": 21.381114058287096,
+          "required_db": 21
+        },
+        {
+          "scene": "V03-S04",
+          "voice_over_music_rms_db": 21.638556592941075,
+          "required_db": 21
+        },
+        {
+          "scene": "V03-S05",
+          "voice_over_music_rms_db": 21.532376346626194,
+          "required_db": 21
+        },
+        {
+          "scene": "V03-S06",
+          "voice_over_music_rms_db": 24.108740627754145,
+          "required_db": 24
+        }
+      ],
+      "contact_sheet": "revision/qa/bupa_complementa/contacto_6_escenas.jpg",
+      "sampled_frames": [
+        "revision/qa/bupa_complementa/V03-S01.png",
+        "revision/qa/bupa_complementa/V03-S02.png",
+        "revision/qa/bupa_complementa/V03-S03.png",
+        "revision/qa/bupa_complementa/V03-S04.png",
+        "revision/qa/bupa_complementa/V03-S05.png",
+        "revision/qa/bupa_complementa/V03-S06.png"
+      ],
+      "human_review": "PENDIENTE_ESCUCHA_Y_REPRODUCCION_COMPLETA",
+      "publication": "BLOQUEADA_FICHAS_IDENTIDAD_MARCA_MOVIL"
+    },
+    {
+      "id": "V07",
+      "file": "videos/bupa_pymes.mp4",
+      "sha256": "a951824b30e0526c5ae4b006ce1c6955b33fe05685904a60257a14710d7386f5",
+      "checks": {
+        "dimensions": true,
+        "fps": true,
+        "frame_count": true,
+        "duration": true,
+        "video_codec": true,
+        "rec709": true,
+        "audio_codec": true,
+        "faststart": true,
+        "cfr_timestamps": true,
+        "full_decode": true,
+        "mix_lufs": true,
+        "mix_truepeak": true,
+        "no_black_intervals": true,
+        "subtitles": true,
+        "voice_music_balance": true,
+        "render_hash_matches": true,
+        "source_inputs_current": true,
+        "file_unchanged_during_qa": true
+      },
+      "loudness_mix": {
+        "input_i": "-16.23",
+        "input_tp": "-2.15",
+        "input_lra": "3.90",
+        "input_thresh": "-27.67",
+        "output_i": "-16.17",
+        "output_tp": "-1.88",
+        "output_lra": "3.80",
+        "output_thresh": "-27.57",
+        "normalization_type": "dynamic",
+        "target_offset": "0.17"
+      },
+      "black_intervals": [],
+      "subtitle_validation": {
+        "events": 9,
+        "text_literal": true,
+        "format_and_order": true,
+        "matches_voice_model_times": true,
+        "human_sync": "PENDIENTE"
+      },
+      "voice_music_balance_pre_loudnorm": [
+        {
+          "scene": "V07-S01",
+          "voice_over_music_rms_db": 21.541811051975216,
+          "required_db": 21
+        },
+        {
+          "scene": "V07-S02",
+          "voice_over_music_rms_db": 21.186628687336523,
+          "required_db": 21
+        },
+        {
+          "scene": "V07-S03",
+          "voice_over_music_rms_db": 20.999999999998252,
+          "required_db": 21
+        },
+        {
+          "scene": "V07-S04",
+          "voice_over_music_rms_db": 21.719712678296233,
+          "required_db": 21
+        },
+        {
+          "scene": "V07-S05",
+          "voice_over_music_rms_db": 21.307451726119172,
+          "required_db": 21
+        },
+        {
+          "scene": "V07-S06",
+          "voice_over_music_rms_db": 24.053095242998634,
+          "required_db": 24
+        }
+      ],
+      "contact_sheet": "revision/qa/bupa_pymes/contacto_6_escenas.jpg",
+      "sampled_frames": [
+        "revision/qa/bupa_pymes/V07-S01.png",
+        "revision/qa/bupa_pymes/V07-S02.png",
+        "revision/qa/bupa_pymes/V07-S03.png",
+        "revision/qa/bupa_pymes/V07-S04.png",
+        "revision/qa/bupa_pymes/V07-S05.png",
+        "revision/qa/bupa_pymes/V07-S06.png"
+      ],
+      "human_review": "PENDIENTE_ESCUCHA_Y_REPRODUCCION_COMPLETA",
+      "publication": "BLOQUEADA_FICHAS_IDENTIDAD_MARCA_MOVIL"
+    },
+    {
+      "id": "V08",
+      "file": "videos/integramedica_100.mp4",
+      "sha256": "aa6e3628bb083beb72126e3ff1ff0c4b07a581a42a97387b8fa357c21580a133",
+      "checks": {
+        "dimensions": true,
+        "fps": true,
+        "frame_count": true,
+        "duration": true,
+        "video_codec": true,
+        "rec709": true,
+        "audio_codec": true,
+        "faststart": true,
+        "cfr_timestamps": true,
+        "full_decode": true,
+        "mix_lufs": true,
+        "mix_truepeak": true,
+        "no_black_intervals": true,
+        "subtitles": true,
+        "voice_music_balance": true,
+        "render_hash_matches": true,
+        "source_inputs_current": true,
+        "file_unchanged_during_qa": true
+      },
+      "loudness_mix": {
+        "input_i": "-16.22",
+        "input_tp": "-2.08",
+        "input_lra": "4.00",
+        "input_thresh": "-27.45",
+        "output_i": "-16.13",
+        "output_tp": "-2.01",
+        "output_lra": "3.90",
+        "output_thresh": "-27.25",
+        "normalization_type": "dynamic",
+        "target_offset": "0.13"
+      },
+      "black_intervals": [],
+      "subtitle_validation": {
+        "events": 10,
+        "text_literal": true,
+        "format_and_order": true,
+        "matches_voice_model_times": true,
+        "human_sync": "PENDIENTE"
+      },
+      "voice_music_balance_pre_loudnorm": [
+        {
+          "scene": "V08-S01",
+          "voice_over_music_rms_db": 21.15706259524879,
+          "required_db": 21
+        },
+        {
+          "scene": "V08-S02",
+          "voice_over_music_rms_db": 21.20342702711303,
+          "required_db": 21
+        },
+        {
+          "scene": "V08-S03",
+          "voice_over_music_rms_db": 21.706841595146887,
+          "required_db": 21
+        },
+        {
+          "scene": "V08-S04",
+          "voice_over_music_rms_db": 20.99999999999826,
+          "required_db": 21
+        },
+        {
+          "scene": "V08-S05",
+          "voice_over_music_rms_db": 21.274134935929702,
+          "required_db": 21
+        },
+        {
+          "scene": "V08-S06",
+          "voice_over_music_rms_db": 24.187758943357785,
+          "required_db": 24
+        }
+      ],
+      "contact_sheet": "revision/qa/integramedica_100/contacto_6_escenas.jpg",
+      "sampled_frames": [
+        "revision/qa/integramedica_100/V08-S01.png",
+        "revision/qa/integramedica_100/V08-S02.png",
+        "revision/qa/integramedica_100/V08-S03.png",
+        "revision/qa/integramedica_100/V08-S04.png",
+        "revision/qa/integramedica_100/V08-S05.png",
+        "revision/qa/integramedica_100/V08-S06.png"
+      ],
+      "human_review": "PENDIENTE_ESCUCHA_Y_REPRODUCCION_COMPLETA",
+      "publication": "BLOQUEADA_FICHAS_IDENTIDAD_MARCA_MOVIL"
+    }
+  ],
+  "geometry": {
+    "checked_items": 520,
+    "missing_scenes": [],
+    "errors": [],
+    "text_overlaps": [],
+    "pass": true
+  },
+  "entrega_completa_validada": false,
+  "scope": "Evidencia histórica de fase piloto, anterior a cierre etiquetado WhatsApp y corrección de fuente. NO corresponde a los MP4 definitivos; usar resumen.json."
+}

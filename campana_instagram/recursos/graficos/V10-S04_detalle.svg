@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#F4F8FA"/>
+<ellipse cx="1012.0" cy="1810.0" rx="220.0" ry="220.0" fill="none" stroke="#E4EEF3" stroke-width="2"/>
+<ellipse cx="1012.0" cy="1810.0" rx="140.0" ry="140.0" fill="none" stroke="#E4EEF3" stroke-width="2"/>
+<polyline points="96.00,258.00 960.00,258.00" fill="none" stroke="#C8DCE7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="100.0" cy="252.0" rx="4.0" ry="4.0" fill="#C8DCE7" stroke="none" stroke-width="4"/>
+<ellipse cx="124.0" cy="252.0" rx="4.0" ry="4.0" fill="#C8DCE7" stroke="none" stroke-width="4"/>
+<ellipse cx="148.0" cy="252.0" rx="4.0" ry="4.0" fill="#C8DCE7" stroke="none" stroke-width="4"/>
+<ellipse cx="172.0" cy="252.0" rx="4.0" ry="4.0" fill="#0079B8" stroke="none" stroke-width="4"/>
+<ellipse cx="196.0" cy="252.0" rx="4.0" ry="4.0" fill="#C8DCE7" stroke="none" stroke-width="4"/>
+<ellipse cx="220.0" cy="252.0" rx="4.0" ry="4.0" fill="#C8DCE7" stroke="none" stroke-width="4"/>
+<text x="96" y="300" dominant-baseline="text-before-edge" font-family="Montserrat" font-weight="700" font-size="40" fill="#15384F">Seguros de Salud Global Bupa</text>
+<polyline points="96.00,420.00 168.00,420.00" fill="none" stroke="#0079B8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="96" y="450" dominant-baseline="text-before-edge" font-family="Montserrat" font-weight="800" font-size="64" fill="#15384F">Cobertura sujeta al plan</text>
+<text x="96" y="1110" dominant-baseline="text-before-edge" font-family="Montserrat" font-weight="700" font-size="32" fill="#15384F">No es una promesa de asistencia de viaje ni de</text>
+<text x="96" y="1149" dominant-baseline="text-before-edge" font-family="Montserrat" font-weight="700" font-size="32" fill="#15384F">rescate aéreo.</text>
+<polyline points="96.00,1426.00 960.00,1426.00" fill="none" stroke="#C8DCE7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="96" y="1450" dominant-baseline="text-before-edge" font-family="Montserrat" font-weight="700" font-size="28" fill="#536F80">REVISIÓN INTERNA</text>
+</svg>

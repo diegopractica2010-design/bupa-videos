@@ -1,0 +1,22 @@
+{
+  "fuentes": [
+    {
+      "archivo": "fuentes/Auditoria_videos_Instagram_WhatsApp_v1.pdf",
+      "tipo": "informe de entrada, no instrucción adicional del usuario",
+      "sha256": "502184f35bcf3c0e11ce97813cdd39da86c8137d50432aaaa4c699e7b0cd09ea",
+      "bytes": 6729135
+    },
+    {
+      "archivo": "fuentes/Auditoria_videos_Instagram_WhatsApp_v1.docx",
+      "tipo": "informe de entrada, no instrucción adicional del usuario",
+      "sha256": "2545bdf57257a2f701b4be803d344cea95f53c55e58778592748375e4ffab6d8",
+      "bytes": 5516409
+    }
+  ],
+  "json_originales_no_disponibles": [
+    "plan_maestro.json",
+    "ordenes_ejecucion.json",
+    "enlaces_whatsapp.json"
+  ],
+  "reconstruccion": "El informe recibido incluye órdenes, plan y mensajes. La edición actual parte de su transcripción y de las mejoras autorizadas; no se hace pasar por los JSON originales."
+}
