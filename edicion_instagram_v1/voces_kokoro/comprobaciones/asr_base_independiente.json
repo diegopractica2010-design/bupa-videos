@@ -1,0 +1,74 @@
+[
+  {
+    "id": "V01",
+    "esperado": "Cuidar la salud también es mantener la autonomía. Conoce el Plan IntegraMédica Adulto Mayor setenta por ciento. Entrega un setenta por ciento de cobertura sobre el copago en atenciones ambulatorias incluidas. En la red IntegraMédica, con topes y requisitos de edad. Revisemos juntos si se ajusta a lo que necesitas. Cotiza el Plan Adulto Mayor setenta por ciento por WhatsApp.",
+    "asr": "cuidar la salud también es mantener la autonomía. Conozce el plan integral médica adulto mayor 70% entrega un 70% de cobertura sobre el copago en atención esambulatorias incluidas en la red integral médica con topes y requisitos de edad. Previsemos juntos si se ajusta a lo que necesitas. cotiza el plan adulto mayor 70% por WhatsApp.",
+    "segmentos": [
+      {
+        "start": 0,
+        "end": 25.0,
+        "asr": "cuidar la salud también es mantener la autonomía. Conozce el plan integral médica adulto mayor 70% entrega un 70% de cobertura sobre el copago en atención esambulatorias incluidas en la red integral médica con topes y requisitos de edad. Previsemos juntos si se ajusta a lo que necesitas."
+      },
+      {
+        "start": 25.0,
+        "end": 30.0,
+        "asr": "cotiza el plan adulto mayor 70% por WhatsApp."
+      }
+    ],
+    "nota": "Reconocimiento automático; puede confundir marcas, cifras o alucinar. No sustituye escucha humana ni certifica cada palabra."
+  },
+  {
+    "id": "V02",
+    "esperado": "Un gasto médico importante merece planificación. Conoce el Seguro Bupa Catastrófico. Ofrece protección para enfermedades y accidentes de alto costo. Con libre elección de prestador y condiciones según tu sistema de salud. Revisa topes, deducibles y requisitos antes de contratar. Cotiza tu Seguro Bupa Catastrófico por WhatsApp.",
+    "asr": "Un gasto médico importante merece planificación, conoce el seguro Bupa Catastrófico. ofrece protección para enfermedades y accidentes de alto costo. Con libre elección de prestador y condiciones, según tu sistema de salud. Previsa topes, deducibles y requisitos antes de contratar. Contiza tu seguro Bupa Catastrófico por WhatsApp.",
+    "nota": "Reconocimiento automático; puede confundir marcas, cifras o alucinar colas. No sustituye escucha humana ni certifica cada palabra."
+  },
+  {
+    "id": "V03",
+    "esperado": "Tu plan de Isapre puede complementarse. Conoce el Seguro Bupa Complementa. Su cobertura se aplica sobre copagos de prestaciones incluidas. En la misma proporción que tu Isapre, con topes y condiciones. Revisemos cobertura, red y exclusiones antes de contratar. Cotiza tu Seguro Bupa Complementa por WhatsApp.",
+    "asr": "Tu plan de isapre puede complementarse. Conoce el seguro Bupa complementa. Tu cobertura se aplica sobre copagos de prestaciones incluidas. En la misma proporción que tu isapre con topes y condiciones. Previsemos cobertura, redes y exclusiones antes de contratar. Kotisa tu seguro Bupa complementa por WhatsApp.",
+    "nota": "Reconocimiento automático; puede confundir marcas, cifras o alucinar colas. No sustituye escucha humana ni certifica cada palabra."
+  },
+  {
+    "id": "V04",
+    "esperado": "Un seguro se elige entendiendo su cobertura. Conoce el Seguro Bupa Cuidado Total. Incluye coberturas para consultas, exámenes y hospitalización según el plan contratado. Revisemos los prestadores, topes y exclusiones que corresponden. Así puedes decidir con información clara. Cotiza tu Seguro Bupa Cuidado Total por WhatsApp.",
+    "asr": "Un seguro se elige entendiendo su cobertura. Conozce el seguro \"Bupa Cuidado Total\". Incluye coberturas para consultas, exámenes y hospitalización según el plan contratado. Previsemos los prestadores, topes y exclusiones que corresponden. Así puedes decidir con información clara. Kotisa tu seguro \"Bupa Cuidado Total\" por WhatsApp.",
+    "nota": "Reconocimiento automático; puede confundir marcas, cifras o alucinar colas. No sustituye escucha humana ni certifica cada palabra."
+  },
+  {
+    "id": "V05",
+    "esperado": "También hay seguros complementarios para afiliados a Fonasa. Conoce el Seguro Bupa MultiSalud. Ofrece coberturas ambulatorias y hospitalarias en su red de prestadores. Los porcentajes y topes dependen de la red y las condiciones. Revisemos qué alternativa corresponde a tus necesidades. Cotiza tu Seguro Bupa MultiSalud por WhatsApp.",
+    "asr": "También hay seguros complementarios para filiados a Fonasa. Conozce el seguro \"Bupa Multisalud\". ofrece coberturas, ambulatorias y hospitalarias en su red de prestadores. Los porcentajes y topes dependen de la red y las condiciones. Previsemos que alternativa corresponde a tus necesidades. Coticca tu seguro \"Bupa Multisalud\" por WhatsApp.",
+    "nota": "Reconocimiento automático; puede confundir marcas, cifras o alucinar colas. No sustituye escucha humana ni certifica cada palabra."
+  },
+  {
+    "id": "V06",
+    "esperado": "Para familias afiliadas a Fonasa. Conoce el Seguro Bupa más Protección. Con coberturas en Clínica Bupa Santiago y la red IntegraMédica. Revisemos las prestaciones, topes y condiciones de tu alternativa. Elige con información antes de contratar. Cotiza tu Seguro Bupa más Protección por WhatsApp.",
+    "asr": "Para familias afiliadas a Fonasa, conoce el seguro Bupa+ protección Con coberturas en clínica Bupa Santiago y la Red Integra Médica Previsemos las prestaciones, topes y condiciones de tu alternativa Elige con información antes de contratar Cotiza tu seguro Bupa+ protección por WhatsApp",
+    "nota": "Reconocimiento automático; puede confundir marcas, cifras o alucinar colas. No sustituye escucha humana ni certifica cada palabra."
+  },
+  {
+    "id": "V07",
+    "esperado": "Beneficios de salud para tu equipo. Conoce el Seguro Bupa Pymes. Con alternativas desde cinco titulares, según el plan. Puedes combinar cobertura base y adicionales. Revisemos requisitos y adhesión de tu empresa. Cotiza tu Seguro Bupa Pymes por WhatsApp.",
+    "asr": "Beneficios de salud para tu equipo. Conoce el seguro Bupa Pymes. Con alternativas desde cinco titulares, según el plan. Puedes combinar cobertura base y adicionales. Previsemos requisitos y adhesión de tu empresa. Kotisa tu seguro Bupa Pymes por WhatsApp.",
+    "nota": "Reconocimiento automático; puede confundir marcas, cifras o alucinar colas. No sustituye escucha humana ni certifica cada palabra."
+  },
+  {
+    "id": "V08",
+    "esperado": "Conoce una alternativa para tus atenciones ambulatorias. Plan IntegraMédica cien por ciento. Cubre el copago de prestaciones incluidas en la red IntegraMédica. Con tope anual y carencias para determinadas prestaciones. Revisemos requisitos y condiciones antes de contratar. Cotiza tu Plan IntegraMédica cien por ciento por WhatsApp.",
+    "asr": "Conoce una alternativa para tus atenciónes ambulatorias, plan integral médica 100% Cobra el copago de prestaciones incluidas en la red integral médica Contope anual y Karencias para determinadas prestaciones Revisemos requisitos y condiciones antes de contratar Coteza tu plan integral médica 100% por WhatsApp",
+    "nota": "Reconocimiento automático; puede confundir marcas, cifras o alucinar colas. No sustituye escucha humana ni certifica cada palabra."
+  },
+  {
+    "id": "V09",
+    "esperado": "Cuidar tu sonrisa empieza por conocer tus beneficios. Conoce Mi Dental IntegraMédica sesenta y ocho por ciento. Ofrece descuentos sobre el arancel en tratamientos dentales incluidos. Además, contempla limpieza anual y radiografías según los topes del plan. Revisa las condiciones de la red dental. Cotiza Mi Dental IntegraMédica por WhatsApp.",
+    "asr": "Cuidar tu sonrisa empieza por conocer tus beneficios, conoce mi dental integral médica 60 y 8 por ciento. ofrece descuento sobre el arancel en tratamientos dentales incluidos. Demas contempla la impieza anual y radiografías según los topes del plan. Previsa las condiciones de la red dental. Cotiza mi dental integral médica por WhatsApp.",
+    "nota": "Reconocimiento automático; puede confundir marcas, cifras o alucinar colas. No sustituye escucha humana ni certifica cada palabra."
+  },
+  {
+    "id": "V10",
+    "esperado": "Tu salud también merece planificación internacional. Conoce los Seguros de Salud Global Bupa. Hay alternativas de cobertura médica en Chile y en el extranjero. El alcance depende del plan y sus condiciones. Revisemos requisitos, territorio y beneficios. Cotiza tu alternativa Salud Global Bupa por WhatsApp.",
+    "asr": "Tu salud también merece planificación internacional, conoce los seguros de salud global Bupa. Hay alternativas de cobertura médica en Chile y en el extranjero. El alcance depende del plan y sus condiciones. Previsemos requisitos, territorio y beneficios. Coteza tu alternativa salud global Bupa por WhatsApp.",
+    "nota": "Reconocimiento automático; puede confundir marcas, cifras o alucinar colas. No sustituye escucha humana ni certifica cada palabra."
+  }
+]

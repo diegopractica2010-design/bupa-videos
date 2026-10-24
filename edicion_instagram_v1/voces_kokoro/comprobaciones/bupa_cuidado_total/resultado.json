@@ -1,0 +1,67 @@
+{
+  "id": "V04",
+  "file": "renders_con_voz/bupa_cuidado_total_instagram_whatsapp_voz_v2_REVISION.mp4",
+  "sha256": "67272d182448e61b2de0e6b9168fc2d89844df77934005159d4578e14a508057",
+  "checks": {
+    "dimensions": true,
+    "fps": true,
+    "frames": true,
+    "duration": true,
+    "video_codec": true,
+    "rec709": true,
+    "audio": true,
+    "faststart": true,
+    "full_decode": true,
+    "mix_lufs": true,
+    "mix_truepeak": true,
+    "background_conversion": true
+  },
+  "loudness_mix": {
+    "input_i": "-16.16",
+    "input_tp": "-2.20",
+    "input_lra": "5.60",
+    "input_thresh": "-27.49",
+    "output_i": "-16.22",
+    "output_tp": "-2.01",
+    "output_lra": "5.50",
+    "output_thresh": "-27.34",
+    "normalization_type": "dynamic",
+    "target_offset": "0.22"
+  },
+  "background_rgb_samples": [
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ]
+  ],
+  "missing_stock": [],
+  "publication": "BLOQUEADA",
+  "voice": "SINTETICA_EF_DORA_ES_419_KOKORO_APACHE2",
+  "subtitle_sync": "TIEMPOS_FONETICOS_MODELO_PENDIENTE_ESCUCHA_HUMANA"
+}

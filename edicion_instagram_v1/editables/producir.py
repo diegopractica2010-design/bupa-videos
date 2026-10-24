@@ -122,9 +122,11 @@ def build_art(v,s,variant=False):
  for item in layout_checks[layout_start:]:item['scene']=s['id'];item['variant']=variant
  c.save(p);return p.with_suffix('.png')
 def ass_time(t):
- return f'{int(t//3600)}:{int(t//60)%60:02}:{int(t)%60:02}.{round((t%1)*100):02}'
+ units=round(t*100);seconds,fraction=divmod(units,100);minutes,seconds=divmod(seconds,60);hours,minutes=divmod(minutes,60)
+ return f'{hours}:{minutes:02}:{seconds:02}.{fraction:02}'
 def srt_time(t):
- return f'{int(t//3600):02}:{int(t//60)%60:02}:{int(t)%60:02},{round((t%1)*1000):03}'
+ units=round(t*1000);seconds,fraction=divmod(units,1000);minutes,seconds=divmod(seconds,60);hours,minutes=divmod(minutes,60)
+ return f'{hours:02}:{minutes:02}:{seconds:02},{fraction:03}'
 def subtitle_chunks(txt):
  lines=textwrap.wrap(txt,width=32,break_long_words=False,break_on_hyphens=False)
  return [lines[i:i+2] for i in range(0,len(lines),2)]

@@ -1,0 +1,67 @@
+{
+  "id": "V08",
+  "file": "renders_con_voz/integramedica_100_instagram_whatsapp_voz_v2_REVISION.mp4",
+  "sha256": "1d98f839ba80dbf1a35400ad29feee8d55bd4a111f51f0ebf1c8bc48b18e02d1",
+  "checks": {
+    "dimensions": true,
+    "fps": true,
+    "frames": true,
+    "duration": true,
+    "video_codec": true,
+    "rec709": true,
+    "audio": true,
+    "faststart": true,
+    "full_decode": true,
+    "mix_lufs": true,
+    "mix_truepeak": true,
+    "background_conversion": true
+  },
+  "loudness_mix": {
+    "input_i": "-16.29",
+    "input_tp": "-2.15",
+    "input_lra": "4.90",
+    "input_thresh": "-27.79",
+    "output_i": "-16.35",
+    "output_tp": "-1.71",
+    "output_lra": "5.30",
+    "output_thresh": "-27.61",
+    "normalization_type": "dynamic",
+    "target_offset": "0.35"
+  },
+  "background_rgb_samples": [
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ],
+    [
+      240,
+      246,
+      247
+    ]
+  ],
+  "missing_stock": [],
+  "publication": "BLOQUEADA",
+  "voice": "SINTETICA_EF_DORA_ES_419_KOKORO_APACHE2",
+  "subtitle_sync": "TIEMPOS_FONETICOS_MODELO_PENDIENTE_ESCUCHA_HUMANA"
+}

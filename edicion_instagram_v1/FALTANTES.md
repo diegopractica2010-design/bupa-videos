@@ -1,3 +1,5 @@
+> Actualización posterior: la producción de voz sintética y su integración están resueltas en `renders_con_voz/` y `voces_kokoro/`. Consulta `voces_kokoro/ENTREGA_VOCES.md` para la revisión actual. Las menciones a ausencia de voz en el documento siguiente describen la entrega anterior, conservada en `renders_revision/`. La escucha humana, acento/pronunciación, marca, tomas y conformidad comercial siguen pendientes. No se han aprobado anuncios.
+
 # Archivos y verificaciones pendientes al entregar
 
 El PC no se necesita para revisar los entregables ya producidos en la nube. Para completar el montaje final faltan los siguientes archivos; no estaban en el RAR/7z recibido, que contenía únicamente los diez MP4.
@@ -38,9 +40,9 @@ Para cada clip se necesita su evidencia de procedencia y licencia aplicable. La 
 
 ## 4. Voz y conformidad final
 
-- Grabación nueva autorizada por producto con el guion literal, o proveedor de voz con derechos comerciales confirmados; no se necesita clonar a una persona.
+- Producción de voz: RESUELTA con locución sintética Kokoro y licencia documentada. Falta escucha humana de pronunciación, acento/naturalidad y conformidad de la marca con la locución. Una voz humana sería una alternativa futura, no un archivo obligatorio para reproducir estas pruebas.
 - Confirmación de vigencia de las fichas/condiciones aplicables a la oferta y conformidad comercial del texto. Los textos del informe son la única base recibida; no se añadieron condiciones.
-- Después de incorporar voz: sincronía real de subtítulos, ajuste de pausas sin cortar palabras ni acelerar >1,05×, música al menos 18 dB bajo RMS de voz, caída adicional de 3 dB al cierre, loudness final y escucha humana.
+- Voz ya integrada sin cortar palabras ni superar 1,05×, música al menos 21 dB bajo voz y otros 3 dB al cierre; loudness/picos y timestamps comprobados. Sigue pendiente la validación perceptiva de sincronía y la escucha humana en teléfono/auriculares.
 - Revisión en teléfono y apertura de cada enlace de WhatsApp sin enviar mensajes; conexión del número y botón en la cuenta publicitaria solo cuando se prepare esa fase.
 - Revisión de marca, licencias, móvil y requisitos vigentes de Meta antes de publicar. No se ha autorizado ni ejecutado esa publicación.
 

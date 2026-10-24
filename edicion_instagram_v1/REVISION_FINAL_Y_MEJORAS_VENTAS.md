@@ -1,3 +1,5 @@
+> Actualización posterior: la producción de voz sintética y su integración están resueltas en `renders_con_voz/` y `voces_kokoro/`. Consulta `voces_kokoro/ENTREGA_VOCES.md` para la revisión actual. Las menciones a ausencia de voz en el documento siguiente describen la entrega anterior, conservada en `renders_revision/`. La escucha humana, acento/pronunciación, marca, tomas y conformidad comercial siguen pendientes. No se han aprobado anuncios.
+
 # Revisión de la entrega y mejoras orientadas a ventas
 
 ## Dictamen
@@ -23,7 +25,7 @@ La calidad de anuncio terminado requiere voz autorizada, tomas limpias definitiv
 
 | Prioridad | Mejora pendiente | Por qué puede ayudar | Qué se necesita |
 | --- | --- | --- | --- |
-| P0 | Completar voz natural autorizada y tomas limpias | Da contexto humano y permite entender el mensaje sin depender solo de lectura | Ocho clips fuente, procedencia y voz comercial autorizada |
+| P0 | Voz sintética producida; completar tomas limpias y revisar percepción | Da contexto humano y permite entender el mensaje sin depender solo de lectura | Ocho clips fuente, procedencia y escucha de pronunciación/naturalidad |
 | P0 | Incorporar logos oficiales y validar cada producto | Evita confusión de identidad, red o condiciones | Marca y ficha vigente por familia |
 | P0 | Revisar en teléfono, con y sin sonido | Comprueba tamaño real, ritmo de lectura y comprensión | Prueba humana; no basta un fotograma |
 | P0 | Verificar WhatsApp sin enviar mensajes | Evita que interés real termine en un destino o producto incorrecto | Teléfono y cuenta vinculada cuando se prepare publicación |

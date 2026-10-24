@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat,48,&H00FFFFFF,&H00FFFFFF,&H263F2B10,&H263F2B10,-1,0,0,0,100,100,0,0,3,16,0,7,112,112,930,1
+Style: Review,Montserrat,28,&H00404090,&H00404090,&H00FAF8F4,&H00FAF8F4,-1,0,0,0,100,100,0,0,1,0,0,7,96,96,1300,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:02.16,Sub,,0,0,0,,{\pos(112,946)}Beneficios de salud para tu\Nequipo.
+Dialogue: 0,0:00:03.10,0:00:04.90,Sub,,0,0,0,,{\pos(112,946)}Conoce el Seguro Bupa Pymes.
+Dialogue: 0,0:00:07.07,0:00:10.34,Sub,,0,0,0,,{\pos(112,946)}Con alternativas desde cinco\Ntitulares, según el plan.
+Dialogue: 0,0:00:11.07,0:00:13.76,Sub,,0,0,0,,{\pos(112,946)}Puedes combinar cobertura base y\Nadicionales.
+Dialogue: 0,0:00:15.07,0:00:17.78,Sub,,0,0,0,,{\pos(112,946)}Revisemos requisitos y adhesión\Nde tu empresa.
+Dialogue: 0,0:00:19.07,0:00:21.71,Sub,,0,0,0,,{\pos(112,946)}Cotiza tu Seguro Bupa Pymes por\NWhatsApp.
+Dialogue: 1,0:00:00.00,0:00:24.00,Review,,0,0,0,,REVISIÓN INTERNA · NO PUBLICAR\NVoz sintética · marca pendiente

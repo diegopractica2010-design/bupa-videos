@@ -5,3 +5,7 @@ recursos/*/concat.txt
 recursos/*/*.sha256
 recursos/*/*.ass
 __pycache__/
+
+# Audio intermedio y cachés de integración de voces
+voces_kokoro/trabajo/
+voces_kokoro/*_mezcla_previa.wav

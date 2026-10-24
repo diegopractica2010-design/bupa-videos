@@ -1,3 +1,5 @@
+> Actualización posterior: la producción de voz sintética y su integración están resueltas en `renders_con_voz/` y `voces_kokoro/`. Consulta `voces_kokoro/ENTREGA_VOCES.md` para la revisión actual. Las menciones a ausencia de voz en el documento siguiente describen la entrega anterior, conservada en `renders_revision/`. La escucha humana, acento/pronunciación, marca, tomas y conformidad comercial siguen pendientes. No se han aprobado anuncios.
+
 # Edición Instagram / WhatsApp · entrega parcial de revisión
 
 Estado: pruebas internas renderizadas, NO versiones finales ni aprobadas para publicación. No se publicaron anuncios, no se activaron campañas y no se enviaron mensajes. Guardar estos entregables en GitHub no publica anuncios ni activa campañas.

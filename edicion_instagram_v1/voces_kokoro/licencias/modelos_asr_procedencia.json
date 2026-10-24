@@ -1,0 +1,12 @@
+{
+  "sherpa-onnx-whisper-tiny.tar.bz2": {
+    "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-whisper-tiny.tar.bz2",
+    "sha256": "c46116994e539aa165266d96b325252728429c12535eb9d8b6a2b10f129e66b1",
+    "bytes": 116204861
+  },
+  "sherpa-onnx-whisper-base.tar.bz2": {
+    "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-whisper-base.tar.bz2",
+    "sha256": "911b2083efd7c0dca2ac3b358b75222660dc09fb716d64fbfc417ba6c99ff3de",
+    "bytes": 207557382
+  }
+}

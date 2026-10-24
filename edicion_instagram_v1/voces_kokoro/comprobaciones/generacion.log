@@ -1,0 +1,68 @@
+[0;93m2026-10-24 04:49:57.003657907 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+ORD-V01-S01 3.024 window 4.0 speed 1.0 OK
+ORD-V01-S02 4.102 window 5.0 speed 1.0 OK
+ORD-V01-S03 5.541 window 6.0 speed 1.0 OK
+ORD-V01-S04 3.398 window 6.0 speed 1.0 OK
+ORD-V01-S05 2.993 window 4.0 speed 1.0 OK
+ORD-V01-S06 3.772 window 5.0 speed 1.0 OK
+ORD-V02-S01 2.954 window 3.0 speed 1.05 EXCEDE
+ORD-V02-S02 2.458 window 4.0 speed 1.0 OK
+ORD-V02-S03 3.675 window 5.0 speed 1.0 OK
+ORD-V02-S04 4.176 window 6.0 speed 1.0 OK
+ORD-V02-S05 3.61 window 5.0 speed 1.0 OK
+ORD-V02-S06 3.153 window 5.0 speed 1.0 OK
+ORD-V03-S01 2.405 window 3.0 speed 1.0 OK
+ORD-V03-S02 2.299 window 4.0 speed 1.0 OK
+ORD-V03-S03 3.91 window 5.0 speed 1.0 OK
+ORD-V03-S04 3.59 window 5.0 speed 1.0 OK
+ORD-V03-S05 3.644 window 4.0 speed 1.0 OK
+ORD-V03-S06 3.035 window 5.0 speed 1.0 OK
+ORD-V04-S01 2.779 window 3.0 speed 1.0 OK
+ORD-V04-S02 2.427 window 4.0 speed 1.0 OK
+ORD-V04-S03 5.12 window 5.0 speed 1.05 EXCEDE
+ORD-V04-S04 3.707 window 5.0 speed 1.0 OK
+ORD-V04-S05 2.651 window 4.0 speed 1.0 OK
+ORD-V04-S06 3.152 window 5.0 speed 1.0 OK
+ORD-V05-S01 3.359 window 3.0 speed 1.05 EXCEDE
+ORD-V05-S02 2.405 window 4.0 speed 1.0 OK
+ORD-V05-S03 4.347 window 5.0 speed 1.0 OK
+ORD-V05-S04 3.718 window 5.0 speed 1.0 OK
+ORD-V05-S05 3.344 window 4.0 speed 1.0 OK
+ORD-V05-S06 3.131 window 5.0 speed 1.0 OK
+ORD-V06-S01 2.225 window 3.0 speed 1.0 OK
+ORD-V06-S02 2.405 window 4.0 speed 1.0 OK
+ORD-V06-S03 3.974 window 5.0 speed 1.0 OK
+ORD-V06-S04 3.856 window 5.0 speed 1.0 OK
+ORD-V06-S05 2.62 window 4.0 speed 1.0 OK
+ORD-V06-S06 3.259 window 5.0 speed 1.0 OK
+ORD-V07-S01 2.159 window 3.0 speed 1.0 OK
+ORD-V07-S02 1.873 window 4.0 speed 1.0 OK
+ORD-V07-S03 3.32 window 4.0 speed 1.0 OK
+ORD-V07-S04 2.747 window 4.0 speed 1.0 OK
+ORD-V07-S05 2.778 window 4.0 speed 1.0 OK
+ORD-V07-S06 2.694 window 5.0 speed 1.0 OK
+ORD-V08-S01 3.2 window 3.0 speed 1.05 EXCEDE
+ORD-V08-S02 2.321 window 4.0 speed 1.0 OK
+ORD-V08-S03 3.91 window 6.0 speed 1.0 OK
+ORD-V08-S04 3.516 window 6.0 speed 1.0 OK
+ORD-V08-S05 3.377 window 4.0 speed 1.0 OK
+ORD-V08-S06 3.759 window 5.0 speed 1.0 OK
+ORD-V09-S01 3.179 window 3.0 speed 1.05 EXCEDE
+ORD-V09-S02 3.697 window 4.0 speed 1.0 OK
+ORD-V09-S03 3.995 window 5.0 speed 1.0 OK
+ORD-V09-S04 4.345 window 5.0 speed 1.0 OK
+ORD-V09-S05 2.427 window 4.0 speed 1.0 OK
+ORD-V09-S06 3.035 window 5.0 speed 1.0 OK
+ORD-V10-S01 3.072 window 3.0 speed 1.05 EXCEDE
+ORD-V10-S02 2.64 window 4.0 speed 1.0 OK
+ORD-V10-S03 3.621 window 4.0 speed 1.0 OK
+ORD-V10-S04 2.875 window 4.0 speed 1.0 OK
+ORD-V10-S05 2.779 window 4.0 speed 1.0 OK
+ORD-V10-S06 3.377 window 5.0 speed 1.0 OK
+Traceback (most recent call last):
+  File "/workspace/bupa-videos/edicion_instagram_v1/voces_kokoro/generar_voces.py", line 34, in <module>
+    assert all(r['fits'] for r in records),'Hay frases que exceden su ventana: no recortar palabras ni acelerar más de 1.05.'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Hay frases que exceden su ventana: no recortar palabras ni acelerar más de 1.05.
+
+DIAGNÓSTICO RESUELTO: los 60 WAV completos se conservaron; seis no cabían en el presupuesto original. integrar.py ajustó once fronteras, conservando duración total/cierre. Las 60 frases caben en ventanas v2, comprobado por agente independiente y cierre_actualizacion.json. El generador actual registra esta condición para integración, sin declarar aprobado el presupuesto original.
